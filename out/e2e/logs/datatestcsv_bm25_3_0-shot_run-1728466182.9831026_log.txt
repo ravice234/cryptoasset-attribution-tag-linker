@@ -1,0 +1,1790 @@
+File: data/gs_test.csv
+Shots: 0
+Time: 7.776038408279419 seconds
+Filter: filter_related_concept
+Blocker: blocker_bm25_3
+K: 5
+CG Recall 0.7288858711686477
+Model: bm25_3
+Loading Time: 0
+Inference Time: 0
+0 Prompts/s
+Recall: 0.7288858711686477
+Precision: 0.7242534034305699
+F1: 0.7192892307428916
+Accuracy: 0.7886133032694476
+
+False;aave_stableDebtTokenAddress - aTUSD;-1;aave;-1
+True;Exmo.com;exmo;exmo;exmo
+True;synthetix_FeePoolEternalStorage;synthetix;synthetix;synthetix
+True;dydx_ExpiryV21;dydx;dydx;dydx
+True;bitfinex Polygon (old) hot wallet;bitfinex;bitfinex;bitfinex
+True;synthetix_BinaryOptionMarketManager;synthetix;synthetix;synthetix
+False;Curve.fi: Deployer;deeplock;curve;deeplock
+True;instadapp_InstaAaveV2MigratorReceiverImplementation137;instadapp;instadapp;instadapp
+True;maker_MCD_CLIP_UNIV2DAIETH_A;maker;maker;maker
+True;vesper_VWBTC-strategy-aave;vesper;vesper;vesper
+False;aave_arc_LendingPoolConfigurator;lendingpond;aave;lendingpond
+True;synthetix_CollateralManagerState;synthetix;synthetix;synthetix
+True;Igot.com;igot;igot;igot
+True;EvolutionMarket;evolutionmarket;evolutionmarket;evolutionmarket
+True;curvefinance_TriCrypto-CurveTokenV4;curve;curve;curve
+False;1inch_AggregationRouterV5;jupiter;1inch;jupiter
+True;synthetix_TokenStatesXRP;synthetix;synthetix;synthetix
+True;bitfinex Bitcoin Cash cold wallet;bitfinex;bitfinex;bitfinex
+False;aave_aAmmUniWBTCWETH;-1;aave;-1
+True;curvefinance_PAX-StableSwapPax;curve;curve;curve
+False;aave_aAmmUSDT;-1;aave;-1
+False;harvestfinance_Sushiswap USDC:WETH Pool;sushiswap;harvestfinance;sushiswap
+True;Bgogo 1;bgogo;bgogo;bgogo
+False;Binance: BNB Token;latoken;binance;latoken
+True;Curve.fi: sUSD v2;curve;curve;curve
+True;CryptoStocks.com;cryptostockscom;cryptostockscom;cryptostockscom
+False;BW.com;-1;bw;-1
+True;curvefinance_Crypto Pool Owner;curve;curve;curve
+True;bitfinex Dash cold wallet;bitfinex;bitfinex;bitfinex
+False;huobi reserve wallets BCH;dovewallet;huobi;dovewallet
+True;compound_Timelock;compound;compound;compound
+True;synthetix_TokenStatesXTZ;synthetix;synthetix;synthetix
+True;bitfinex Tezos (XTZ) cold wallet;bitfinex;bitfinex;bitfinex
+True;BigONE Token (ONE);bigone;bigone;bigone
+True;CloudHashing.com;cloudhashingcom;cloudhashingcom;cloudhashingcom
+True;synthetix_TokenStates1INCH;synthetix;synthetix;synthetix
+True;bitfinex XLM cold wallet;bitfinex;bitfinex;bitfinex
+False;aave_LendingRateOracle;lendingpond;aave;lendingpond
+True;synthetix_TokenStatesUNI;synthetix;synthetix;synthetix
+True;GermanPlazaMarket;germanplazamarket;germanplazamarket;germanplazamarket
+False;OKEx 2;-1;okex;-1
+True;synthetix_ShortingRewardssETH;synthetix;synthetix;synthetix
+True;bitfinex Kusama hot wallet;bitfinex;bitfinex;bitfinex
+True;bitfinex Zcash cold wallet;bitfinex;bitfinex;bitfinex
+False;Binance 21;-1;binance;-1
+True;curvefinance_Vesting Escrow;curve;curve;curve
+False;aave_LendingPoolAddressesProviderRegistry;lendingpond;aave;lendingpond
+True;aave_stableDebtTokenAddress-aAmmUniAAVEWETH;aave;aave;aave
+True;synthetix_SupplySchedule;synthetix;synthetix;synthetix
+False;OKEx 7;-1;okex;-1
+True;maker_PIP_UNIV2LINKETH;maker;maker;maker
+True;Paymium.com;paymium;paymium;paymium
+True;sushiswap_FuroVesting;sushiswap;sushiswap;sushiswap
+True;synthetix_ProxysBTC;synthetix;synthetix;synthetix
+True;AscendEX 3;bitmax;bitmax;bitmax
+False;aave_stableDebtTokenAddress-aAmmUSDC;-1;aave;-1
+True;HitBTC 3;hitbtc;hitbtc;hitbtc
+True;maker_MCD_IAM_AUTO_LINE;maker;maker;maker
+True;uniswap_v3_pool_USDC_ETH_1;uniswap;uniswap;uniswap
+True;synthetix_ProxysXAU;synthetix;synthetix;synthetix
+True;maker_MCD_JOIN_AAVE_A;maker;maker;maker
+False;curvefinance_USDT-StableSwapUSDT;tether;curve;tether
+True;harvestfinance_Delay Minter;harvestfinance;harvestfinance;harvestfinance
+True;synthetix_SynthsAMZN;synthetix;synthetix;synthetix
+False;fei_EthUniswapPCVController;uniswap;feiprotocol;uniswap
+True;maker_MCD_CLIP_CALC_AAVE_A;maker;maker;maker
+True;Bitfinex 1;bitfinex;bitfinex;bitfinex
+True;curvefinance_sBTC Deposit Zap;curve;curve;curve
+False;aave_variableDebtTokenAddress - aKNC;-1;aave;-1
+True;harvestfinance_CRV-YPOOL Pool;harvestfinance;harvestfinance;harvestfinance
+True;curvefinance_HUSD-StableSwapHUSD;curve;curve;curve
+True;fei_Fuse Pool Party FEI PCV Deposit;feiprotocol;feiprotocol;feiprotocol
+False;curvefinance_Compound-StableSwapCompound;component;curve;component
+True;Btc.com;btccom;btccom;btccom
+True;aave_variableDebtTokenAddress - aAAVE;aave;aave;aave
+False;curvefinance_Compound-LiquidityGauge.sol;liquidityfinance;curve;liquidityfinance
+True;convex_CRV Depositor;convex;convex;convex
+True;harvestfinance_PASTA + ETH LP Pool;harvestfinance;harvestfinance;harvestfinance
+True;synthetix_NativeEtherWrapper;synthetix;synthetix;synthetix
+True;Huobi 12;huobi;huobi;huobi
+True;compound_CrowdProposalFactory;compound;compound;compound
+True;Compound: Liquidator;compound;compound;compound
+True;Tidex 1;tidex;tidex;tidex
+True;synthetix_TokenStatesEOS;synthetix;synthetix;synthetix
+True;BigONE;bigone;bigone;bigone
+True;Huobi Pool Token;huobi;huobi;huobi
+True;Compound: Comptroller;compound;compound;compound
+True;Coineal Token (NEAL);coinneal;coinneal;coinneal
+True;bitfinex Tether USDt (Solana) hot wallet;bitfinex;bitfinex;bitfinex
+True;KuCoin: KCS Token;kucoin;kucoin;kucoin
+True;bitfinex Avalanche (C-Chain) cold wallet;bitfinex;bitfinex;bitfinex
+False;aave_stableDebtTokenAddress - aREN;-1;aave;-1
+True;maker_MCD_CLIP_ETH_C;maker;maker;maker
+False;1inch_CHI token;tokenlon;1inch;tokenlon
+True;hegic_Hegic WBTC Staking Lots;hegic;hegic;hegic
+True;maker_CLIP_FAB;maker;maker;maker
+True;hegic_ETH/USD ChainLink price feed;hegic;hegic;hegic
+True;instadapp_UNISWAP-A;instadapp;instadapp;instadapp
+True;sushiswap_Operations Multisig;sushiswap;sushiswap;sushiswap
+False;aave_aAmmWETH;-1;aave;-1
+True;futureswap_FST;futureswap;futureswap;futureswap
+False;fei_UniswapOracle;oracleswap;feiprotocol;oracleswap
+True;synthetix_SynthsXAG;synthetix;synthetix;synthetix
+True;Instawallet.org;instawalletorg;instawalletorg;instawalletorg
+True;Huobi 25;huobi;huobi;huobi
+True;CoinW;coinw;coinw;coinw
+True;compound_StdComptrollerG4;compound;compound;compound
+True;Tokenize Emblem (TKX);tokenize;tokenize;tokenize
+True;curvefinance_RSV-DepositRSV;curve;curve;curve
+True;synthetix_SynthiXRP;synthetix;synthetix;synthetix
+True;Gemini;gemini;gemini;gemini
+True;curvefinance_USDN-StableSwapUSDN;curve;curve;curve
+True;vesper_vBetaUSDC-strategy-aaveV2;vesper;vesper;vesper
+False;Huobi Mining Pool 2;-1;huobi;-1
+True;Kraken 4;kraken;kraken;kraken
+True;convex_Airdrop Factory;convex;convex;convex
+True;harvestfinance_USDC Pool;harvestfinance;harvestfinance;harvestfinance
+True;vesper_VLINK-strategy-vesperMaker;vesper;vesper;vesper
+True;Kraken 2;kraken;kraken;kraken
+True;renvm_DarknodeRegistry;ren;ren;ren
+False;harvestfinance_Sushiswap WBTC:WETH Pool;sushiswap;harvestfinance;sushiswap
+True;Zyado.com;zyado;zyado;zyado
+True;Indodax 1;indodax;indodax;indodax
+True;barnbridge_DAO Rewards Pool;barnbridge;barnbridge;barnbridge
+True;sushiswap_BentoBoxV1;sushiswap;sushiswap;sushiswap
+False;fei_FeiRewardsDistributor;-1;feiprotocol;-1
+True;Dpool;dpool;dpool;dpool
+True;sushiswap_FuroVestingRouter;sushiswap;sushiswap;sushiswap
+True;CrimeNetwork.co;crimenetworkco;crimenetworkco;crimenetworkco
+True;Bitfinex 3;bitfinex;bitfinex;bitfinex
+True;Coincheck.com;coincheck;coincheck;coincheck
+True;Compound: Governor Alpha;compound;compound;compound
+True;synthetix_DappMaintenance;synthetix;synthetix;synthetix
+True;curvefinance_Pool Owner;curve;curve;curve
+False;huobi reserve wallets SHIB;dovewallet;huobi;dovewallet
+True;Compound 0x;compound;compound;compound
+True;Ghash.io;ghashio;ghashio;ghashio
+False;aave_aMANA;-1;aave;-1
+True;badger_SmartTimelock;badger;badger;badger
+True;BIToomBa.com;bitoombacom;bitoombacom;bitoombacom
+True;instadapp_AAVE-V1-A;instadapp;instadapp;instadapp
+False;curvefinance_TriCrypto-LiquidityGaugeV3;liquidityfinance;curve;liquidityfinance
+True;curvefinance_Compound-CurveContractV1;curve;curve;curve
+False;Binance Beacon ETH (BETH);-1;binance;-1
+True;bitfinex Omni cold wallet;bitfinex;bitfinex;bitfinex
+False;fei_GenesisGroup;genesisfinance;feiprotocol;genesisfinance
+True;bitfinex Litecoin hot wallet;bitfinex;bitfinex;bitfinex
+True;synthetix_TokenStatesYFI;synthetix;synthetix;synthetix
+False;fei_RatioPCVController;-1;feiprotocol;-1
+True;BetsOfBitco.in;betsofbitcoin;betsofbitcoin;betsofbitcoin
+True;curvefinance_LPBurner;curve;curve;curve
+True;Zaif;zaif;zaif;zaif
+True;badger_StrategyPickleMetaFarm;badger;badger;badger
+True;Poloniex: ZRX;poloniex;poloniex;poloniex
+True;10xBitco.in;10xbitcoin;10xbitcoin;10xbitcoin
+True;maker_MCD_JOIN_USDT_A;maker;maker;maker
+True;Trade.io: Wallet 2;tradeio;tradeio;tradeio
+False;harvestfinance_fCRV-COMPOUND;compound;harvestfinance;compound
+True;harvestfinance_SUSHI Pool;harvestfinance;harvestfinance;harvestfinance
+True;BTradeAustralia.com;btradeaustralia;btradeaustralia;btradeaustralia
+True;maker_PIP_UNIV2ETHUSDT;maker;maker;maker
+True;maker_MCD_CLIP_USDC_A;maker;maker;maker
+True;synthetix_ProxysMSFT;synthetix;synthetix;synthetix
+True;sushiswap_FuroStreamRouter;sushiswap;sushiswap;sushiswap
+True;Kraken 11;kraken;kraken;kraken
+True;curvefinance_USDT-CurveTokenV1;curve;curve;curve
+False;aave_stableDebtTokenAddress - aZRX;-1;aave;-1
+False;fei_Index Coop Fuse Pool PCV Deposit;indexcoop;feiprotocol;indexcoop
+True;harvestfinance_Deployer;harvestfinance;harvestfinance;harvestfinance
+False;instadapp_COMPOUND-IMPORT-B;compound;instadapp;compound
+True;maker_MCD_CLIP_CALC_UNIV2USDCETH_A;maker;maker;maker
+False;aave_ProtocolDataProvider;bprotocol;aave;bprotocol
+False;0x_DevUtils-v4;-1;0x;-1
+False;Binance;-1;binance;-1
+False;1inch_MultiKyber wrapper;kyber;1inch;kyber
+True;ActionCrypto.com;actioncryptocom;actioncryptocom;actioncryptocom
+True;instadapp_Polygon-InstaList;instadapp;instadapp;instadapp
+True;MoonBit.co.in;moonbitcoin;moonbitcoin;moonbitcoin
+True;Bitfinex: Old Contract 2;bitfinex;bitfinex;bitfinex
+True;futureswap_Registry;futureswap;futureswap;futureswap
+True;maker_PIP_W+RENBTC_MultiLabel;maker;maker;maker
+True;Eclipsemc;eclipsemccom;eclipsemccom;eclipsemccom
+True;BIKI.com;biki;biki;biki
+True;Bitfinex: MultiSig 3;bitfinex;bitfinex;bitfinex
+False;aave_stableDebtTokenAddress - aBAL;-1;aave;-1
+False;OKEx 4;-1;okex;-1
+True;BitZino.com;bitzinocom;bitzinocom;bitzinocom
+True;balancer_SmartPoolManager;balancer;balancer;balancer
+True;Betcoin.tm;betcointm;betcointm;betcointm
+True;harvestfinance_fSLP-DAI:WETH;harvestfinance;harvestfinance;harvestfinance
+True;uniswap_v3_pool_LDO_ETH_1;uniswap;uniswap;uniswap
+True;harvestfinance_WETH;harvestfinance;harvestfinance;harvestfinance
+True;Trade.io: Wallet 1;tradeio;tradeio;tradeio
+True;compound_cMKR;compound;compound;compound
+True;BitcoinWallet.com;bitcoinwalletcom;bitcoinwalletcom;bitcoinwalletcom
+True;harvestfinance_AMPL/ETH:FARM;harvestfinance;harvestfinance;harvestfinance
+True;maker_MCD_CLIP_UNIV2WBTCDAI_A;maker;maker;maker
+True;harvestfinance_GRAIN token;harvestfinance;harvestfinance;harvestfinance
+True;kucoin KCS reserves;kucoin;kucoin;kucoin
+True;maker_FLIPPER_MOM;maker;maker;maker
+True;barnbridge_aUSDC Rewards Pool;barnbridge;barnbridge;barnbridge
+True;synthetix_Depot;synthetix;synthetix;synthetix
+True;maker_CHANGELOG;maker;maker;maker
+True;VIP72.com;vip72com;vip72com;vip72com
+True;uniswap_v3_pool_ETH_USDT_005;uniswap;uniswap;uniswap
+True;harvestfinance_fSLP-WETH:USDT;harvestfinance;harvestfinance;harvestfinance
+True;bitfinex Dash hot wallet;bitfinex;bitfinex;bitfinex
+True;synthetix_TokenStateSynthetix;synthetix;synthetix;synthetix
+True;uniswap_v3_pool_DAI_ETH_005;uniswap;uniswap;uniswap
+True;synthetix_ProxyiCEX;synthetix;synthetix;synthetix
+True;Exmo 1;exmo;exmo;exmo
+True;Nexus Mutual: Deployer;nexus;nexus;nexus
+True;EclipseMC.com;eclipsemccom;eclipsemccom;eclipsemccom
+False;aave_rwa_AaveProtocolDataProvider;bprotocol;aave;bprotocol
+True;synthetix_SynthRedeemer;synthetix;synthetix;synthetix
+True;synthetix_SystemSettings;synthetix;synthetix;synthetix
+True;CoinW 3;coinw;coinw;coinw
+True;harvestfinance_CRV-3POOL Pool;harvestfinance;harvestfinance;harvestfinance
+True;compound_Base200bps_Slope2000bps_Jump20000bps_Kink90;compound;compound;compound
+True;synthetix_SynthsADA;synthetix;synthetix;synthetix
+True;maker_MCD_CLIP_UNIV2LINKETH_A;maker;maker;maker
+True;vesper_VLINK-pool;vesper;vesper;vesper
+True;synthetix_SynthsDASH;synthetix;synthetix;synthetix
+True;curvefinance_Voting Escrow;curve;curve;curve
+False;Binance Wrapped DOT (BDOT);-1;binance;-1
+True;synthetix_SynthiLINK;synthetix;synthetix;synthetix
+True;curvefinance_bBTC-DepositBBTC;curve;curve;curve
+True;bitfinex Polis hot wallet;bitfinex;bitfinex;bitfinex
+True;MiddleEarthMarketplace;middleearthmarketplace;middleearthmarketplace;middleearthmarketplace
+True;Luno.com;luno;luno;luno
+True;synthetix_ProxyiBTC;synthetix;synthetix;synthetix
+True;badger_keeper;badger;badger;badger
+True;bitfinex OXY hot wallet;bitfinex;bitfinex;bitfinex
+False;aave_variableDebtTokenAddress-aAmmUniUSDCWETH;-1;aave;-1
+True;BKEX Token (BK);bkex;bkex;bkex
+False;P2Pool.org;f2pool;p2poolorg;f2pool
+False;ShapeShift 2;-1;shapeshift;-1
+True;uniswap_FeeTo;uniswap;uniswap;uniswap
+True;curvefinance_Y-DepositY;curve;curve;curve
+True;instadapp_B-MAKERDAO-A;instadapp;instadapp;instadapp
+True;bitfinex AION hot wallet;bitfinex;bitfinex;bitfinex
+True;badger_devProxyAdmin;badger;badger;badger
+True;GoCelery.com;gocelery;gocelery;gocelery
+True;uniswap_v3_pool_DAI_AVINOC;uniswap;uniswap;uniswap
+True;instadapp_connectors 1;instadapp;instadapp;instadapp
+True;maker_MCD_CLIP_PAXUSD_A;maker;maker;maker
+True;maker_ILK_REGISTRY;maker;maker;maker
+True;Shawnp0wers;shawnp0wers;shawnp0wers;shawnp0wers
+False;aave_aBAT;-1;aave;-1
+True;synthetix_TokenStateiCEX;synthetix;synthetix;synthetix
+False;aave_variableDebtTokenAddress-aAmmUSDT;-1;aave;-1
+True;CoinGaming.io;coingamingio;coingamingio;coingamingio
+True;BitAces.me;bitacesme;bitacesme;bitacesme
+True;instadapp_mainnet-InstaRead;instadapp;instadapp;instadapp
+False;FTX Exchange 2;lcx;ftx;lcx
+True;CryptcoMiner.com;cryptcominercom;cryptcominercom;cryptcominercom
+True;PinballCoin.com;pinballcoincom;pinballcoincom;pinballcoincom
+True;BitZlato.com;bitzlato;bitzlato;bitzlato
+True;Hydra Market;hydramarket;hydramarket;hydramarket
+False;Banx.io;banxa;banxio;banxa
+True;synthetix_ProxyiEOS;synthetix;synthetix;synthetix
+True;SatoshiMines.com;satoshiminescom;satoshiminescom;satoshiminescom
+False;bitfinex WAVES (WAVES) hot wallet;dovewallet;bitfinex;dovewallet
+True;convex_Pool Manager;convex;convex;convex
+True;maker_MCD_JOIN_UNIV2WBTCDAI_A;maker;maker;maker
+True;Crypto-Trade.com;crypto-tradecom;crypto-tradecom;crypto-tradecom
+True;instadapp_B-LIQUITY-A;instadapp;instadapp;instadapp
+True;uniswap_FeeToSetterVester;uniswap;uniswap;uniswap
+True;ArkPool;arkpool;arkpool;arkpool
+True;Eligius.st;eligiusst;eligiusst;eligiusst
+False;aave_variableDebtTokenAddress - aYFI;-1;aave;-1
+True;synthetix_SynthsCHF;synthetix;synthetix;synthetix
+True;curvefinance_bBTC-CurveTokenV3;curve;curve;curve
+True;Coinex 2;coinex;coinex;coinex
+False;Binance 33;-1;binance;-1
+False;ENS: Wallet 2;dovewallet;ethereumfoundation;dovewallet
+True;instadapp_mainnet-v2-InstaImplementations;instadapp;instadapp;instadapp
+False;OKKONG;-1;okkong;-1
+True;badger_StrategyHarvestMetaFarm;badger;badger;badger
+True;synthetix_SynthsXAU;synthetix;synthetix;synthetix
+True;bitFlyer;bitflyer;bitflyer;bitflyer
+True;Bithumb 2;bithumb;bithumb;bithumb
+True;dydx_LimitOrders42;dydx;dydx;dydx
+True;AAO Pool;aaopool;aaopool;aaopool
+True;sushiswap_SushiV2Factory;sushiswap;sushiswap;sushiswap
+False;binance reserve wallets ETH;dovewallet;binance;dovewallet
+True;harvestfinance_fWBTC;harvestfinance;harvestfinance;harvestfinance
+True;instadapp_WETH-A;instadapp;instadapp;instadapp
+True;uniswap_v3_pool_WBTC_USDC;uniswap;uniswap;uniswap
+False;aave_aAmmUniYFIWETH;-1;aave;-1
+False;KanoPool;aaopool;kanois;aaopool
+True;ETHorse, Gambling;ethhorse;ethhorse;ethhorse
+True;Vaultoro.com;vaultorocom;vaultorocom;vaultorocom
+True;dydx_PolynomialInterestSetter1;dydx;dydx;dydx
+False;0x_StaticCallProxy-v4;-1;0x;-1
+True;instadapp_INSTAPOOL-A;instadapp;instadapp;instadapp
+False;curvefinance_Link-StableSwapLINK;oklink;curve;oklink
+False;curvefinance_Y-LiquidityGauge;liquidityfinance;curve;liquidityfinance
+True;maker_MCD_JOIN_UNIV2AAVEETH_A;maker;maker;maker
+True;bitfinex CLO Cold Wallet;bitfinex;bitfinex;bitfinex
+True;MercadoBitcoin.com.br;mercadobitcoin;mercadobitcoin;mercadobitcoin
+True;maker_PAXUSD;maker;maker;maker
+True;Huobi 2;huobi;huobi;huobi
+True;compound_Base0bps_Slope2000bps;compound;compound;compound
+True;sushiswap_SushiBar;sushiswap;sushiswap;sushiswap
+True;Matbea.com;matbea;matbea;matbea
+False;aave_stableDebtTokenAddress - aGUSD;-1;aave;-1
+False;fei_FeiRari DAI (fDAI-8);yfdai;feiprotocol;yfdai
+True;synthetix_SynthsETC;synthetix;synthetix;synthetix
+True;compound_Pair_COMP_ETH;compound;compound;compound
+True;compound_Maximillion;compound;compound;compound
+True;instadapp_polygon-v2-InstaImplementations;instadapp;instadapp;instadapp
+True;synthetix_StakingRewardsiETH;synthetix;synthetix;synthetix
+True;harvestfinance_Uniswap FARM:WETH;harvestfinance;harvestfinance;harvestfinance
+True;instadapp_LIQUITY-A;instadapp;instadapp;instadapp
+True;ChangeTip.com;changetipcom;changetipcom;changetipcom
+True;badger_native.tbtcCrv-geyser;badger;badger;badger
+False;0x_ZrxVault-v3;coinvault;0x;coinvault
+False;XT.com Hot Wallet;dovewallet;xt;dovewallet
+True;fei_FeiRari FEI Interest Rate Model;feiprotocol;feiprotocol;feiprotocol
+True;Satoshi-Karoshi.com;satoshi-karoshicom;satoshi-karoshicom;satoshi-karoshicom
+True;BetMoose.com;betmoosecom;betmoosecom;betmoosecom
+True;maker_FLIP_FAB;maker;maker;maker
+True;maker_MCD_CLIP_CALC_KNC_A;maker;maker;maker
+True;dydx_CanonicalOrders42;dydx;dydx;dydx
+True;curvefinance_Address Provider;curve;curve;curve
+True;Bibox;bibox;bibox;bibox
+True;barnbridge_crUSDT Rewards Pool;barnbridge;barnbridge;barnbridge
+True;curvefinance_AAVE-StableSwapAave;curve;curve;curve
+True;bitfinex Green Satoshi Token (GST) hot wallet;bitfinex;bitfinex;bitfinex
+True;synthetix_TokenStateiUNI;synthetix;synthetix;synthetix
+True;instadapp_InstaAaveV2MigratorSenderImplementation1;instadapp;instadapp;instadapp
+True;curvefinance_USDP-StableSwapUSDP;curve;curve;curve
+False;OKEx 6;-1;okex;-1
+True;Coingi.com;coingi;coingi;coingi
+True;999Dice.com;999dicecom;999dicecom;999dicecom
+True;Huobi 7;huobi;huobi;huobi
+True;Huobi 11;huobi;huobi;huobi
+True;Bitstamp 4;bitstamp;bitstamp;bitstamp
+False;harvestfinance_Sushiswap-WBTC:TBTC Pool;sushiswap;harvestfinance;sushiswap
+True;synthetix_SynthsXTZ;synthetix;synthetix;synthetix
+True;curvefinance_LinkUSD-CurveTokenV2;curve;curve;curve
+False;Gogreenlight;-1;gogreenlight;-1
+True;curvefinance_Parameter-VotingApp;curve;curve;curve
+False;aave_amm_LendingPoolAddressesProvider;apeswap;aave;apeswap
+True;synthetix_WrapperFactory;synthetix;synthetix;synthetix
+False;aave_variableDebtTokenAddress-aAmmUniWBTCUSDC;-1;aave;-1
+True;compound_IRM_USDT_Updateable;compound;compound;compound
+True;curvefinance_renBTC-StableSwapRen;curve;curve;curve
+False;aave_stableDebtTokenAddress - aCRV;-1;aave;-1
+True;maker_MCD_GOV_ACTIONS;maker;maker;maker
+True;badger_native.uniDiggWbtc-strategy;badger;badger;badger
+False;curvefinance_sAAVE-LiquidityGaugeV2;liquidityfinance;curve;liquidityfinance
+True;Vic-Socks.to;vic-socksto;vic-socksto;vic-socksto
+False;fei_FEI-ETH ChainlinkOracleWrapper;wrapped;feiprotocol;wrapped
+True;dydx_Refunder42;dydx;dydx;dydx
+True;bitfinex Tezos (XTZ) hot wallet;bitfinex;bitfinex;bitfinex
+True;BitMEX 2;bitmex;bitmex;bitmex
+True;curvefinance_Yv2-StableSwapYv2;curve;curve;curve
+True;bitfinex YOYOW (YYW) hot wallet;bitfinex;bitfinex;bitfinex
+False;fei_ETH-USD ChainlinkOracleWrapper;wrapped;feiprotocol;wrapped
+True;maker_MCD_CLIP_CALC_PAXUSD_A;maker;maker;maker
+True;Kncminer;kncminercom;kncminercom;kncminercom
+True;curvefinance_BUSD-DepositBUSD;curve;curve;curve
+True;synthetix_SynthsKRW;synthetix;synthetix;synthetix
+True;renvm_Protocol;ren;ren;ren
+True;Huobi 34;huobi;huobi;huobi
+True;Compound: COMP Token;compound;compound;compound
+True;50BTC.com;50btccom;50btccom;50btccom
+False;aave_LendingPoolAddressesProvider;lendingpond;aave;lendingpond
+True;CoinURL.com;coinurlcom;coinurlcom;coinurlcom
+True;badger_StrategyCurveGaugeSbtcCrv;badger;badger;badger
+True;uniswap_v3_pool_DAI_USDC_001;uniswap;uniswap;uniswap
+False;0x_AssetProxyOwner-v4;-1;0x;-1
+False;fei_FeiStakingRewards;nest;feiprotocol;nest
+True;uniswap_v3_pool_USDC_AVINOC;uniswap;uniswap;uniswap
+True;Huobi 27;huobi;huobi;huobi
+True;maker_PIP_RWA002;maker;maker;maker
+True;bitfinex Tether USDt (Polygon) hot wallet;bitfinex;bitfinex;bitfinex
+True;Bitfinex: Deployer 6;bitfinex;bitfinex;bitfinex
+True;Zipmex Token (ZMT);zipmex;zipmex;zipmex
+False;OKEx 5;-1;okex;-1
+True;Cryptonit.net;cryptonit;cryptonit;cryptonit
+True;Hotbit 2;hotbit;hotbit;hotbit
+True;instadapp_AUTHORITY-A;instadapp;instadapp;instadapp
+True;Poloniex: REP;poloniex;poloniex;poloniex
+True;Coinbene: Cold Wallet;coinbene;coinbene;coinbene
+True;uniswap_UNIMerkleDistributor;uniswap;uniswap;uniswap
+True;synthetix_ProxyiDEFI;synthetix;synthetix;synthetix
+True;maker_RWA001_A_URN;maker;maker;maker
+True;Brawker.com;brawkercom;brawkercom;brawkercom
+True;compound_Pair_DAI_ETH;compound;compound;compound
+True;fei_Fei DAO Timelock;feiprotocol;feiprotocol;feiprotocol
+True;harvestfinance_LINK:FARM;harvestfinance;harvestfinance;harvestfinance
+True;bitcoinbon.at;bitcoinbon;bitcoinbon;bitcoinbon
+True;harvestfinance_fUSDT;harvestfinance;harvestfinance;harvestfinance
+True;curvefinance_USDN-DepositUSDN;curve;curve;curve
+True;EMCDPool;emcdpool;emcdpool;emcdpool
+True;instadapp_polygon-v1-InstaConnectors;instadapp;instadapp;instadapp
+True;synthetix_ProxyiOIL;synthetix;synthetix;synthetix
+True;maker_MCD_CLIP_CALC_BAL_A;maker;maker;maker
+True;hegic_Hegic WBTC Options;hegic;hegic;hegic
+True;synthetix_SynthiETH;synthetix;synthetix;synthetix
+True;synthetix_SynthsUNI;synthetix;synthetix;synthetix
+True;vesper_VUSDC-pool;vesper;vesper;vesper
+True;synthetix_ReadProxyAddressResolver;synthetix;synthetix;synthetix
+True;CoinMotion.com;coinmotion;coinmotion;coinmotion
+True;Bitfinex: LEO Token;bitfinex;bitfinex;bitfinex
+True;compound_Base200bps_Slope1000bps;compound;compound;compound
+True;BitcoinRussia;bitcoinrussia;bitcoinrussia;bitcoinrussia
+False;1inch_Deployer;-1;1inch;-1
+False;OKEx 3;-1;okex;-1
+True;BtcMarkets.net;btcmarkets;btcmarkets;btcmarkets
+True;OrderBook.net;orderbook;orderbook;orderbook
+True;synthetix_TokenStatesFB;synthetix;synthetix;synthetix
+False;Binance 6;-1;binance;-1
+True;maker_MCD_CLIP_CALC_UNIV2WBTCDAI_A;maker;maker;maker
+True;Bitstamp 1;bitstamp;bitstamp;bitstamp
+True;maker_MCD_CLIP_ETH_A;maker;maker;maker
+True;synthetix_SynthsDOT;synthetix;synthetix;synthetix
+False;uniswap_NonfungiblePositionManager;positionexchange;uniswap;positionexchange
+True;Bitstamp 5;bitstamp;bitstamp;bitstamp
+True;bitfinex Zilliqa cold wallet;bitfinex;bitfinex;bitfinex
+True;synthetix_CollateralStateShort;synthetix;synthetix;synthetix
+True;maker_PIP_ZRX;maker;maker;maker
+True;harvestfinance_USDT Vault;harvestfinance;harvestfinance;harvestfinance
+True;Kraken 3;kraken;kraken;kraken
+True;compound_cSUSHI;compound;compound;compound
+True;21 inc.;21inc;21inc;21inc
+False;bitfinex Callisto hot wallet;dovewallet;bitfinex;dovewallet
+True;instadapp_InstapoolCompoundMapping;instadapp;instadapp;instadapp
+True;Huobi 15;huobi;huobi;huobi
+True;synthetix_ProxyiCOMP;synthetix;synthetix;synthetix
+False;aave_variableDebtTokenAddress-aAmmUniWBTCWETH;-1;aave;-1
+True;maker_MCD_JOIN_ZRX_A;maker;maker;maker
+False;Waterhole;-1;waterhole;-1
+True;Poloniex: FOAM;poloniex;poloniex;poloniex
+False;Ethfinex: Nectar Token;xtoken;bitfinex;xtoken
+False;curvefinance_tBTC-LiquidityGaugeReward;liquidityfinance;curve;liquidityfinance
+True;curvefinance_GUSD-CurveTokenV2;curve;curve;curve
+True;Bitmit.net;bitmitnet;bitmitnet;bitmitnet
+True;maker_MCD_FLOP;maker;maker;maker
+True;synthetix_ProxysGBP;synthetix;synthetix;synthetix
+True;Huobi 1;huobi;huobi;huobi
+True;SuzukiDice.com;suzukidicecom;suzukidicecom;suzukidicecom
+False;fei_FEI-3CRV Curve Pool;curve;feiprotocol;curve
+True;compound_Bulker;compound;compound;compound
+True;Kraken;kraken;kraken;kraken
+True;curvefinance_sUSD-StableSwapSUSD;curve;curve;curve
+True;uniswap_v3_pool_SHIB_ETH;uniswap;uniswap;uniswap
+True;maker_MCD_FLAP;maker;maker;maker
+False;aave_stableDebtTokenAddress-aAmmUniSNXWETH;-1;aave;-1
+True;Tokocrypto;tokocrypto;tokocrypto;tokocrypto
+True;Upbit;upbit;upbit;upbit
+False;harvestfinance_CRV-COMPOUND Pool;compound;harvestfinance;compound
+True;synthetix_SynthetixEscrow;synthetix;synthetix;synthetix
+True;MintPal.com;mintpal;mintpal;mintpal
+True;badger_Controller;badger;badger;badger
+False;curvefinance_sETH-LiquidityGaugeV2;liquidityfinance;curve;liquidityfinance
+True;synthetix_ProxysCHF;synthetix;synthetix;synthetix
+False;aave_stableDebtTokenAddress - aENJ;-1;aave;-1
+True;synthetix_ProxysCRV;synthetix;synthetix;synthetix
+False;bitmex reserve wallet;dovewallet;bitmex;dovewallet
+False;ShapeShift 1;-1;shapeshift;-1
+True;harvestfinance_WETH Pool;harvestfinance;harvestfinance;harvestfinance
+True;bitfinex Zcash hot wallet;bitfinex;bitfinex;bitfinex
+True;compound_IRM_UNI_Updateable;compound;compound;compound
+False;curvefinance_stETH-LiquidityGaugeV2;liquidityfinance;curve;liquidityfinance
+True;uniswap_UniswapV2ETHUSDCUNIPool;uniswap;uniswap;uniswap
+True;Bitstamp.com;bitstamp;bitstamp;bitstamp
+True;dydx_PayableProxyForSoloMargin1;dydx;dydx;dydx
+True;dydx_SoloMargin42;dydx;dydx;dydx
+True;Luno 1;luno;luno;luno
+True;Huobi: Old Address 10;huobi;huobi;huobi
+False;OKEx: OKB Token;latoken;okex;latoken
+True;Bitcash.cz;bitcash;bitcash;bitcash
+True;hegic_Hegic ETH Bidirectional Liquidity Pool;hegic;hegic;hegic
+True;compound_PriceFeed;compound;compound;compound
+True;Cloudhashing;cloudhashingcom;cloudhashingcom;cloudhashingcom
+False;nexus_PooledStaking;neopin;nexus;neopin
+False;curvefinance_renBTC-LiquidityGauge;liquidityfinance;curve;liquidityfinance
+True;synthetix_FeePool;synthetix;synthetix;synthetix
+True;LAToken 2;latoken;latoken;latoken
+False;nexus_MemberRoles;emberswap;nexus;emberswap
+False;aave_rwa_RWAMarketOracle;agoramarket;aave;agoramarket
+True;MeXBT.com;mexbt;mexbt;mexbt
+True;synthetix_StakingRewardssFBBalancer;synthetix;synthetix;synthetix
+False;Binance 15;-1;binance;-1
+False;0x_Exchange-v3;xexchange;0x;xexchange
+True;synthetix_CollateralStateEth;synthetix;synthetix;synthetix
+True;synthetix_ProxyiBNB;synthetix;synthetix;synthetix
+True;Bithumb 9;bithumb;bithumb;bithumb
+True;synthetix_TokenStatesLINK;synthetix;synthetix;synthetix
+True;sushiswap_SushiXSwap;sushiswap;sushiswap;sushiswap
+True;uniswap_v3_pool_FRAX_USDT;uniswap;uniswap;uniswap
+True;barnbridge_Keeper Subsidy Pool;barnbridge;barnbridge;barnbridge
+True;dydx_Expiry42;dydx;dydx;dydx
+False;convex_Treasury Vault;treasuredao;convex;treasuredao
+False;1inch_contractAddress;-1;1inch;-1
+True;harvestfinance_Operational Treasury;harvestfinance;harvestfinance;harvestfinance
+True;harvestfinance_WETH-WBTC-LP Vault;harvestfinance;harvestfinance;harvestfinance
+False;Megabigpower;-1;megabigpower;-1
+False;Tangpool;-1;tangpool;-1
+True;maker_MCD_DOG;maker;maker;maker
+True;uniswap_StakingRewardsFactory;uniswap;uniswap;uniswap
+True;maker_MCD_CLIP_CALC_UNIV2ETHUSDT_A;maker;maker;maker
+True;Coinomat.com;coinomat;coinomat;coinomat
+True;maker_PIP_UNIV2USDCETH;maker;maker;maker
+False;1inch_Offchain Oracle;sifchain;1inch;sifchain
+False;1inch_Exchange Governance;xexchange;1inch;xexchange
+True;synthetix_SynthiBNB;synthetix;synthetix;synthetix
+False;aave_aAmmUniDAIWETH;-1;aave;-1
+True;bitfinex Tether USDt (Omni Protocol) hot wallet;bitfinex;bitfinex;bitfinex
+True;curvefinance_Minter;curve;curve;curve
+True;synthetix_ProxyiYFI;synthetix;synthetix;synthetix
+True;Yobit.net;yobit;yobit;yobit
+False;aave_amm_WETHGateway;-1;aave;-1
+True;GreenRoadMarket;greenroadmarket;greenroadmarket;greenroadmarket
+False;curvefinance_3pool-LiquidityGauge.sol;liquidityfinance;curve;liquidityfinance
+True;curvefinance_CBurner;curve;curve;curve
+True;instadapp_InstaPoolV2;instadapp;instadapp;instadapp
+True;badger_native.badger-vault;badger;badger;badger
+True;synthetix_TokenStatesBTC;synthetix;synthetix;synthetix
+True;synthetix_StakingRewardssAMZNBalancer;synthetix;synthetix;synthetix
+True;uniswap_UniswapProtocolTreasuryVester3;uniswap;uniswap;uniswap
+True;vesper_VWBTC-poolRewards;vesper;vesper;vesper
+False;ShapeShift 3;-1;shapeshift;-1
+True;777Coin.com;777coincom;777coincom;777coincom
+False;Binance 10;-1;binance;-1
+True;harvestfinance_fUNI-DAI:WETH;harvestfinance;harvestfinance;harvestfinance
+True;AnoniBet.com;anonibetcom;anonibetcom;anonibetcom
+True;FixedFloat;fixedfloat;fixedfloat;fixedfloat
+True;bitfinex ETH/ERC20 cold wallet;bitfinex;bitfinex;bitfinex
+True;Bidesk 2;bidesk;bidesk;bidesk
+True;maker_LERP_FAB;maker;maker;maker
+True;synthetix_TokenStatesRUNE;synthetix;synthetix;synthetix
+False;curvefinance_sBTC-LiquidityGaugeReward;liquidityfinance;curve;liquidityfinance
+False;Minerium;-1;minerium;-1
+True;compound_cTUSD;compound;compound;compound
+False;aave_variableDebtTokenAddress-aAmmWBTC;-1;aave;-1
+True;synthetix_StakingRewardssUSDCurve;synthetix;synthetix;synthetix
+True;synthetix_ProxysGOOG;synthetix;synthetix;synthetix
+True;maker_MCD_GOV;maker;maker;maker
+True;synthetix_ProxyiETH;synthetix;synthetix;synthetix
+True;FairProof.com;fairproofcom;fairproofcom;fairproofcom
+True;Huobi 3;huobi;huobi;huobi
+True;Coinbase: Miscellaneous;coinbase;coinbase;coinbase
+True;Trade.io: Old Token;tradeio;tradeio;tradeio
+True;bitfinex RBTC and RSK tokens (RIF) hot wallet;bitfinex;bitfinex;bitfinex
+True;synthetix_OneNetAggregatorsDEFI;synthetix;synthetix;synthetix
+True;SatoshiBet.com;satoshibetcom;satoshibetcom;satoshibetcom
+True;maker_MANA;maker;maker;maker
+True;bitfinex Ethereum Classic hot wallet;bitfinex;bitfinex;bitfinex
+False;aave_variableDebtTokenAddress-aAmmUniYFIWETH;-1;aave;-1
+True;curvefinance_UST-CurveTokenV3;curve;curve;curve
+True;vesper_VETH-feeWhiteList;vesper;vesper;vesper
+True;Luxor;luxortech;luxortech;luxortech
+False;SlushPool;slushpoolcom;braiins;slushpoolcom
+True;dydx_AdminImpl1;dydx;dydx;dydx
+True;AntPool 2;antpoolcom;antpoolcom;antpoolcom
+False;Hoo.com 3;-1;hoo;-1
+False;aave_stableDebtTokenAddress-aAmmDAI;-1;aave;-1
+False;aave_stableDebtTokenAddress-aAmmUSDT;-1;aave;-1
+True;Compound Ether;compound;compound;compound
+True;KuCoin Contract;kucoin;kucoin;kucoin
+False;aave_amm_LendingPoolConfigurator;apeswap;aave;apeswap
+True;Huobi 33;huobi;huobi;huobi
+True;maker_RWA001_A_OUTPUT_CONDUIT;maker;maker;maker
+True;uniswap_v3_pool_ETH_USDT_03;uniswap;uniswap;uniswap
+True;Tether USD;tether;tether;tether
+True;convex_Reward Factory;convex;convex;convex
+True;synthetix_TradingRewards;synthetix;synthetix;synthetix
+True;DaDice.com;dadicecom;dadicecom;dadicecom
+True;curvefinance_renBTC-CurveTokenV1;curve;curve;curve
+True;bitfinex Aptos hot wallet;bitfinex;bitfinex;bitfinex
+True;MyBitcoin.com;mybitcoincom;mybitcoincom;mybitcoincom
+True;Crypto.com 2;cryptocom;cryptocom;cryptocom
+True;instadapp_Polygon-v2-InstaAccountV2;instadapp;instadapp;instadapp
+True;SilkRoad2Market;silkroad2market;silkroad2market;silkroad2market
+False;0x_Coordinator-v3;-1;0x;-1
+False;SpiderPool;hummerpool;spiderpool;hummerpool
+True;dydx_PayableProxyForSoloMargin42;dydx;dydx;dydx
+True;maker_PROXY_DEPLOYER;maker;maker;maker
+True;QuadrigaCX.com;quadrigacx;quadrigacx;quadrigacx
+True;Vircurex.com;vircurex;vircurex;vircurex
+False;curvefinance_bBTC-LiquidityGaugeV2;liquidityfinance;curve;liquidityfinance
+True;synthetix_ProxysAAVE;synthetix;synthetix;synthetix
+True;Batpool;batpool;batpool;batpool
+True;instadapp_Instapool1;instadapp;instadapp;instadapp
+True;harvestfinance_Notify Helper;harvestfinance;harvestfinance;harvestfinance
+True;synthetix_TokenStateiBTC;synthetix;synthetix;synthetix
+True;compound_cCOMP;compound;compound;compound
+True;Compound: Oracle 2;compound;compound;compound
+True;bitfinex Bitcoin SV cold wallet;bitfinex;bitfinex;bitfinex
+True;maker_UNIV2WBTCDAI;maker;maker;maker
+True;BTCPop.co;btcpop;btcpop;btcpop
+True;BitMart 2;bitmart;bitmart;bitmart
+True;vesper_vBetaWBTC-strategy-aaveMaker;vesper;vesper;vesper
+True;synthetix_ProxyiLINK;synthetix;synthetix;synthetix
+True;Bilaxy Token (BIA);bilaxy;bilaxy;bilaxy
+True;Bitfury.org;bitfuryorg;bitfuryorg;bitfuryorg
+True;Bitfinex 2;bitfinex;bitfinex;bitfinex
+True;Luno 2;luno;luno;luno
+True;maker_PIP_COMP;maker;maker;maker
+True;fei_FeiRari FEI (fFEI-8);feiprotocol;feiprotocol;feiprotocol
+False;binance.com;-1;binance;-1
+False;fei_FeiRari TRIBE Interest Rate Model;webribedao;feiprotocol;webribedao
+True;instadapp_Mainnet-InstaIndex;instadapp;instadapp;instadapp
+True;Poloniex 2;poloniex;poloniex;poloniex
+True;KuCoin 3;kucoin;kucoin;kucoin
+False;maker_MIP21_LIQUIDATION_ORACLE;freeliquid;maker;freeliquid
+True;badger_badgerTree;badger;badger;badger
+False;Binance Wrapped FIL (BFIL);-1;binance;-1
+True;bitfinex GST hot wallet;bitfinex;bitfinex;bitfinex
+True;maker_PIP_UNIV2DAIUSDC;maker;maker;maker
+True;MEXC: Mexc.com 2;mxc;mxc;mxc
+True;Bitexlive 2;bitexlive;bitexlive;bitexlive
+True;dydx_DaiPriceOracle42;dydx;dydx;dydx
+True;badger_native.renCrv-geyser;badger;badger;badger
+True;Coinex;coinex;coinex;coinex
+True;bitfinex LUNA cold Wallet;bitfinex;bitfinex;bitfinex
+True;badger_agent;badger;badger;badger
+False;aave_aCRV;-1;aave;-1
+True;synthetix_SystemStatus;synthetix;synthetix;synthetix
+True;synthetix_ProxysUSDUse ProxyERC20sUSD;synthetix;synthetix;synthetix
+True;instadapp_mainnet-v2-InstaDefaultImplementation;instadapp;instadapp;instadapp
+True;maker_MCD_CLIP_CALC_GUSD_A;maker;maker;maker
+True;curvefinance_rETH-StableSwapRETH;curve;curve;curve
+True;ZB.com;zbcom;zbcom;zbcom
+True;Bitfinex 9;bitfinex;bitfinex;bitfinex
+True;synthetix_TokenStateiLINK;synthetix;synthetix;synthetix
+True;Paribu 2;paribu;paribu;paribu
+True;Simplecoin;simplecoinus_mining;simplecoinus_mining;simplecoinus_mining
+True;compound_cAAVE;compound;compound;compound
+True;aave_AAVE;aave;aave;aave
+True;maker_MCD_CLIP_CALC_UNIV2DAIETH_A;maker;maker;maker
+True;curvefinance_FRAX-Metaimplementation;curve;curve;curve
+True;curvefinance_Migrator;curve;curve;curve
+True;harvestfinance_WBTC Pool;harvestfinance;harvestfinance;harvestfinance
+False;VaultOfSatoshi.com;satoshi-karoshicom;vaultofsatoshi;satoshi-karoshicom
+True;uniswap_v3_pool_ETH_sETH2;uniswap;uniswap;uniswap
+True;sushiswap_TimeLock;sushiswap;sushiswap;sushiswap
+True;Lubian.com;lubiancom;lubiancom;lubiancom
+True;Bittrex;bittrex;bittrex;bittrex
+True;curvefinance_stETH-StableSwapSTETH;curve;curve;curve
+True;curvefinance_MetaPool-Factory.vy;curve;curve;curve
+False;Mexc.com 3;-1;mxc;-1
+True;vesper_VWBTC-strategy-aaveMaker;vesper;vesper;vesper
+True;curvefinance_stETH-CurveTokenV3;curve;curve;curve
+True;DiceNow.com;dicenowcom;dicenowcom;dicenowcom
+True;TheRockTrading.com;therocktrading;therocktrading;therocktrading
+True;synthetix_TokenStatesDASH;synthetix;synthetix;synthetix
+True;renvm_RenBCH-gateway;ren;ren;ren
+True;synthetix_OwnerRelayOnEthereum;synthetix;synthetix;synthetix
+True;maker_MCD_END;maker;maker;maker
+True;balancer_BalancerSafeMath;balancer;balancer;balancer
+True;Folgory Exchange;folgory;folgory;folgory
+True;maker_MCD_JOIN_COMP_A;maker;maker;maker
+True;harvestfinance_Uniswap FARM:USDC;harvestfinance;harvestfinance;harvestfinance
+True;Upbit 3;upbit;upbit;upbit
+True;instadapp_INST-STAKING-A;instadapp;instadapp;instadapp
+True;curvefinance_USDP-DepositUSDP;curve;curve;curve
+True;maker_MCD_CLIP_CALC_LRC_A;maker;maker;maker
+True;compound_Base500bps_Slope1500bps;compound;compound;compound
+True;1THash&58COIN;1thash;1thash;1thash
+True;convex_Convex Deployer;convex;convex;convex
+True;BabylonMarket;babylonmarket;babylonmarket;babylonmarket
+True;badger_badger-token;badger;badger;badger
+True;barnbridge_EPool WETH/WBTC;barnbridge;barnbridge;barnbridge
+True;HuobiToken (HT);huobi;huobi;huobi
+True;BTCt.com;btctcom;btctcom;btctcom
+False;1inch_MooniswapFactory;mooniswap;1inch;mooniswap
+True;synthetix_TokenStatesCOIN;synthetix;synthetix;synthetix
+True;uniswap_UniswapV2UNIGovernorBravo;uniswap;uniswap;uniswap
+True;synthetix_TokenStatesXAU;synthetix;synthetix;synthetix
+True;uniswap_UniswapV2ETHDAIUNIPool;uniswap;uniswap;uniswap
+False;Binance Wrapped BCH (BBCH);-1;binance;-1
+True;aave_aAmmUniAAVEWETH;aave;aave;aave
+False;nexus_CommunityStakingIncentives;nest;nexus;nest
+True;CoinMetro Exchange;coinmetro;coinmetro;coinmetro
+True;CoinRoyale.com;coinroyalecom;coinroyalecom;coinroyalecom
+True;Cavirtex.com;cavirtex;cavirtex;cavirtex
+False;Curve.fi yStable Token;xtoken;curve;xtoken
+True;maker_UNIV2DAIUSDC;maker;maker;maker
+True;Compound Basic Attention Token;compound;compound;compound
+True;Huobi 32;huobi;huobi;huobi
+True;synthetix_Liquidator;synthetix;synthetix;synthetix
+False;ArzPaya.com;-1;azpaya;-1
+True;vesper_VVSP-pool;vesper;vesper;vesper
+True;curvefinance_Parameter-Agent;curve;curve;curve
+True;barnbridge_bb_cUSDC (Compound);barnbridge;barnbridge;barnbridge
+True;synthetix_TokenStatesUSD;synthetix;synthetix;synthetix
+False;Rift (RIFT);upliftdao;riftfinance;upliftdao
+True;Bgogo 2;bgogo;bgogo;bgogo
+False;aave_variableDebtTokenAddress - aBAT;-1;aave;-1
+True;renvm_DarknodeRegistryStore;ren;ren;ren
+True;barnbridge_crDAI Rewards Pool;barnbridge;barnbridge;barnbridge
+True;bitfinex Algorand hot wallet;bitfinex;bitfinex;bitfinex
+True;bitfinex Cosmos hot wallet;bitfinex;bitfinex;bitfinex
+True;badger_StrategyCurveGaugeTbtcCrv;badger;badger;badger
+True;SatoshiCircle.com;satoshicirclecom;satoshicirclecom;satoshicirclecom
+True;Mtgox;mtgox;mtgox;mtgox
+False;1inch_tokenAddress;-1;1inch;-1
+True;BitClix.com;bitclixcom;bitclixcom;bitclixcom
+False;fei_EthBondingCurve;lendingpond;feiprotocol;lendingpond
+True;maker_MCD_CLIP_LINK_A;maker;maker;maker
+True;vesper_vBetaETH-strategy-cream;vesper;vesper;vesper
+False;curvefinance_USDK-LiquidityGauge;liquidityfinance;curve;liquidityfinance
+True;compound_Pair_LINK_ETH;compound;compound;compound
+True;harvestfinance_RENBTC Pool;harvestfinance;harvestfinance;harvestfinance
+True;Compound USD Coin;compound;compound;compound
+False;aave_variableDebtTokenAddress - aMANA;-1;aave;-1
+True;compound_cFEI;compound;compound;compound
+True;Crypto-Games.net;crypto-gamesnet;crypto-gamesnet;crypto-gamesnet
+False;aave_stableDebtTokenAddress - aWBTC;-1;aave;-1
+False;aave_aLINK;-1;aave;-1
+True;Huobi 23;huobi;huobi;huobi
+False;0x_ExchangeProxyGovernor-v4;xexchange;0x;xexchange
+True;convex_Booster;convex;convex;convex
+True;aave_stkAAVE;aave;aave;aave
+True;maker_UNIV2ETHUSDT;maker;maker;maker
+True;uniswap_UniswapV2Factory;uniswap;uniswap;uniswap
+True;Huobi 10;huobi;huobi;huobi
+True;harvestfinance_fUNI-DPI:WETH;harvestfinance;harvestfinance;harvestfinance
+True;Huobi 37;huobi;huobi;huobi
+True;Hummerpool;hummerpool;hummerpool;hummerpool
+True;synthetix_ProxysOIL;synthetix;synthetix;synthetix
+True;bitfinex EOS/EOS Tokens hot wallet;bitfinex;bitfinex;bitfinex
+True;Comkort.com;comkort;comkort;comkort
+False;aave_variableDebtTokenAddress -aENJ;-1;aave;-1
+False;aave_stableDebtTokenAddress - aBUSD;-1;aave;-1
+True;FolgoryUSD (USDF);folgory;folgory;folgory
+True;Poloniex: NXC;poloniex;poloniex;poloniex
+True;maker_PIP_BAL;maker;maker;maker
+True;vesper_VVSP-keeperList;vesper;vesper;vesper
+True;uniswap_UniswapProtocolTreasuryVester2;uniswap;uniswap;uniswap
+False;aave_arc_LendingPoolCollateralManager;lendingpond;aave;lendingpond
+True;BlackBankMarket;blackbankmarket;blackbankmarket;blackbankmarket
+True;Compound: Deployer 2;compound;compound;compound
+False;aave_aKNC;-1;aave;-1
+False;fei_FeiRari TRIBE (fTRIBE-8);webribedao;feiprotocol;webribedao
+True;vesper_vBetaETH-feeWhiteList;vesper;vesper;vesper
+True;instadapp_Polygon-InstaIndex;instadapp;instadapp;instadapp
+True;Bitfinex 10;bitfinex;bitfinex;bitfinex
+True;bitfinex Digibyte hot Wallet;bitfinex;bitfinex;bitfinex
+False;huobi reserve wallets XRP;dovewallet;huobi;dovewallet
+True;sushiswap_FuroStream;sushiswap;sushiswap;sushiswap
+False;aave_aZRX;-1;aave;-1
+True;compound_Compoundv3Rewards;compound;compound;compound
+True;maker_MULTICALL;maker;maker;maker
+True;uniswap_v3_pool_ETH_LOOKS;uniswap;uniswap;uniswap
+True;maker_MCD_JOIN_UNIV2UNIETH_A;maker;maker;maker
+True;badger_native.uniBadgerWbtc-reward;badger;badger;badger
+False;vesper_VWBTC-strategy-compound;compound;vesper;compound
+True;compound_Pair_REP_ETH;compound;compound;compound
+True;synthetix_SynthUtil;synthetix;synthetix;synthetix
+True;synthetix_ProxyiAAVE;synthetix;synthetix;synthetix
+True;Paxful.com;paxful;paxful;paxful
+True;synthetix_TokenStateiXRP;synthetix;synthetix;synthetix
+False;curvefinance_oBTC-LiquidityGaugeV2;liquidityfinance;curve;liquidityfinance
+True;compound_Reservoir;compound;compound;compound
+True;Bithumb 4;bithumb;bithumb;bithumb
+True;barnbridge_bb_crDAI (Cream);barnbridge;barnbridge;barnbridge
+True;Polmine;polminepl;polminepl;polminepl
+True;dydx_StopLimitOrders42;dydx;dydx;dydx
+True;barnbridge_bb_cDAI (Compound);barnbridge;barnbridge;barnbridge
+False;curvefinance_sUSDv2-LiquidityGaugeReward;liquidityfinance;curve;liquidityfinance
+True;synthetix_ProxyFeePool;synthetix;synthetix;synthetix
+True;Bitstamp.net;bitstamp;bitstamp;bitstamp
+False;Trade Token X (TIOx);latoken;tradeio;latoken
+True;instadapp_ConnectAave;instadapp;instadapp;instadapp
+True;bitfinex BTC hot wallet;bitfinex;bitfinex;bitfinex
+True;uniswap_v3_pool_DAI_HOPR;uniswap;uniswap;uniswap
+True;Bitfinex 5;bitfinex;bitfinex;bitfinex
+True;synthetix_SynthsETH;synthetix;synthetix;synthetix
+True;harvestfinance_LINK Pool;harvestfinance;harvestfinance;harvestfinance
+True;KuCoin 2;kucoin;kucoin;kucoin
+False;0x_EtherToken-v4;-1;0x;-1
+True;synthetix_ProxysEUR;synthetix;synthetix;synthetix
+True;PocketDice.io;pocketdiceio;pocketdiceio;pocketdiceio
+True;ASICMiner;asicminer;asicminer;asicminer
+True;maker_PIP_UNIV2AAVEETH;maker;maker;maker
+True;sideshift.ai;sideshift;sideshift;sideshift
+True;BitZillions.com;bitzillionscom;bitzillionscom;bitzillionscom
+True;AscendEX 1;bitmax;bitmax;bitmax
+True;synthetix_Proxys1INCH;synthetix;synthetix;synthetix
+True;instadapp_polygon-v2-InstaImplementationM1;instadapp;instadapp;instadapp
+False;huobi reserve wallets ETH;dovewallet;huobi;dovewallet
+True;compound_cDAI;compound;compound;compound
+True;badger_harvest.renCrv-vault;badger;badger;badger
+True;uniswap_v3_pool_HEX_USDC;uniswap;uniswap;uniswap
+True;KuCoin;kucoin;kucoin;kucoin
+True;bitfinex RADIX (XRD) hot wallet;bitfinex;bitfinex;bitfinex
+True;Cryptonator.com;cryptonatorcom;cryptonatorcom;cryptonatorcom
+True;synthetix_TokenStatesLTC;synthetix;synthetix;synthetix
+True;barnbridge_bb_crUSDT (Cream);barnbridge;barnbridge;barnbridge
+True;Compound Sai;compound;compound;compound
+True;harvestfinance_WBTC Vault;harvestfinance;harvestfinance;harvestfinance
+True;synthetix_SynthsOIL;synthetix;synthetix;synthetix
+True;sushiswap_MasterChef;sushiswap;sushiswap;sushiswap
+True;badger_harvest.renCrv-strategy;badger;badger;badger
+True;renvm_RenBTC-gateway;ren;ren;ren
+True;Kryptono 1;kryptono;kryptono;kryptono
+False;MARA Pool;terrapool;marapool;terrapool
+True;harvestfinance_YFV:FARM;harvestfinance;harvestfinance;harvestfinance
+True;F2pool;f2pool;f2pool;f2pool
+True;curvefinance_YBurner;curve;curve;curve
+True;badger_native.uniBadgerWbtc-vault;badger;badger;badger
+True;instadapp_B-COMPOUND-A;instadapp;instadapp;instadapp
+True;curvefinance_ankrETH-StableSwapAETH;curve;curve;curve
+False;maker_FAUCET;faucetboxcom;maker;faucetboxcom
+False;maker_MCD_JOIN_TUSD_A;plutusdao;maker;plutusdao
+True;renvm_BCHGateway;ren;ren;ren
+True;synthetix_EscrowChecker;synthetix;synthetix;synthetix
+True;synthetix_SynthsGOOG;synthetix;synthetix;synthetix
+True;vesper_VWBTC-pool;vesper;vesper;vesper
+False;Miningkings;-1;miningkings;-1
+True;harvestfinance_fUSDC Uniswap;harvestfinance;harvestfinance;harvestfinance
+True;badger_digg;badger;badger;badger
+True;renvm_GatewayRegistry;ren;ren;ren
+False;Connectbtc;-1;connectbtc;-1
+True;synthetix_TokenStatesCHF;synthetix;synthetix;synthetix
+True;Huobi 19;huobi;huobi;huobi
+True;dydx_SignedOperationProxy42;dydx;dydx;dydx
+True;bitfinex Theta hot wallet;bitfinex;bitfinex;bitfinex
+True;synthetix_ProxysNFLX;synthetix;synthetix;synthetix
+True;vesper_collateralManager;vesper;vesper;vesper
+False;huobi reserve wallets XCN;dovewallet;huobi;dovewallet
+True;barnbridge_WToken WETH/WBTC 75/25;barnbridge;barnbridge;barnbridge
+True;Bithumb 11;bithumb;bithumb;bithumb
+True;bitfinex Solana cold wallet;bitfinex;bitfinex;bitfinex
+True;renvm_RenZEC-gateway;ren;ren;ren
+False;Lazarus group;-1;lazarusgroup;-1
+True;harvestfinance_BASED + sUSD LP Pool;harvestfinance;harvestfinance;harvestfinance
+True;vesper_vBetaUSDC-pool;vesper;vesper;vesper
+True;dydx_WethPriceOracle1;dydx;dydx;dydx
+True;uniswap_v3_pool_USDD_USDC;uniswap;uniswap;uniswap
+True;maker_MCD_CLIP_CALC_UNIV2DAIUSDT_A;maker;maker;maker
+True;Bitfinex: Deployer 1;bitfinex;bitfinex;bitfinex
+True;Huobi 38;huobi;huobi;huobi
+True;sushiswap_SushiRoll;sushiswap;sushiswap;sushiswap
+False;aave_Ecosystem Reserve;unfederalreserve;aave;unfederalreserve
+True;instadapp_mainnet-v1-InstaEvent;instadapp;instadapp;instadapp
+True;uniswap_v3_pool_agEUR_USDC;uniswap;uniswap;uniswap
+True;nexus_NXMToken;nexus;nexus;nexus
+False;bitfinex Atlas hot wallet;atlasats;bitfinex;atlasats
+True;instadapp_AAVE-V2-IMPORT-B;instadapp;instadapp;instadapp
+True;synthetix_EtherCollateral;synthetix;synthetix;synthetix
+False;aave_aUNI;-1;aave;-1
+True;balancer_Onchain Registry;balancer;balancer;balancer
+True;fei_Fuse Pool 6 FEI PCV Deposit;feiprotocol;feiprotocol;feiprotocol
+False;aave_aAmmDAI;-1;aave;-1
+False;Binance 24;-1;binance;-1
+True;Huobi 22;huobi;huobi;huobi
+True;KickEX;kickex;kickex;kickex
+True;harvestfinance_Developer Fund;harvestfinance;harvestfinance;harvestfinance
+True;Bitfinex: Contract 1;bitfinex;bitfinex;bitfinex
+True;bitfinex LTC Cold wallet 1DOT;bitfinex;bitfinex;bitfinex
+True;MEXC: Mexc.com;mxc;mxc;mxc
+True;uniswap_Quoter;uniswap;uniswap;uniswap
+True;synthetix_ProxysTRX;synthetix;synthetix;synthetix
+True;Kraken 12;kraken;kraken;kraken
+True;maker_MCD_CLIP_UNIV2USDCETH_A;maker;maker;maker
+False;curvefinance_DUSD-LiquidityGaugeReward;liquidityfinance;curve;liquidityfinance
+False;aave_GovV2Helper;-1;aave;-1
+True;badger_RewardsEscrow;badger;badger;badger
+True;harvestfinance_OGN Pool;harvestfinance;harvestfinance;harvestfinance
+False;curvefinance_USDP-LiquidityGaugeV2;liquidityfinance;curve;liquidityfinance
+True;Bitzlato;bitzlato;bitzlato;bitzlato
+True;vesper_VUSDC-poolRewards;vesper;vesper;vesper
+True;synthetix_ProxysETC;synthetix;synthetix;synthetix
+True;Liquid 3;liquid;liquid;liquid
+True;bitfinex Avalanche hot wallet;bitfinex;bitfinex;bitfinex
+True;maker_MCD_CLIP_CALC_ETH_B;maker;maker;maker
+True;synthetix_FuturesMarketManager;synthetix;synthetix;synthetix
+True;vesper_poolList;vesper;vesper;vesper
+True;compound_CompoundLens;compound;compound;compound
+True;bitfinex SMR hot Wallet;bitfinex;bitfinex;bitfinex
+True;Coinhako;coinhako;coinhako;coinhako
+False;Bitcoin india;bitcoinrussia;bitcoinindia;bitcoinrussia
+False;aave_stableDebtTokenAddress - aXSUSHI;sushiswap;aave;sushiswap
+False;fei_FeiRari ETH Interest Rate Model;piratedao;feiprotocol;piratedao
+True;synthetix_SynthsLINK;synthetix;synthetix;synthetix
+True;curvefinance_MUSD-CurveTokenV2;curve;curve;curve
+True;Bidesk 3;bidesk;bidesk;bidesk
+False;0x_ERC20Proxy-v4;-1;0x;-1
+True;curvefinance_MUSD-DepositMUSD;curve;curve;curve
+True;instadapp_MAKERDAO-CLAIM-A";instadapp;instadapp;instadapp
+True;barnbridge_aUSDT Rewards Pool;barnbridge;barnbridge;barnbridge
+True;Poloniex: GNO;poloniex;poloniex;poloniex
+False;aave_rwa_PermissionedLendingPool;apeswap;aave;apeswap
+False;Hoo.com;-1;hoo;-1
+True;synthetix_SynthsAAPL;synthetix;synthetix;synthetix
+True;bitfinex Luna hot wallet;bitfinex;bitfinex;bitfinex
+True;bitfinex Tether USDt (Algorand) hot wallet;bitfinex;bitfinex;bitfinex
+False;vesper_VETH-strategy-compound;compound;vesper;compound
+True;curvefinance_sETH-StableSwapSETH;curve;curve;curve
+True;bitfinex Tether USDt (Polkadot);bitfinex;bitfinex;bitfinex
+True;curvefinance_Factory Pool Owner;curve;curve;curve
+True;synthetix_SynthsMSFT;synthetix;synthetix;synthetix
+True;synthetix_SynthsUSD;synthetix;synthetix;synthetix
+True;Kano;kanois;kanois;kanois
+False;Curve.fi: USDT USDC DAI;tether;curve;tether
+False;convex_Claim Zap;claimswap;convex;claimswap
+True;synthetix_TokenStateiOIL;synthetix;synthetix;synthetix
+True;convex_Convex Multisig;convex;convex;convex
+True;LAtoken (LA);latoken;latoken;latoken
+True;maker_PROXY_ACTIONS_END;maker;maker;maker
+True;Changelly;changelly;changelly;changelly
+True;barnbridge_EPool WETH/USDC;barnbridge;barnbridge;barnbridge
+True;compound_SAI;compound;compound;compound
+True;compound_Base200bps_Slope2000bps_Jump8000bps_Kink90;compound;compound;compound
+True;BITFRONT;bitfront;bitfront;bitfront
+False;aave_Executor (short);-1;aave;-1
+True;maker_MCD_JOIN_BAT_A;maker;maker;maker
+False;fei_FEI-USD CompositeOracle;oracleswap;feiprotocol;oracleswap
+True;maker_MCD_JOIN_UNIV2DAIUSDC_A;maker;maker;maker
+True;uniswap_v3_pool_BIT_ETH;uniswap;uniswap;uniswap
+True;badger_native.badger-strategy;badger;badger;badger
+True;KuCoin 4;kucoin;kucoin;kucoin
+False;aave_amm_LendingPool;apeswap;aave;apeswap
+True;APROBIT;aprobit;aprobit;aprobit
+False;BTCC.com;50btccom;btcc;50btccom
+False;aave_aMKR;-1;aave;-1
+True;synthetix_ProxyiDOT;synthetix;synthetix;synthetix
+True;Bitcoin-Roulette.com;bitcoin-roulettecom;bitcoin-roulettecom;bitcoin-roulettecom
+True;Cryptorush.in;cryptorushin;cryptorushin;cryptorushin
+True;BtcExchange.ro;btcexchangero;btcexchangero;btcexchangero
+True;maker_GOV_GUARD;maker;maker;maker
+False;aave_Emergency Admin;-1;aave;-1
+False;Binance 18;-1;binance;-1
+True;FaucetBOX.com;faucetboxcom;faucetboxcom;faucetboxcom
+True;synthetix_StakingRewardssAAPLBalancer;synthetix;synthetix;synthetix
+True;uniswap_v3_pool_MATIC_ETH;uniswap;uniswap;uniswap
+True;Bithumb 8;bithumb;bithumb;bithumb
+True;harvestfinance_CRV-HBTC Pool;harvestfinance;harvestfinance;harvestfinance
+True;curvefinance_sAAVE-StableSwapSAAVE;curve;curve;curve
+False;aave_arc_PermissionedLendingPool;lendingpond;aave;lendingpond
+True;MineField.BitcoinLab.org;minefieldbitcoinlaborg;minefieldbitcoinlaborg;minefieldbitcoinlaborg
+False;0x_ERC1155Proxy-v4;-1;0x;-1
+True;badger_yearn.wBtc-vault;badger;badger;badger
+True;F2Pool;f2pool;f2pool;f2pool
+False;nexus_ClaimsReward;claimswap;nexus;claimswap
+True;dydx_OperationImpl42;dydx;dydx;dydx
+False;aave_UiPoolDataProvider;-1;aave;-1
+True;Gemini 6;gemini;gemini;gemini
+True;uniswap_v3_pool_TUSD_USDC;uniswap;uniswap;uniswap
+True;Huobi 29;huobi;huobi;huobi
+True;Bitcoin.com;bitcoincom;bitcoincom;bitcoincom
+True;curvefinance_Y-CurveTokenV1;curve;curve;curve
+True;hegic_Hegic ETH Options;hegic;hegic;hegic
+True;maker_PIP_UNIV2WBTCDAI;maker;maker;maker
+True;maker_MCD_JOIN_UNIV2DAIUSDT_A;maker;maker;maker
+False;nexus_NXMaster;masterxchange;nexus;masterxchange
+True;convex_Stash Factory;convex;convex;convex
+True;uniswap_UniswapV2UNIGovernorAlphaV2;uniswap;uniswap;uniswap
+True;DiceCoin.io;dicecoinio;dicecoinio;dicecoinio
+True;harvestfinance_fWETH;harvestfinance;harvestfinance;harvestfinance
+True;KickToken (KICK);kickex;kickex;kickex
+False;aave_stableDebtTokenAddress-aAmmUniCRVWETH;-1;aave;-1
+False;curvefinance_MUSD-LiquidityGaugeReward;liquidityfinance;curve;liquidityfinance
+False;curvefinance_LinkUSD-DepositLinkUSD;oklink;curve;oklink
+True;maker_PIP_RWA001;maker;maker;maker
+True;curvefinance_sAAVE-CurveTokenV3;curve;curve;curve
+True;BTC.com;btccom;btccom;btccom
+True;curvefinance_sUSD-CurveTokenV1;curve;curve;curve
+False;Binance 9;-1;binance;-1
+False;0x_DutchAuction-v4;-1;0x;-1
+True;KuCoin 6;kucoin;kucoin;kucoin
+True;OKCoin.com;okcoin;okcoin;okcoin
+True;CoinBox.me;coinboxme;coinboxme;coinboxme
+True;TOKPIE (TKP);tokpie;tokpie;tokpie
+True;Bithumb 1;bithumb;bithumb;bithumb
+True;maker_UNIV2AAVEETH;maker;maker;maker
+True;Hashnest.com;hashnest;hashnest;hashnest
+True;Coinone;coinone;coinone;coinone
+True;OkLink.com;oklink;oklink;oklink
+True;maker_MCD_CLIP_CALC_COMP_A;maker;maker;maker
+False;huobi reserve wallets SOL;dovewallet;huobi;dovewallet
+True;Poloniex: CVC;poloniex;poloniex;poloniex
+False;0x_ExchangeProxy-v4;xexchange;0x;xexchange
+False;nexus_Pool;nexus;nexusprotocol;nexus
+True;badger_daoBadgerTimelock;badger;badger;badger
+False;aave_aAmmWBTC;-1;aave;-1
+True;harvestfinance_Uniswap GRAIN:FARM;harvestfinance;harvestfinance;harvestfinance
+False;Eobot;-1;eobot;-1
+True;aave_aAAVE;aave;aave;aave
+True;Hotbit;hotbit;hotbit;hotbit
+False;aave_EmergencyAdmin;-1;aave;-1
+True;harvestfinance_fSLP-WBTC:WETH;harvestfinance;harvestfinance;harvestfinance
+True;maker_MCD_SPOT;maker;maker;maker
+False;Binance 34;-1;binance;-1
+True;bitfinex Ripple XRP hot wallet;bitfinex;bitfinex;bitfinex
+True;compound_StdComptrollerG5;compound;compound;compound
+False;0x_Governor-v3;governordao;0x;governordao
+True;dydx_CanonicalOrders1;dydx;dydx;dydx
+True;maker_MCD_JOIN_LINK_A;maker;maker;maker
+False;aave_variableDebtTokenAddress - aGUSD;-1;aave;-1
+True;synthetix_SynthsCEX;synthetix;synthetix;synthetix
+True;harvestfinance_FARM - USDC 20/80 Balancer;harvestfinance;harvestfinance;harvestfinance
+True;instadapp_1INCH-B;instadapp;instadapp;instadapp
+False;aave_stableDebtTokenAddress-aAmmUniRENWETH;-1;aave;-1
+True;Compound: Rate Model;compound;compound;compound
+True;synthetix_ProxyiREN;synthetix;synthetix;synthetix
+True;curvefinance_3Pool-CurveTokenV2;curve;curve;curve
+True;harvestfinance_CRV-USDN Pool;harvestfinance;harvestfinance;harvestfinance
+False;aave_Executor (long);-1;aave;-1
+True;renvm_DarknodeSlasher;ren;ren;ren
+True;maker_MCD_CLIP_UNIV2WBTCETH_A;maker;maker;maker
+True;maker_RWA002;maker;maker;maker
+False;bitfinex WAX hot wallet;dovewallet;bitfinex;dovewallet
+True;bitfinex XinFin (XDC) hot wallet;bitfinex;bitfinex;bitfinex
+True;sushiswap_SushiToken;sushiswap;sushiswap;sushiswap
+True;uniswap_v3_pool_GNO_ETH;uniswap;uniswap;uniswap
+True;maker_MCD_JOIN_ETH_B;maker;maker;maker
+True;barnbridge_Barn (Governance Staking);barnbridge;barnbridge;barnbridge
+True;synthetix_Synths1INCH;synthetix;synthetix;synthetix
+True;uniswap_v3_pool_USDT_AVINOC;uniswap;uniswap;uniswap
+True;harvestfinance_CRVRENBTC Vault;harvestfinance;harvestfinance;harvestfinance
+True;maker_MCD_CLIP_BAT_A;maker;maker;maker
+True;uniswap_v3_pool_BUSD_USDC;uniswap;uniswap;uniswap
+True;uniswap_UniswapProtocolTreasuryVester1;uniswap;uniswap;uniswap
+True;synthetix_ProxysCEX;synthetix;synthetix;synthetix
+True;curvefinance_sETH-CurveTokenV3;curve;curve;curve
+True;synthetix_SynthiETC;synthetix;synthetix;synthetix
+True;Bitfinex.com;bitfinex;bitfinex;bitfinex
+True;aave_rwa_AaveOracle;aave;aave;aave
+True;synthetix_TokenStateiAAVE;synthetix;synthetix;synthetix
+True;compound_cCOMP+Uni_Delegate_MultiLabel;compound;compound;compound
+True;synthetix_SynthsFB;synthetix;synthetix;synthetix
+False;vesper_vBetaETH-strategy-compound;compound;vesper;compound
+False;aave_stableDebtTokenAddress - aBAT;-1;aave;-1
+True;aave_arc_PriceOracle;aave;aave;aave
+True;Coinbase 3;coinbase;coinbase;coinbase
+False;OKEx;-1;okex;-1
+True;maker_MCD_JOIN_DAI;maker;maker;maker
+True;maker_MCD_CLIP_UNIV2DAIUSDC_A;maker;maker;maker
+False;curvefinance_Link-LiquidityGaugeV2;liquidityfinance;curve;liquidityfinance
+True;PonziCoin.co;ponzicoinco;ponzicoinco;ponzicoinco
+True;BitNZ.com;bitnzcom;bitnzcom;bitnzcom
+True;vesper_vBetaWBTC-feeWhiteList;vesper;vesper;vesper
+True;synthetix_SynthsYFI;synthetix;synthetix;synthetix
+True;Huobi 24;huobi;huobi;huobi
+False;Kuna.io;-1;kuna;-1
+True;maker_MCD_CLIP_RENBTC_A;maker;maker;maker
+True;Coinone 2;coinone;coinone;coinone
+False;Binance 13;-1;binance;-1
+True;Sigmapool.com;sigmapool;sigmapool;sigmapool
+True;Liquid 1;liquid;liquid;liquid
+True;barnbridge_EToken WETH/USDC 75/25;barnbridge;barnbridge;barnbridge
+True;balancer_Core Pool Factory;balancer;balancer;balancer
+True;fei_Fuse Pool 24 FEI PCV Deposit;feiprotocol;feiprotocol;feiprotocol
+True;Btcst.com-pirateat40;btcstcom-pirateat40;btcstcom-pirateat40;btcstcom-pirateat40
+True;maker_MCD_POT;maker;maker;maker
+True;synthetix_SynthiXMR;synthetix;synthetix;synthetix
+True;convex_cvxCRV/CRV SLP;convex;convex;convex
+True;nexus_DistributorFactory;nexus;nexus;nexus
+False;aave_rwa_PermissionedLendingPoolAddressesProvider;apeswap;aave;apeswap
+True;dydx_Expiry1;dydx;dydx;dydx
+True;maker_MCD_JOIN_UNIV2DAIETH_A;maker;maker;maker
+True;synthetix_ProxyiXMR;synthetix;synthetix;synthetix
+True;synthetix_TokenStatesFTSE;synthetix;synthetix;synthetix
+True;compound_cETH;compound;compound;compound
+False;Huobi;-1;huobi;-1
+True;synthetix_TokenStatesGBP;synthetix;synthetix;synthetix
+True;uniswap_NFTDescriptor;uniswap;uniswap;uniswap
+True;badger_native.tbtcCrv0vault;badger;badger;badger
+False;0x_Coordinator-v4;-1;0x;-1
+True;convex_CVX;convex;convex;convex
+True;nexus_TokenController;nexus;nexus;nexus
+True;EmpoEX.com;empoex;empoex;empoex
+True;BtcDice.com;btcdicecom;btcdicecom;btcdicecom
+True;Bitstamp 3;bitstamp;bitstamp;bitstamp
+True;Betcoin.ag;betcoinag;betcoinag;betcoinag
+True;PocketRocketsCasino.eu;pocketrocketscasinoeu;pocketrocketscasinoeu;pocketrocketscasinoeu
+True;harvestfinance_USDT Pool;harvestfinance;harvestfinance;harvestfinance
+True;Binance US;binance;binance;binance
+True;synthetix_TokenStatesETH;synthetix;synthetix;synthetix
+True;dydx_Refunder1;dydx;dydx;dydx
+True;Cryptopia 1;cryptopia;cryptopia;cryptopia
+True;compound_cREP;compound;compound;compound
+True;maker_MCD_JOIN_UNIV2LINKETH_A;maker;maker;maker
+True;Ccedk.com;ccedk;ccedk;ccedk
+True;Internet Archive;internet_archive;internet_archive;internet_archive
+True;futureswap_Wallet;futureswap;futureswap;futureswap
+False;aave_LendingPool;lendingpond;aave;lendingpond
+False;curvefinance_Compound-DepositCompound;component;curve;component
+True;hegic_Hegic WBTC Bidirectional Liquidity Pool;hegic;hegic;hegic
+False;Haozhuzhu;-1;haozhuzhu;-1
+False;Mt red;-1;mtred;-1
+True;Kryptono 2;kryptono;kryptono;kryptono
+True;synthetix_SynthsETHBTC;synthetix;synthetix;synthetix
+False;aave_aAmmUniSNXWETH;-1;aave;-1
+True;uniswap_v3_pool_USDC_USDM;uniswap;uniswap;uniswap
+True;instadapp_InstaAaveV2MigratorReceiver137;instadapp;instadapp;instadapp
+False;nexus_TwapOracle;oracleswap;nexus;oracleswap
+True;synthetix_TokenStatesADA;synthetix;synthetix;synthetix
+True;Flybit;flybit;flybit;flybit
+True;synthetix_SynthsEOS;synthetix;synthetix;synthetix
+True;convex_Arbitrator Vault;convex;convex;convex
+True;synthetix_TokenStatesETC;synthetix;synthetix;synthetix
+True;synthetix_RewardsDistribution;synthetix;synthetix;synthetix
+True;DeepBit.net;deepbitnet;deepbitnet;deepbitnet
+True;bitfinex Vechain cold wallet;bitfinex;bitfinex;bitfinex
+True;compound_cUNI;compound;compound;compound
+True;compound_Base200bps_Slope3000bps;compound;compound;compound
+False;aave_aTUSD;-1;aave;-1
+True;NitrogenSports.eu;nitrogensportseu;nitrogensportseu;nitrogensportseu
+True;Coinbase 2;coinbase;coinbase;coinbase
+True;instadapp_InstaVestingResolver;instadapp;instadapp;instadapp
+True;maker_MCD_CLIP_YFI_A;maker;maker;maker
+True;synthetix_StakingRewardssXAUUniswapV2;synthetix;synthetix;synthetix
+True;convex_Convex MasterChef;convex;convex;convex
+False;aave_variableDebtTokenAddress - aMKR;-1;aave;-1
+True;curvefinance_Curve Calculator;curve;curve;curve
+True;Bitfinex: Contract 2;bitfinex;bitfinex;bitfinex
+False;aave_aXSUSHI;sushiswap;aave;sushiswap
+True;Compound: Deployer 4;compound;compound;compound
+True;Compound: Rate Model 2;compound;compound;compound
+False;huobi reserve wallets ADA;dovewallet;huobi;dovewallet
+False;Hhtt;-1;hhtt;-1
+True;synthetix_StakingRewardsSNXBalancer;synthetix;synthetix;synthetix
+True;uniswap_v3_pool_WBTC_ETH_03;uniswap;uniswap;uniswap
+False;XT Token (XT);latoken;xt;latoken
+False;aave_variableDebtTokenAddress - aUSDC;-1;aave;-1
+True;maker_MCD_JOIN_UNI_A;maker;maker;maker
+True;compound_cLINK;compound;compound;compound
+True;NucleusMarket;nucleusmarket;nucleusmarket;nucleusmarket
+True;synthetix_ProxysAUD;synthetix;synthetix;synthetix
+True;curvefinance_HUSD-CurveTokenV2;curve;curve;curve
+True;uniswap_v3_pool_LDO_ETH_03;uniswap;uniswap;uniswap
+True;curvefinance_GUSD-StableSwapGUSD;curve;curve;curve
+False;Binance 16;-1;binance;-1
+True;DiceBitco.in;dicebitcoin;dicebitcoin;dicebitcoin
+True;bitfinex L-BTC hot wallet;bitfinex;bitfinex;bitfinex
+True;compound_IRM_COMP_Updateable;compound;compound;compound
+True;synthetix_TokenStatesKRW;synthetix;synthetix;synthetix
+True;EclipseMC;eclipsemccom;eclipsemccom;eclipsemccom
+True;ZBX Token (ZBX);zbx;zbx;zbx
+False;Binance 32;-1;binance;-1
+True;badger_native.digg-vault;badger;badger;badger
+True;barnbridge_Pool 2 (Uniswap BOND/USDC LP);barnbridge;barnbridge;barnbridge
+True;vesper_VDAI-feeWhiteList;vesper;vesper;vesper
+True;nexus_SwapOperator;nexus;nexus;nexus
+True;BTCCToken (BTCC);btcc;btcc;btcc
+False;aave_stableDebtTokenAddress-aAmmBptWBTCWETH;-1;aave;-1
+False;1inch_SpotPriceAggregator;jupiter;1inch;jupiter
+True;barnbridge_aDAI Rewards Pool;barnbridge;barnbridge;barnbridge
+False;Binance.com;-1;binance;-1
+False;aave_aAmmUniRENWETH;-1;aave;-1
+True;renvm_REN Token;ren;ren;ren
+True;maker_PROXY_PAUSE_ACTIONS;maker;maker;maker
+True;Gemini 2;gemini;gemini;gemini
+True;uniswap_SwapRouter;uniswap;uniswap;uniswap
+True;Bitfloor;bitfloor;bitfloor;bitfloor
+False;curvefinance_hBTC-LiquidityGauge;liquidityfinance;curve;liquidityfinance
+True;synthetix_TokenStateiBNB;synthetix;synthetix;synthetix
+True;uniswap_v3_pool_ETH_ETHM;uniswap;uniswap;uniswap
+True;synthetix_TokenStatesTSLA;synthetix;synthetix;synthetix
+True;badger_native.sushiWbtcEth-strategy;badger;badger;badger
+True;Bittrex 2;bittrex;bittrex;bittrex
+False;Binance 25;-1;binance;-1
+True;LocalBitcoins.com;localbitcoins;localbitcoins;localbitcoins
+True;BtcEX Coin (BXC);btcex;btcex;btcex
+True;Bitfinex 13;bitfinex;bitfinex;bitfinex
+True;bitfinex EOS/EOS Tokens cold/wallet;bitfinex;bitfinex;bitfinex
+True;synthetix_SynthsTSLA;synthetix;synthetix;synthetix
+True;dydx_WethPriceOracle42;dydx;dydx;dydx
+False;0x_ExchangeProxyFlashWallet-v4;xexchange;0x;xexchange
+True;badger_deployer;badger;badger;badger
+True;balancer_MerkleRedeem;balancer;balancer;balancer
+True;bitfinex Oxygen (OXY) hot wallet;bitfinex;bitfinex;bitfinex
+True;synthetix_SynthiLTC;synthetix;synthetix;synthetix
+True;maker_MCD_CLIP_USDT_A;maker;maker;maker
+True;instadapp_INST-A;instadapp;instadapp;instadapp
+False;curvefinance_pBTC-LiquidityGaugeV2;liquidityfinance;curve;liquidityfinance
+True;harvestfinance_fCRV-3POOL;harvestfinance;harvestfinance;harvestfinance
+True;compound_cWBTC2;compound;compound;compound
+True;synthetix_DelegateApprovals;synthetix;synthetix;synthetix
+True;CREX24;crex24;crex24;crex24
+True;aave_variableDebtTokenAddress-aAmmUniAAVEWETH;aave;aave;aave
+False;huobi reserve wallets FIL;dovewallet;huobi;dovewallet
+True;bitfinex Zilliqa hot wallet;bitfinex;bitfinex;bitfinex
+False;huobi reserve wallets DOT;dovewallet;huobi;dovewallet
+True;Liquid 4;liquid;liquid;liquid
+True;Justcoin.com;justcoin;justcoin;justcoin
+True;maker_BAL;maker;maker;maker
+True;BITStorage;bitstorage;bitstorage;bitstorage
+True;maker_MCD_CLIP_UNI_A;maker;maker;maker
+True;curvefinance_pBTC-StableSwapPBTC;curve;curve;curve
+True;maker_MCD_JOIN_USDC_A;maker;maker;maker
+True;bitfinex Dfinity hot wallet;bitfinex;bitfinex;bitfinex
+True;uniswap_v3_pool_cbETH_ETH;uniswap;uniswap;uniswap
+True;instadapp_Mainnet-InstaList;instadapp;instadapp;instadapp
+False;maker_MCD_CLIP_TUSD_A;plutusdao;maker;plutusdao
+False;huobi reserve wallets BETH;dovewallet;huobi;dovewallet
+True;maker_PIP_TUSD;maker;maker;maker
+True;Coinsbit Token (CNB);coinsbit;coinsbit;coinsbit
+False;aave_variableDebtTokenAddress - aXSUSHI;sushiswap;aave;sushiswap
+False;ShapeShift 5;-1;shapeshift;-1
+True;compound_cUSDP;compound;compound;compound
+True;SatoshiDice.com;satoshidicecom;satoshidicecom;satoshidicecom
+True;maker_MCD_CAT;maker;maker;maker
+True;synthetix_TokenStatesMSFT;synthetix;synthetix;synthetix
+False;aave_aWETH;-1;aave;-1
+True;Dgex.com;dgex;dgex;dgex
+False;aave_aAmmBptBALWETH;-1;aave;-1
+True;renvm_ZECGateway;ren;ren;ren
+False;MiningCity;-1;miningcity;-1
+True;Compound: Oracle;compound;compound;compound
+True;uniswap_UniswapV2UNITimelock;uniswap;uniswap;uniswap
+False;aave_aREN;-1;aave;-1
+True;Bitfinex LEO Token (LEO);bitfinex;bitfinex;bitfinex
+True;badger_Sett;badger;badger;badger
+True;CloudBet.com;cloudbetcom;cloudbetcom;cloudbetcom
+False;aave_stableDebtTokenAddress-aAmmUniYFIWETH;-1;aave;-1
+False;Ethfinex: Old Contract;-1;bitfinex;-1
+True;bitfinex Planets hot wallet;bitfinex;bitfinex;bitfinex
+False;binance reserve wallets BTC;dovewallet;binance;dovewallet
+True;synthetix_TokenStatesXMR;synthetix;synthetix;synthetix
+True;curvefinance_DUSD-CurveTokenV2;curve;curve;curve
+True;synthetix_IssuanceEternalStorage;synthetix;synthetix;synthetix
+False;Coinlab;-1;coinlab;-1
+True;compound_COMP;compound;compound;compound
+True;sinbad.io;sinbadio;sinbadio;sinbadio
+True;bitfinex Monero XMR hot wallet;bitfinex;bitfinex;bitfinex
+True;synthetix_TokenStatesNIKKEI;synthetix;synthetix;synthetix
+True;curvefinance_IronBank-CurveTokenV3;curve;curve;curve
+False;aave_amm_ProtocolDataProvider;bprotocol;aave;bprotocol
+True;Coinbase: Coinbase Commerce;coinbase;coinbase;coinbase
+True;Bitfinex: Old Address 1;bitfinex;bitfinex;bitfinex
+True;harvestfinance_fCRV-RENWBTC;harvestfinance;harvestfinance;harvestfinance
+True;synthetix_TokenStateiETC;synthetix;synthetix;synthetix
+True;MasterXchange.com;masterxchange;masterxchange;masterxchange
+True;harvestfinance_TUSD Pool;harvestfinance;harvestfinance;harvestfinance
+True;bitfinex LUNA2 cold wallet;bitfinex;bitfinex;bitfinex
+True;synthetix_ProxyERC20sUSD;synthetix;synthetix;synthetix
+False;0x_CoordinatorRegistry-v4;-1;0x;-1
+True;Betcoins.net;betcoinsnet;betcoinsnet;betcoinsnet
+True;Bitcurex.com;bitcurex;bitcurex;bitcurex
+True;LAToken 3;latoken;latoken;latoken
+True;BitcoinPokerTables.com;bitcoinpokertablescom;bitcoinpokertablescom;bitcoinpokertablescom
+True;Binance: Binance-Peg Tokens;binance;binance;binance
+True;vesper_controller;vesper;vesper;vesper
+False;maker_RWA002_A_INPUT+OUTPUT_CONDUIT_MultiLabel;inputsio;maker;inputsio
+True;Xapo.com;xapo;xapo;xapo
+True;bitfinex Reef hot wallet;bitfinex;bitfinex;bitfinex
+True;CoinVault;coinvault;coinvault;coinvault
+True;Compound: Contract 1;compound;compound;compound
+False;aave_stableDebtTokenAddress - aSNX;-1;aave;-1
+True;badger_native.uniDiggWbtc-vault;badger;badger;badger
+True;synthetix_SynthetixBridgeToOptimism;synthetix;synthetix;synthetix
+True;maker_PIP_USDT;maker;maker;maker
+True;SheepMarketplace;sheepmarketplace;sheepmarketplace;sheepmarketplace
+True;synthetix_TokenStatesETHBTC;synthetix;synthetix;synthetix
+True;maker_MCD_CLIP_CALC_UNI_A;maker;maker;maker
+True;Compound: Oracle v2;compound;compound;compound
+False;Hoo.com 4;-1;hoo;-1
+True;badger_native.renCrv-vault;badger;badger;badger
+True;CoinW 2;coinw;coinw;coinw
+True;Huobi 31;huobi;huobi;huobi
+True;synthetix_EtherCollateralsUSD;synthetix;synthetix;synthetix
+False;aave_variableDebtTokenAddress-aAmmBptBALWETH;-1;aave;-1
+True;curvefinance_PAX-DepositPax;curve;curve;curve
+False;CoinJar.com;coinjar;coinw;coinjar
+True;Huobi: HBTC Token;huobi;huobi;huobi
+False;1inch_Referral Fee Receiver;ferro;1inch;ferro
+True;compound_Pair_ETH_ZRX;compound;compound;compound
+True;YoBit.net;yobit;yobit;yobit
+True;KuCoin 5;kucoin;kucoin;kucoin
+True;synthetix_TokenStateiXMR;synthetix;synthetix;synthetix
+False;0x_Broker-v3;-1;0x;-1
+True;instadapp_InstaCompoundMapping;instadapp;instadapp;instadapp
+False;aave_variableDebtTokenAddress;-1;aave;-1
+True;Poloniex: GNT;poloniex;poloniex;poloniex
+True;synthetix_OneNetAggregatorDebtRatio;synthetix;synthetix;synthetix
+True;curvefinance_DUSD-StableSwapDUSD;curve;curve;curve
+True;Picostocks;picostocks;picostocks;picostocks
+True;curvefinance_EURS-CurveTokenV3;curve;curve;curve
+True;bitfinex Serum hot wallet;bitfinex;bitfinex;bitfinex
+True;BitKonan.com;bitkonan;bitkonan;bitkonan
+True;Kraken 9;kraken;kraken;kraken
+False;aave_GovernanceStrategy;-1;aave;-1
+True;compound_PriceOracle;compound;compound;compound
+True;curvefinance_sBTC-CurveTokenV1;curve;curve;curve
+True;convex_Vested Escrow;convex;convex;convex
+True;Bitstamp;bitstamp;bitstamp;bitstamp
+True;nexus_TokenData;nexus;nexus;nexus
+True;compound_cUsdtDelegate;compound;compound;compound
+True;barnbridge_OwnershipFacet;barnbridge;barnbridge;barnbridge
+True;instadapp_mainnet-v2-InstaConnectorsV2Proxy;instadapp;instadapp;instadapp
+True;dydx_ExpiryV242;dydx;dydx;dydx
+True;synthetix_ProxysETHBTC;synthetix;synthetix;synthetix
+True;SBI Crypto;sbicrypto;sbicrypto;sbicrypto
+False;aave_variableDebtTokenAddress - aLINK;-1;aave;-1
+True;synthetix_ProxyiTRX;synthetix;synthetix;synthetix
+True;curvefinance_USDP-CurveTokenV3;curve;curve;curve
+True;synthetix_TokenStatesCRV;synthetix;synthetix;synthetix
+True;CoinCafe.com;coincafe;coincafe;coincafe
+False;balancer_RightsManager;brightside;balancer;brightside
+True;Bixin;bixin;bixin;bixin
+True;synthetix_ProxysAAPL;synthetix;synthetix;synthetix
+True;badger_guardian;badger;badger;badger
+False;Binance 4;-1;binance;-1
+True;synthetix_ProxysLTC;synthetix;synthetix;synthetix
+True;Bitci;bitci;bitci;bitci
+True;maker_MCD_CLIP_CALC_USDC_B;maker;maker;maker
+False;BtcTrade.com;crypto-tradecom;btctrade;crypto-tradecom
+True;Gemini 7;gemini;gemini;gemini
+False;nexus_Claims;claimswap;nexus;claimswap
+True;maker_MCD_VAT;maker;maker;maker
+True;curvefinance_3pool-MetaImplementationUSD.vy;curve;curve;curve
+True;ABCC;abcc;abcc;abcc
+True;maker_MCD_JOIN_ETH_A;maker;maker;maker
+False;Poolin 3;-1;poolin;-1
+True;sushiswap_Kashi SushiMaker;sushiswap;sushiswap;sushiswap
+False;curvefinance_rETH-LiquidityGaugeV3;liquidityfinance;curve;liquidityfinance
+False;curvefinance_UST-LiquidityGaugeV2;liquidityfinance;curve;liquidityfinance
+True;synthetix_TokenStatesAUD;synthetix;synthetix;synthetix
+True;Ozcoin;ozcoin;ozcoin;ozcoin
+True;curvefinance_tBTC-DepositTBTC;curve;curve;curve
+True;Bitfinex 4;bitfinex;bitfinex;bitfinex
+False;curvefinance_Emergency-Agent;convergence;curve;convergence
+False;vesper_vBetaWBTC-strategy-compound;compound;vesper;compound
+True;Trade.io;tradeio;tradeio;tradeio
+False;Binance 23;-1;binance;-1
+False;BX.in.th;-1;bx;-1
+False;Binance 3;-1;binance;-1
+True;synthetix_SynthsCRV;synthetix;synthetix;synthetix
+True;instadapp_REFLEXER-A;instadapp;instadapp;instadapp
+True;Bitfinex: Old Contract 1;bitfinex;bitfinex;bitfinex
+False;aave_stableDebtTokenAddress-aAmmUniLINKWETH;-1;aave;-1
+True;uniswap_v3_pool_LINK_ETH;uniswap;uniswap;uniswap
+True;FortuneJack.com;fortunejackcom;fortunejackcom;fortunejackcom
+True;bitfinex VeChain hot wallet;bitfinex;bitfinex;bitfinex
+False;OKMINER;-1;okminer;-1
+True;SafeDice.com;safedicecom;safedicecom;safedicecom
+True;futureswap_Exchange - ETH/USDC;futureswap;futureswap;futureswap
+True;instadapp_mainnet-v2-InstaImplementationM1;instadapp;instadapp;instadapp
+True;synthetix_TokenStateiDOT;synthetix;synthetix;synthetix
+True;instadapp_mainnet-v2-InstaChiefTimelockContract;instadapp;instadapp;instadapp
+True;Cryptonex (CNX);cryptonex;cryptonex;cryptonex
+False;curvefinance_Yv2-LiquidityGaugeV2;liquidityfinance;curve;liquidityfinance
+True;BitcoinVietnam.com.vn;bitcoinvietnam;bitcoinvietnam;bitcoinvietnam
+True;synthetix_TokenStatesAAPL;synthetix;synthetix;synthetix
+True;bitfinex ETH/ERC20 (old) hot wallet;bitfinex;bitfinex;bitfinex
+True;Genesis-Mining.com;genesis-miningcom;genesis-miningcom;genesis-miningcom
+True;curvefinance_USDK-DepositUSDK;curve;curve;curve
+False;aave_aRENFIL;-1;aave;-1
+True;BitcoinWeBank.com;bitcoinwebankcom;bitcoinwebankcom;bitcoinwebankcom
+True;synthetix_ProxysCOIN;synthetix;synthetix;synthetix
+True;Folgory Coin (FLG);folgory;folgory;folgory
+True;compound_DSR_Updateable;compound;compound;compound
+True;barnbridge_cUSDC Rewards Pool;barnbridge;barnbridge;barnbridge
+False;aave_Price Oracle;-1;aave;-1
+True;nexus_MCR;nexus;nexus;nexus
+True;badger_native.tbtcCrv-strategy;badger;badger;badger
+True;convex_Voter Proxy;convex;convex;convex
+True;synthetix_SynthiYFI;synthetix;synthetix;synthetix
+True;badger_StrategyBadgerLpMetaFarm;badger;badger;badger
+True;bitfinex Avalanche (old) hot wallet;bitfinex;bitfinex;bitfinex
+True;maker_RWA001;maker;maker;maker
+False;0x_MultiAssetProxy-v4;-1;0x;-1
+True;maker_PIP_UNIV2DAIUSDT;maker;maker;maker
+True;synthetix_ProxysTSLA;synthetix;synthetix;synthetix
+True;bitfinex Solana hot wallet;bitfinex;bitfinex;bitfinex
+False;balancer_Exchange Proxy;jexchange;balancer;jexchange
+True;Telco214;telco214;telco214;telco214
+True;synthetix_TokenStateiEOS;synthetix;synthetix;synthetix
+True;badger_native.uniBadgerWbtc-geyser;badger;badger;badger
+True;DiceOnCrack.com;diceoncrackcom;diceoncrackcom;diceoncrackcom
+True;synthetix_ProxyiUNI;synthetix;synthetix;synthetix
+True;Playt.in;playtin;playtin;playtin
+False;Transactioncoinmining;-1;transactioncoinmining;-1
+True;compound_Pair_BAT_ETH;compound;compound;compound
+False;aave_variableDebtTokenAddress - aUSDT;-1;aave;-1
+False;dydx_DoubleExponentInterestSetter42;component;dydx;component
+True;maker_MCD_JOIN_GUSD_A;maker;maker;maker
+True;curvefinance_USDK-StableSwapUSDK;curve;curve;curve
+True;MPEx.co;mpexco;mpexco;mpexco
+True;curvefinance_alUSD-Metaimplementation;curve;curve;curve
+False;curvefinance_alUSD-LiquidityGaugeV3;liquidityfinance;curve;liquidityfinance
+False;UniDex (UNIDX);omnidexlend;unidex;omnidexlend
+True;harvestfinance_USDC Vault;harvestfinance;harvestfinance;harvestfinance
+True;bitfinex Stepn (GMT) hot wallet;bitfinex;bitfinex;bitfinex
+True;curvefinance_BUSD-StableSwapBUSD;curve;curve;curve
+True;vesper_vBetaWBTC-pool;vesper;vesper;vesper
+True;maker_MCD_CLIP_CALC_BAT_A;maker;maker;maker
+True;curvefinance_Gauge Owner;curve;curve;curve
+False;nexus_ClaimProofs;claimswap;nexus;claimswap
+True;harvestfinance_WETH-DAI-LP Vault;harvestfinance;harvestfinance;harvestfinance
+False;aave_stableDebtTokenAddress - aDAI;-1;aave;-1
+True;uniswap_v3_pool_FRAX_USDC;uniswap;uniswap;uniswap
+True;instadapp_mainnet-v2-InstaAccountV2;instadapp;instadapp;instadapp
+True;harvestfinance_fSLP-USDC:WETH;harvestfinance;harvestfinance;harvestfinance
+True;ATAIX;ataix;ataix;ataix
+False;Polkadex (PDEX);polkaswap;polkaex;polkaswap
+False;Kuna.io 2;-1;kuna;-1
+True;Coinbase.com;coinbase;coinbase;coinbase
+False;aave_aAmmUniBATWETH;-1;aave;-1
+True;renvm_DarknodePaymentStore;ren;ren;ren
+True;Huobi 21;huobi;huobi;huobi
+False;aave_variableDebtTokenAddress - aSUSD;-1;aave;-1
+False;Poolin 4;-1;poolin;-1
+False;curvefinance_oBTC-StableSwapOBTC;haobtccom;curve;haobtccom
+False;bitfinex Fantom/Fantom tokens hot wallet;tombswapfantom;bitfinex;tombswapfantom
+True;SimpleCoin.cz;simplecoin;simplecoin;simplecoin
+True;uniswap_v3_pool_DAI_USDC_005;uniswap;uniswap;uniswap
+True;BitBargain.co.uk;bitbargain;bitbargain;bitbargain
+True;bitfinex Tether USDt (Near) hot wallet;bitfinex;bitfinex;bitfinex
+True;curvefinance_Fee Distributor;curve;curve;curve
+True;Bitfinex 12;bitfinex;bitfinex;bitfinex
+True;synthetix_TokenStateiCOMP;synthetix;synthetix;synthetix
+True;harvestfinance_fTUSD;harvestfinance;harvestfinance;harvestfinance
+True;synthetix_TokenStatesREN;synthetix;synthetix;synthetix
+True;maker_MCD_JOIN_ETH_C;maker;maker;maker
+True;instadapp_InstaReflexerGebMapping;instadapp;instadapp;instadapp
+True;maker_MCD_JOIN_RENBTC_A;maker;maker;maker
+True;dydx_SignedOperationProxy1;dydx;dydx;dydx
+True;SpectroCoin.com;spectrocoin;spectrocoin;spectrocoin
+True;BitStarz.com;bitstarzcom;bitstarzcom;bitstarzcom
+True;BTCGuild.com;btcguildcom;btcguildcom;btcguildcom
+True;maker_DSR_MANAGER;maker;maker;maker
+True;Exchange-Credit.ru;exchangecredit;exchangecredit;exchangecredit
+True;synthetix_SafeDecimalMath;synthetix;synthetix;synthetix
+True;bitfinex Blockstream Mining Note (BMN) hot wallet;bitfinex;bitfinex;bitfinex
+False;Curve.fi tStable Token;xtoken;curve;xtoken
+True;synthetix_TokenStateiDEFI;synthetix;synthetix;synthetix
+True;Dagensia.eu;dagensia;dagensia;dagensia
+True;uniswap_UniswapProtocolTreasuryVester4;uniswap;uniswap;uniswap
+False;bitfinex Songbird hot wallet;pangolin;bitfinex;pangolin
+True;synthetix_StakingRewardssGOOGBalancer;synthetix;synthetix;synthetix
+True;maker_PIP_YFI;maker;maker;maker
+True;synthetix_TokenStatesXAG;synthetix;synthetix;synthetix
+False;Binance Charity;nicechange;binance;nicechange
+False;aave_variableDebtTokenAddress-aAmmUniBATWETH;-1;aave;-1
+False;aave_stableDebtTokenAddress - aUSDT;-1;aave;-1
+True;FCoin;fcoin;fcoin;fcoin
+True;instadapp_PARASWAP-A;instadapp;instadapp;instadapp
+False;aave_LendingPoolConfigurator;lendingpond;aave;lendingpond
+True;bitfinex Dogecoin hot wallet;bitfinex;bitfinex;bitfinex
+False;instadapp_POLYGON-BRIDGE-A;instadapp;polygonbridgestaking;instadapp
+True;uniswap_v3_pool_MKR_ETH;uniswap;uniswap;uniswap
+True;compound_Pair_ETH_KNC;compound;compound;compound
+True;EveryDice.com;everydicecom;everydicecom;everydicecom
+True;synthetix_ProxysAMZN;synthetix;synthetix;synthetix
+True;Exmo 2;exmo;exmo;exmo
+True;maker_RWA002_A_URN;maker;maker;maker
+True;FoxBit.com.br;foxbit;foxbit;foxbit
+True;balancer_BActions;balancer;balancer;balancer
+False;aave_stableDebtTokenAddress - aYFI;-1;aave;-1
+True;HitBtc.com;hitbtc;hitbtc;hitbtc
+True;synthetix_SynthiXTZ;synthetix;synthetix;synthetix
+False;aave_aUSDT;-1;aave;-1
+True;Kraken.com;kraken;kraken;kraken
+True;synthetix_EtherWrapper;synthetix;synthetix;synthetix
+True;bitfinex IOTA cold Wallet;bitfinex;bitfinex;bitfinex
+True;LuckyB.it;luckybit;luckybit;luckybit
+False;aave_stableDebtTokenAddress - aMKR;-1;aave;-1
+True;synthetix_RewardEscrowV2;synthetix;synthetix;synthetix
+True;synthetix_ProxysBNB;synthetix;synthetix;synthetix
+True;harvestfinance_YFV Pool;harvestfinance;harvestfinance;harvestfinance
+False;fei_EthUniswapPCVDeposit;uniswap;feiprotocol;uniswap
+True;CryptalDash (CRD);cryptaldash;cryptaldash;cryptaldash
+True;dydx_LiquidatorProxyV1ForSoloMargin42;dydx;dydx;dydx
+True;uniswap_v3_pool_DAI_ETH_03;uniswap;uniswap;uniswap
+True;instadapp_ConnectMaker;instadapp;instadapp;instadapp
+True;compound_cTUSDDelegate;compound;compound;compound
+True;vesper_VDAI-pool;vesper;vesper;vesper
+False;aave_variableDebtTokenAddress - aWETH;-1;aave;-1
+False;nexus_ClaimsData;claimswap;nexus;claimswap
+True;curvefinance_GUSD-DepositGUSD;curve;curve;curve
+True;uniswap_v3_pool_1INCH_ETH;uniswap;uniswap;uniswap
+False;aave_variableDebtTokenAddress - aBUSD;-1;aave;-1
+True;Coinroll.com;coinrollcom;coinrollcom;coinrollcom
+True;bitfinex Ziliqa (ZIL) hot wallet;bitfinex;bitfinex;bitfinex
+True;Remitano 1;remitano;remitano;remitano
+False;aave_aBAL;-1;aave;-1
+True;UpDown.BT;updownbt;updownbt;updownbt
+False;Binance 22;-1;binance;-1
+False;yearn_v2.registry.ychad.eth;-1;yearnfinance;-1
+False;okx ERC20 reserves;independentreserve;okex;independentreserve
+True;Poloniex 4;poloniex;poloniex;poloniex
+False;Bybit reserve wallets;dovewallet;bybit;dovewallet
+True;maker_PIP_UNIV2UNIETH;maker;maker;maker
+True;compound_GovernorBravo;compound;compound;compound
+False;aave_aGUSD;-1;aave;-1
+False;ShapeShift 7;-1;shapeshift;-1
+False;aave_aYFI;-1;aave;-1
+True;aave_arc_PermissionManager;aave;aave;aave
+True;Azbit;azbit;azbit;azbit
+True;Gemini 4;gemini;gemini;gemini
+False;aave_rwa_LendingPoolConfigurator;lendingpond;aave;lendingpond
+True;Huobi 13;huobi;huobi;huobi
+True;Cryptopia 2;cryptopia;cryptopia;cryptopia
+True;SatoshiRoulette.com;satoshiroulettecom;satoshiroulettecom;satoshiroulettecom
+False;aave_aAmmUSDC;-1;aave;-1
+True;nexus_Incidents;nexus;nexus;nexus
+False;Maxbtc;-1;maxbtc;-1
+True;instadapp_InstaAaveV2MigratorSender1;instadapp;instadapp;instadapp
+True;barnbridge_EToken WETH/WBTC 50/50;barnbridge;barnbridge;barnbridge
+True;Beaxy;beaxy;beaxy;beaxy
+False;fei_Fei;-1;feiprotocol;-1
+True;instadapp_ConnectAaveV2PolygonMigrator1;instadapp;instadapp;instadapp
+True;bitfinex BCH cold wallet;bitfinex;bitfinex;bitfinex
+True;CrimeNetwork.cc;crimenetworkcc;crimenetworkcc;crimenetworkcc
+True;maker_MCD_VOW;maker;maker;maker
+True;maker_MCD_JOIN_UNIV2WBTCETH_A;maker;maker;maker
+True;instadapp_mainnet-v2-InstaConnectorsV2;instadapp;instadapp;instadapp
+True;Peerbet.org;peerbetorg;peerbetorg;peerbetorg
+True;Bilaxy 2;bilaxy;bilaxy;bilaxy
+True;Bitfinex 11;bitfinex;bitfinex;bitfinex
+True;synthetix_TokenStateiADA;synthetix;synthetix;synthetix
+True;uniswap_v3_pool_DAI_FRAX;uniswap;uniswap;uniswap
+True;CoinWorker.com;coinworkercom;coinworkercom;coinworkercom
+True;synthetix_ProxyiETC;synthetix;synthetix;synthetix
+True;Huobi 16;huobi;huobi;huobi
+True;synthetix_CollateralManager;synthetix;synthetix;synthetix
+True;Bitfinex 6;bitfinex;bitfinex;bitfinex
+True;maker_PIP_UNIV2DAIETH;maker;maker;maker
+True;maker_MCD_ESM;maker;maker;maker
+True;synthetix_TokenStatesAMZN;synthetix;synthetix;synthetix
+True;Bitcoinrussia;bitcoinrussia;bitcoinrussia;bitcoinrussia
+True;BitMinter.com;bitmintercom;bitmintercom;bitmintercom
+False;aave_variableDebtTokenAddress - aREN;-1;aave;-1
+True;KuCoin Shares;kucoin;kucoin;kucoin
+False;fei_EthReserveStabilizer;unfederalreserve;feiprotocol;unfederalreserve
+True;bitfinex Cardano ADA hot wallet;bitfinex;bitfinex;bitfinex
+True;KuCoinPool;kucoin;kucoin;kucoin
+False;Huobi mining pool;-1;huobi;-1
+True;curvefinance_USDNBurner;curve;curve;curve
+False;Poolin 2;-1;poolin;-1
+True;Poloniex 3;poloniex;poloniex;poloniex
+True;synthetix_TokenStatesNFLX;synthetix;synthetix;synthetix
+True;KuCoin: Old KCS Token;kucoin;kucoin;kucoin
+False;aave_arc_PermissionedLendingPoolAddressesProvider;lendingpond;aave;lendingpond
+True;BetcoinDice.tm;betcoindicetm;betcoindicetm;betcoindicetm
+True;synthetix_FlexibleStorage;synthetix;synthetix;synthetix
+True;bitfinex Decred hot wallet;bitfinex;bitfinex;bitfinex
+True;Huobi 35;huobi;huobi;huobi
+True;maker_MCD_JOIN_LRC_A;maker;maker;maker
+True;instadapp_ConnectCompound;instadapp;instadapp;instadapp
+True;ZB.com Token;zbcom;zbcom;zbcom
+True;Kraken 7;kraken;kraken;kraken
+True;badger_native.badger-geyser;badger;badger;badger
+True;instadapp_InstaMasterProxy1;instadapp;instadapp;instadapp
+False;aave_aAmmUniUSDCWETH;-1;aave;-1
+True;maker_MCD_JOIN_USDC_B;maker;maker;maker
+True;Poloniex: OMG;poloniex;poloniex;poloniex
+True;uniswap_UNI;uniswap;uniswap;uniswap
+True;BitBlinx;bitblinx;bitblinx;bitblinx
+True;badger_native.sushiBadgerWbtc-strategy;badger;badger;badger
+True;Btc nuggets;btcnuggets;btcnuggets;btcnuggets
+True;curvefinance_Pool Info;curve;curve;curve
+True;Europex.eu;europex;europex;europex
+True;SouthXchange;southxchange;southxchange;southxchange
+True;curvefinance_Yv2-CurveTokenV3;curve;curve;curve
+True;KuCoin 10;kucoin;kucoin;kucoin
+False;Genesis Mining;-1;genesis-miningcom;-1
+True;maker_MCD_CLIP_ZRX_A;maker;maker;maker
+True;BitoEX.com;bitoexcom;bitoexcom;bitoexcom
+True;compound_REP;compound;compound;compound
+True;Asicminer;asicminer;asicminer;asicminer
+True;TopBTC;topbtc;topbtc;topbtc
+True;synthetix_BinaryOptionMarketData;synthetix;synthetix;synthetix
+True;bitfinex L-BTC cold wallet;bitfinex;bitfinex;bitfinex
+True;curvefinance_ABurner;curve;curve;curve
+True;Bitbond.com;bitbondcom;bitbondcom;bitbondcom
+True;curvefinance_hBTC-StableSwapHBTC;curve;curve;curve
+False;curvefinance_oBTC-DepositOBTC;haobtccom;curve;haobtccom
+True;curvefinance_hBTC-CurveTokenV2;curve;curve;curve
+True;Beaxy Token (BXY);beaxy;beaxy;beaxy
+True;harvestfinance_fUNI-WETH:USDT;harvestfinance;harvestfinance;harvestfinance
+True;Gate.io;gate;gate;gate
+True;maker_MCD_CLIP_USDC_B;maker;maker;maker
+False;Rawpool.com;f2pool;rawpoolcom;f2pool
+False;aave_variableDebtTokenAddress-aAmmUniMKRWETH;-1;aave;-1
+True;harvestfinance_fUSDT Uniswap;harvestfinance;harvestfinance;harvestfinance
+False;huobi reserve wallets EOS;dovewallet;huobi;dovewallet
+False;aave_stableDebtTokenAddress-aAmmUniBATWETH;-1;aave;-1
+True;uniswap_UniswapV3Factory;uniswap;uniswap;uniswap
+False;aave_Collector contract;morphoaave;aave;morphoaave
+True;harvestfinance_fSLP-WBTC:TBTC;harvestfinance;harvestfinance;harvestfinance
+True;dydx_AdminImpl42;dydx;dydx;dydx
+True;bitfinex Kusama cold Wallet;bitfinex;bitfinex;bitfinex
+True;SmenarnaBitcoin.cz;smenarnabitcoin;smenarnabitcoin;smenarnabitcoin
+True;dydx_TestPriceOracle42;dydx;dydx;dydx
+True;maker_MCD_DEPLOY;maker;maker;maker
+False;HuobiPoolToken (HPT);-1;huobi;-1
+True;curvefinance_Factory;curve;curve;curve
+True;CoinApult.com;coinapultcom;coinapultcom;coinapultcom
+True;Bitclub network;bitclubnetwork;bitclubnetwork;bitclubnetwork
+True;Coin-Swap.net;coin-swapnet;coin-swapnet;coin-swapnet
+True;Kano.is;kanois;kanois;kanois
+True;synthetix_TokenStatesGOOG;synthetix;synthetix;synthetix
+False;curvefinance_TriCrypto-CurveCryptoSwap;cryptoswap;curve;cryptoswap
+True;crypto.com ERC20 reserves;cryptocom;cryptocom;cryptocom
+True;Cryptsy.com;cryptsy;cryptsy;cryptsy
+True;maker_CDP_MANAGER;maker;maker;maker
+True;BitElfin.com;bitelfincom;bitelfincom;bitelfincom
+False;0x_Forwarder-v3;wardenswap;0x;wardenswap
+True;instadapp_AAVE-V2-A;instadapp;instadapp;instadapp
+True;synthetix_ShortingRewardssBTC;synthetix;synthetix;synthetix
+True;badger_native.digg-strategy;badger;badger;badger
+False;Bw.com;-1;bw;-1
+True;instadapp_InstaMappingController;instadapp;instadapp;instadapp
+True;SlushPool.com;slushpoolcom;slushpoolcom;slushpoolcom
+True;Bylls.com;byllscom;byllscom;byllscom
+True;Coinbase 6;coinbase;coinbase;coinbase
+False;maker_MCD_CLIP_CALC_TUSD_A;invictusdao;maker;invictusdao
+True;uniswap_UniswapV2Router02;uniswap;uniswap;uniswap
+True;Bitfinex: Deployer 3;bitfinex;bitfinex;bitfinex
+True;synthetix_SynthsCOIN;synthetix;synthetix;synthetix
+False;Hoo.com 6;-1;hoo;-1
+True;synthetix_SynthsAAVE;synthetix;synthetix;synthetix
+True;curvefinance_Gauge Controller;curve;curve;curve
+True;Bitfinex: MultiSig 2;bitfinex;bitfinex;bitfinex
+True;bitfinex Luna hot wallet 2;bitfinex;bitfinex;bitfinex
+True;convex_cvxCRV Rewards;convex;convex;convex
+True;synthetix_SignedSafeDecimalMath;synthetix;synthetix;synthetix
+True;Poloniex: BAT;poloniex;poloniex;poloniex
+True;harvestfinance_fUNI-USDC:WETH;harvestfinance;harvestfinance;harvestfinance
+False;aave_stableDebtTokenAddress-aAmmUniUNIWETH;-1;aave;-1
+True;maker_PROXY_ACTIONS;maker;maker;maker
+True;synthetix_SynthsXMR;synthetix;synthetix;synthetix
+False;aave_UiIncentiveDataProvider;olivedao;aave;olivedao
+False;aave_variableDebtTokenAddress-aAmmUniUNIWETH;-1;aave;-1
+False;huobi reserve wallets ETC;dovewallet;huobi;dovewallet
+True;McxNOW.com;mcxnow;mcxnow;mcxnow
+True;bitfinex Filecoin hot wallet;bitfinex;bitfinex;bitfinex
+True;maker_MCD_CLIP_GUSD_A;maker;maker;maker
+False;Binance 5;-1;binance;-1
+False;aave_stableDebtTokenAddress-aAmmWETH;-1;aave;-1
+True;maker_MCD_CLIP_KNC_A;maker;maker;maker
+True;Bittrex 3;bittrex;bittrex;bittrex
+True;uniswap_v3_pool_USDC_USDT_001;uniswap;uniswap;uniswap
+True;synthetix_StakingRewardssCOINBalancer;synthetix;synthetix;synthetix
+True;instadapp_G-UNISWAP-A;instadapp;instadapp;instadapp
+True;badger_native.sbtcCrv-geyser;badger;badger;badger
+True;maker_PIP_UNIV2WBTCETH;maker;maker;maker
+True;maker_UNIV2DAIUSDT;maker;maker;maker
+True;DIGIFINEXTOKEN (DFT);digifinex;digifinex;digifinex
+True;hegic_Hegic ETH Staking Lots;hegic;hegic;hegic
+True;uniswap_UniswapV2Router01;uniswap;uniswap;uniswap
+True;compound_StdComptrollerG3;compound;compound;compound
+True;synthetix_SynthiUNI;synthetix;synthetix;synthetix
+True;Crypto.com;cryptocom;cryptocom;cryptocom
+True;synthetix_TokenStatesAAVE;synthetix;synthetix;synthetix
+True;synthetix_OneNetAggregatorIssuedSynths;synthetix;synthetix;synthetix
+True;instadapp_InstaPoolV2Implementation;instadapp;instadapp;instadapp
+True;Paribu 1;paribu;paribu;paribu
+True;maker_MCD_FLASH;maker;maker;maker
+True;Binance USD (BUSD);binance;binance;binance
+True;instadapp_polygon-v2-InstaConnectorsV2Proxy;instadapp;instadapp;instadapp
+True;bitfinex SMR cold Wallet;bitfinex;bitfinex;bitfinex
+True;harvestfinance_WETH-USDT-LP Vault;harvestfinance;harvestfinance;harvestfinance
+True;instadapp_UNISWAP-V2-A;instadapp;instadapp;instadapp
+True;BTSE Token (BTSE);btse;btse;btse
+True;CryptoLocker;cryptolocker;cryptolocker;cryptolocker
+False;huobi reserve wallets USDC;dovewallet;huobi;dovewallet
+True;fei_Fei DAO;feiprotocol;feiprotocol;feiprotocol
+True;KuCoin 1;kucoin;kucoin;kucoin
+True;BlueSkyMarketplace;blueskymarketplace;blueskymarketplace;blueskymarketplace
+True;Kraken 8;kraken;kraken;kraken
+True;vesper_VWBTC-feeWhiteList;vesper;vesper;vesper
+True;harvestfinance_CRV-RENWBTC Pool;harvestfinance;harvestfinance;harvestfinance
+False;aave_stableDebtTokenAddress-aAmmUniWBTCUSDC;-1;aave;-1
+True;synthetix_SynthiCOMP;synthetix;synthetix;synthetix
+True;harvestfinance_fDAI Uniswap;harvestfinance;harvestfinance;harvestfinance
+True;curvefinance_EURS-StableSwapEURS;curve;curve;curve
+True;compound_cDaiDelegate;compound;compound;compound
+True;Trade.io: Token Sale;tradeio;tradeio;tradeio
+True;bitfinex Concordium hot wallet;bitfinex;bitfinex;bitfinex
+False;aave_aAmmBptWBTCWETH;-1;aave;-1
+True;Bitmain.com;bitmain;bitmain;bitmain
+True;synthetix_TokenStateiLTC;synthetix;synthetix;synthetix
+True;AbraxasMarket;abraxasmarket;abraxasmarket;abraxasmarket
+True;BitMillions.com;bitmillionscom;bitmillionscom;bitmillionscom
+True;bitfinex XEC hot wallet;bitfinex;bitfinex;bitfinex
+True;Loanbase.com;loanbasecom;loanbasecom;loanbasecom
+True;curvefinance_sBTC-StableSwapSBTC;curve;curve;curve
+True;hegic_BTC/USD ChainLink price feed ;hegic;hegic;hegic
+False;huobi reserve wallets DOGE;dovewallet;huobi;dovewallet
+True;bitfinex Mobilecoin hot wallet;bitfinex;bitfinex;bitfinex
+True;synthetix_SynthiDASH;synthetix;synthetix;synthetix
+True;maker_MCD_CLIP_COMP_A;maker;maker;maker
+True;synthetix_StakingRewardssETHUniswapV1;synthetix;synthetix;synthetix
+True;Bitfinex 7;bitfinex;bitfinex;bitfinex
+True;synthetix_TokenStatesEUR;synthetix;synthetix;synthetix
+True;synthetix_ProxysYFI;synthetix;synthetix;synthetix
+True;synthetix_ProxysUNI;synthetix;synthetix;synthetix
+True;maker_MCD_PAUSE;maker;maker;maker
+False;aave_variableDebtTokenAddress - aTUSD;-1;aave;-1
+False;Curve.fi: TUSD USDT USDC DAI;tether;curve;tether
+False;P2pool.org;f2pool;p2poolorg;f2pool
+True;Huobi: Old Address 11;huobi;huobi;huobi
+False;0x_Exchange-v4;xexchange;0x;xexchange
+True;Poloniex: SNT;poloniex;poloniex;poloniex
+True;synthetix_ProxysADA;synthetix;synthetix;synthetix
+False;Binance Wrapped WRX (BWRX);-1;binance;-1
+True;AscendEX 2;bitmax;bitmax;bitmax
+True;LCX (LCX);lcx;lcx;lcx
+True;maker_PROXY_ACTIONS_DSR;maker;maker;maker
+True;curvefinance_BUSD-CurveTokenV1;curve;curve;curve
+True;maker_MCD_CLIP_CALC_ZRX_A;maker;maker;maker
+True;Curve.fi: USDC DAI;curve;curve;curve
+False;Compound Wrapped BTC;wrapped;compound;wrapped
+True;Indodax 2;indodax;indodax;indodax
+True;barnbridge_Controller;barnbridge;barnbridge;barnbridge
+True;Bittrex.com;bittrex;bittrex;bittrex
+False;Canoe;-1;canoe;-1
+False;Phash.io;ghashio;phashio;ghashio
+False;Crypto Lottery;cryptopayme;cryptolottery;cryptopayme
+True;LiteBit.eu;litebit;litebit;litebit
+True;Coinmate.io;coinmate;coinmate;coinmate
+True;harvestfinance_fUNI-WBTC:WETH;harvestfinance;harvestfinance;harvestfinance
+True;bitfinex Oasis rose hot wallet;bitfinex;bitfinex;bitfinex
+True;barnbridge_ChangeRewardsFacet;barnbridge;barnbridge;barnbridge
+True;aave_AaveGovernanceV2;aave;aave;aave
+True;Paribu 3;paribu;paribu;paribu
+True;instadapp_BASIC-A;instadapp;instadapp;instadapp
+True;BitLaunder.com;bitlaundercom;bitlaundercom;bitlaundercom
+True;Coinbase 4;coinbase;coinbase;coinbase
+True;Kryptono 3;kryptono;kryptono;kryptono
+False;aave_rwa_UiPoolDataProvider;-1;aave;-1
+False;Binance Pool;-1;binance;-1
+True;futureswap_Incentives;futureswap;futureswap;futureswap
+True;fei_FeiRari FEI PCV Deposit;feiprotocol;feiprotocol;feiprotocol
+True;vesper_VLINK-feeWhiteList;vesper;vesper;vesper
+True;barnbridge_BOND Token;barnbridge;barnbridge;barnbridge
+True;Huobi 8;huobi;huobi;huobi
+True;C-Cex.com;ccex;ccex;ccex
+True;bitfinex ETP/MVS hot wallet;bitfinex;bitfinex;bitfinex
+True;Rollin.io;rollinio;rollinio;rollinio
+True;maker_MCD_JOIN_WBTC_A;maker;maker;maker
+True;AllCrypt.com;allcrypt;allcrypt;allcrypt
+True;Compound: Deployer 1;compound;compound;compound
+True;curvefinance_USDK-CurveTokenV2;curve;curve;curve
+True;synthetix_ProxysXAG;synthetix;synthetix;synthetix
+True;bitfinex Tether USDt (BCH-SLP) hot wallet;bitfinex;bitfinex;bitfinex
+True;Dispenser.tf;dispensertf;dispensertf;dispensertf
+False;aave_stableDebtTokenAddress - aSUSD;-1;aave;-1
+True;maker_MCD_ADM;maker;maker;maker
+True;instadapp_polygon-v1-InstaMemory;instadapp;instadapp;instadapp
+True;Coins-e.com;coinse;coinse;coinse
+True;curvefinance_Link-CurveTokenV3;curve;curve;curve
+True;Gate.io 3;gate;gate;gate
+True;synthetix_BinaryOptionMarketFactory;synthetix;synthetix;synthetix
+True;curvefinance_tBTC-StableSwapTBTC;curve;curve;curve
+True;synthetix_TokenStateiTRX;synthetix;synthetix;synthetix
+False;yearn_WOOFY;-1;yearnfinance;-1
+True;compound_cAAVE+SUSHI+YFI+MKRDelegate_MuliLabel;compound;compound;compound
+True;Binance: Eth2 Depositor;binance;binance;binance
+True;maker_MCD_CLIP_CALC_USDC_A;maker;maker;maker
+True;Poloniex: KNC;poloniex;poloniex;poloniex
+True;synthetix_SynthsJPY;synthetix;synthetix;synthetix
+True;maker_PIP_USDC;maker;maker;maker
+True;vesper_collateralManagerV2;vesper;vesper;vesper
+True;aave_arc_PermissionedWETHGateway;aave;aave;aave
+False;aave_stableDebtTokenAddress-aAmmBptBALWETH;-1;aave;-1
+True;Gbminers;gbminers;gbminers;gbminers
+True;synthetix_Issuer;synthetix;synthetix;synthetix
+True;curvefinance_CRV Token;curve;curve;curve
+True;uniswap_v3_pool_WBTC_ETH_005;uniswap;uniswap;uniswap
+True;harvestfinance_Balancer 5/95 pool;harvestfinance;harvestfinance;harvestfinance
+True;StrongCoin.com-fee;strongcoincom-fee;strongcoincom-fee;strongcoincom-fee
+True;synthetix_SynthsRUNE;synthetix;synthetix;synthetix
+True;Huobi 6;huobi;huobi;huobi
+True;futureswap_ReplayTracker;futureswap;futureswap;futureswap
+True;curvefinance_pBTC-CurveTokenV2;curve;curve;curve
+True;YABTCL.com;yabtclcom;yabtclcom;yabtclcom
+True;barnbridge_DiamondLoupeFacet;barnbridge;barnbridge;barnbridge
+True;synthetix_CollateralEth;synthetix;synthetix;synthetix
+True;Bit2C;bit2c;bit2c;bit2c

@@ -1,0 +1,1775 @@
+label,category,actor
+aave_stableDebtTokenAddress - aTUSD,{'defi_lending'},aave
+Exmo.com,{'exchange'},exmo
+synthetix_FeePoolEternalStorage,{'defi'},synthetix
+dydx_ExpiryV21,{'defi'},dydx
+bitfinex Polygon (old) hot wallet,{'exchange'},bitfinex
+synthetix_BinaryOptionMarketManager,{'defi'},synthetix
+Curve.fi: Deployer,set(),curve
+instadapp_InstaAaveV2MigratorReceiverImplementation137,{'defi_lending'},instadapp
+maker_MCD_CLIP_UNIV2DAIETH_A,{'defi_lending'},maker
+vesper_VWBTC-strategy-aave,{'defi'},vesper
+aave_arc_LendingPoolConfigurator,{'defi_lending'},aave
+synthetix_CollateralManagerState,{'defi'},synthetix
+Igot.com,{'exchange'},igot
+EvolutionMarket,{'market'},evolutionmarket
+curvefinance_TriCrypto-CurveTokenV4,{'defi_dex'},curve
+1inch_AggregationRouterV5,{'defi_dex'},1inch
+synthetix_TokenStatesXRP,{'defi'},synthetix
+bitfinex Bitcoin Cash cold wallet,{'exchange'},bitfinex
+aave_aAmmUniWBTCWETH,{'defi_lending'},aave
+curvefinance_PAX-StableSwapPax,{'defi_dex'},curve
+aave_aAmmUSDT,{'defi_lending'},aave
+harvestfinance_Sushiswap USDC:WETH Pool,{'defi'},harvestfinance
+Bgogo 1,{'exchange'},bgogo
+Binance: BNB Token,{'exchange'},binance
+Curve.fi: sUSD v2,set(),curve
+CryptoStocks.com,{'service'},cryptostockscom
+BW.com,{'miner'},bw
+curvefinance_Crypto Pool Owner,{'defi_dex'},curve
+bitfinex Dash cold wallet,{'exchange'},bitfinex
+huobi reserve wallets BCH,{'exchange'},huobi
+compound_Timelock,{'defi_lending'},compound
+synthetix_TokenStatesXTZ,{'defi'},synthetix
+bitfinex Tezos (XTZ) cold wallet,{'exchange'},bitfinex
+BigONE Token (ONE),{'exchange'},bigone
+CloudHashing.com,{'service'},cloudhashingcom
+synthetix_TokenStates1INCH,{'defi'},synthetix
+bitfinex XLM cold wallet,{'exchange'},bitfinex
+aave_LendingRateOracle,{'defi_lending'},aave
+synthetix_TokenStatesUNI,{'defi'},synthetix
+GermanPlazaMarket,{'market'},germanplazamarket
+OKEx 2,{'exchange'},okex
+synthetix_ShortingRewardssETH,{'defi'},synthetix
+bitfinex Kusama hot wallet,{'exchange'},bitfinex
+bitfinex Zcash cold wallet,{'exchange'},bitfinex
+Binance 21,{'exchange'},binance
+curvefinance_Vesting Escrow,{'defi_dex'},curve
+aave_LendingPoolAddressesProviderRegistry,{'defi_lending'},aave
+aave_stableDebtTokenAddress-aAmmUniAAVEWETH,{'defi_lending'},aave
+synthetix_SupplySchedule,{'defi'},synthetix
+OKEx 7,{'exchange'},okex
+maker_PIP_UNIV2LINKETH,{'defi_lending'},maker
+Paymium.com,{'service'},paymium
+sushiswap_FuroVesting,{'defi_dex'},sushiswap
+synthetix_ProxysBTC,{'defi'},synthetix
+AscendEX 3,{'exchange'},bitmax
+aave_stableDebtTokenAddress-aAmmUSDC,{'defi_lending'},aave
+HitBTC 3,{'exchange'},hitbtc
+maker_MCD_IAM_AUTO_LINE,{'defi_lending'},maker
+uniswap_v3_pool_USDC_ETH_1,{'defi_dex'},uniswap
+synthetix_ProxysXAU,{'defi'},synthetix
+maker_MCD_JOIN_AAVE_A,{'defi_lending'},maker
+curvefinance_USDT-StableSwapUSDT,{'defi_dex'},curve
+harvestfinance_Delay Minter,{'defi'},harvestfinance
+synthetix_SynthsAMZN,{'defi'},synthetix
+fei_EthUniswapPCVController,{'defi'},feiprotocol
+maker_MCD_CLIP_CALC_AAVE_A,{'defi_lending'},maker
+Bitfinex 1,{'exchange'},bitfinex
+curvefinance_sBTC Deposit Zap,{'defi_dex'},curve
+aave_variableDebtTokenAddress - aKNC,{'defi_lending'},aave
+harvestfinance_CRV-YPOOL Pool,{'defi'},harvestfinance
+curvefinance_HUSD-StableSwapHUSD,{'defi_dex'},curve
+fei_Fuse Pool Party FEI PCV Deposit,{'defi'},feiprotocol
+curvefinance_Compound-StableSwapCompound,{'defi_dex'},curve
+Btc.com,{'miner'},btccom
+aave_variableDebtTokenAddress - aAAVE,{'defi_lending'},aave
+curvefinance_Compound-LiquidityGauge.sol,{'defi_dex'},curve
+convex_CRV Depositor,{'defi'},convex
+harvestfinance_PASTA + ETH LP Pool,{'defi'},harvestfinance
+synthetix_NativeEtherWrapper,{'defi'},synthetix
+Huobi 12,{'exchange'},huobi
+compound_CrowdProposalFactory,{'defi_lending'},compound
+Compound: Liquidator,set(),compound
+Tidex 1,{'exchange'},tidex
+synthetix_TokenStatesEOS,{'defi'},synthetix
+BigONE,{'exchange'},bigone
+Huobi Pool Token,set(),huobi
+Compound: Comptroller,set(),compound
+Coineal Token (NEAL),{'exchange'},coinneal
+bitfinex Tether USDt (Solana) hot wallet,{'exchange'},bitfinex
+KuCoin: KCS Token,{'exchange'},kucoin
+bitfinex Avalanche (C-Chain) cold wallet,{'exchange'},bitfinex
+aave_stableDebtTokenAddress - aREN,{'defi_lending'},aave
+maker_MCD_CLIP_ETH_C,{'defi_lending'},maker
+1inch_CHI token,{'defi_dex'},1inch
+hegic_Hegic WBTC Staking Lots,{'defi'},hegic
+maker_CLIP_FAB,{'defi_lending'},maker
+hegic_ETH/USD ChainLink price feed,{'defi'},hegic
+instadapp_UNISWAP-A,{'defi_lending'},instadapp
+sushiswap_Operations Multisig,{'defi_dex'},sushiswap
+aave_aAmmWETH,{'defi_lending'},aave
+futureswap_FST,{'defi'},futureswap
+fei_UniswapOracle,{'defi'},feiprotocol
+synthetix_SynthsXAG,{'defi'},synthetix
+Instawallet.org,{'service'},instawalletorg
+Huobi 25,{'exchange'},huobi
+CoinW,{'exchange'},coinw
+compound_StdComptrollerG4,{'defi_lending'},compound
+Tokenize Emblem (TKX),{'exchange'},tokenize
+curvefinance_RSV-DepositRSV,{'defi_dex'},curve
+synthetix_SynthiXRP,{'defi'},synthetix
+Gemini,{'exchange'},gemini
+curvefinance_USDN-StableSwapUSDN,{'defi_dex'},curve
+vesper_vBetaUSDC-strategy-aaveV2,{'defi'},vesper
+Huobi Mining Pool 2,{'miner'},huobi
+Kraken 4,{'exchange'},kraken
+convex_Airdrop Factory,{'defi'},convex
+harvestfinance_USDC Pool,{'defi'},harvestfinance
+vesper_VLINK-strategy-vesperMaker,{'defi'},vesper
+Kraken 2,{'exchange'},kraken
+renvm_DarknodeRegistry,{'defi'},ren
+harvestfinance_Sushiswap WBTC:WETH Pool,{'defi'},harvestfinance
+Zyado.com,{'exchange'},zyado
+Indodax 1,{'exchange'},indodax
+barnbridge_DAO Rewards Pool,{'defi'},barnbridge
+sushiswap_BentoBoxV1,{'defi_dex'},sushiswap
+fei_FeiRewardsDistributor,{'defi'},feiprotocol
+Dpool,{'miner'},dpool
+sushiswap_FuroVestingRouter,{'defi_dex'},sushiswap
+CrimeNetwork.co,{'service'},crimenetworkco
+Bitfinex 3,{'exchange'},bitfinex
+Coincheck.com,{'exchange'},coincheck
+Compound: Governor Alpha,set(),compound
+synthetix_DappMaintenance,{'defi'},synthetix
+curvefinance_Pool Owner,{'defi_dex'},curve
+huobi reserve wallets SHIB,{'exchange'},huobi
+Compound 0x,set(),compound
+Ghash.io,{'miner'},ghashio
+aave_aMANA,{'defi_lending'},aave
+badger_SmartTimelock,{'defi'},badger
+BIToomBa.com,{'service'},bitoombacom
+instadapp_AAVE-V1-A,{'defi_lending'},instadapp
+curvefinance_TriCrypto-LiquidityGaugeV3,{'defi_dex'},curve
+curvefinance_Compound-CurveContractV1,{'defi_dex'},curve
+Binance Beacon ETH (BETH),{'exchange'},binance
+bitfinex Omni cold wallet,{'exchange'},bitfinex
+fei_GenesisGroup,{'defi'},feiprotocol
+bitfinex Litecoin hot wallet,{'exchange'},bitfinex
+synthetix_TokenStatesYFI,{'defi'},synthetix
+fei_RatioPCVController,{'defi'},feiprotocol
+BetsOfBitco.in,{'service'},betsofbitcoin
+curvefinance_LPBurner,{'defi_dex'},curve
+Zaif,{'exchange'},zaif
+badger_StrategyPickleMetaFarm,{'defi'},badger
+Poloniex: ZRX,{'exchange'},poloniex
+10xBitco.in,{'service'},10xbitcoin
+maker_MCD_JOIN_USDT_A,{'defi_lending'},maker
+Trade.io: Wallet 2,set(),tradeio
+harvestfinance_fCRV-COMPOUND,{'defi'},harvestfinance
+harvestfinance_SUSHI Pool,{'defi'},harvestfinance
+BTradeAustralia.com,{'exchange'},btradeaustralia
+maker_PIP_UNIV2ETHUSDT,{'defi_lending'},maker
+maker_MCD_CLIP_USDC_A,{'defi_lending'},maker
+synthetix_ProxysMSFT,{'defi'},synthetix
+sushiswap_FuroStreamRouter,{'defi_dex'},sushiswap
+Kraken 11,{'exchange'},kraken
+curvefinance_USDT-CurveTokenV1,{'defi_dex'},curve
+aave_stableDebtTokenAddress - aZRX,{'defi_lending'},aave
+fei_Index Coop Fuse Pool PCV Deposit,{'defi'},feiprotocol
+harvestfinance_Deployer,{'defi'},harvestfinance
+instadapp_COMPOUND-IMPORT-B,{'defi_lending'},instadapp
+maker_MCD_CLIP_CALC_UNIV2USDCETH_A,{'defi_lending'},maker
+aave_ProtocolDataProvider,{'defi_lending'},aave
+0x_DevUtils-v4,{'defi_dex'},0x
+Binance,{'exchange'},binance
+1inch_MultiKyber wrapper,{'defi_dex'},1inch
+ActionCrypto.com,{'service'},actioncryptocom
+instadapp_Polygon-InstaList,{'defi_lending'},instadapp
+MoonBit.co.in,{'service'},moonbitcoin
+Bitfinex: Old Contract 2,set(),bitfinex
+futureswap_Registry,{'defi'},futureswap
+maker_PIP_W+RENBTC_MultiLabel,{'defi_lending'},maker
+Eclipsemc,{'miner'},eclipsemccom
+BIKI.com,{'exchange'},biki
+Bitfinex: MultiSig 3,{'exchange'},bitfinex
+aave_stableDebtTokenAddress - aBAL,{'defi_lending'},aave
+OKEx 4,{'exchange'},okex
+BitZino.com,{'gambling'},bitzinocom
+balancer_SmartPoolManager,{'defi_dex'},balancer
+Betcoin.tm,{'gambling'},betcointm
+harvestfinance_fSLP-DAI:WETH,{'defi'},harvestfinance
+uniswap_v3_pool_LDO_ETH_1,{'defi_dex'},uniswap
+harvestfinance_WETH,{'defi'},harvestfinance
+Trade.io: Wallet 1,set(),tradeio
+compound_cMKR,{'defi_lending'},compound
+BitcoinWallet.com,{'service'},bitcoinwalletcom
+harvestfinance_AMPL/ETH:FARM,{'defi'},harvestfinance
+maker_MCD_CLIP_UNIV2WBTCDAI_A,{'defi_lending'},maker
+harvestfinance_GRAIN token,{'defi'},harvestfinance
+kucoin KCS reserves,{'exchange'},kucoin
+maker_FLIPPER_MOM,{'defi_lending'},maker
+barnbridge_aUSDC Rewards Pool,{'defi'},barnbridge
+synthetix_Depot,{'defi'},synthetix
+maker_CHANGELOG,{'defi_lending'},maker
+VIP72.com,{'service'},vip72com
+uniswap_v3_pool_ETH_USDT_005,{'defi_dex'},uniswap
+harvestfinance_fSLP-WETH:USDT,{'defi'},harvestfinance
+bitfinex Dash hot wallet,{'exchange'},bitfinex
+synthetix_TokenStateSynthetix,{'defi'},synthetix
+uniswap_v3_pool_DAI_ETH_005,{'defi_dex'},uniswap
+synthetix_ProxyiCEX,{'defi'},synthetix
+Exmo 1,{'exchange'},exmo
+Nexus Mutual: Deployer,set(),nexus
+EclipseMC.com,{'miner'},eclipsemccom
+aave_rwa_AaveProtocolDataProvider,{'defi_lending'},aave
+synthetix_SynthRedeemer,{'defi'},synthetix
+synthetix_SystemSettings,{'defi'},synthetix
+CoinW 3,{'exchange'},coinw
+harvestfinance_CRV-3POOL Pool,{'defi'},harvestfinance
+compound_Base200bps_Slope2000bps_Jump20000bps_Kink90,{'defi_lending'},compound
+synthetix_SynthsADA,{'defi'},synthetix
+maker_MCD_CLIP_UNIV2LINKETH_A,{'defi_lending'},maker
+vesper_VLINK-pool,{'defi'},vesper
+synthetix_SynthsDASH,{'defi'},synthetix
+curvefinance_Voting Escrow,{'defi_dex'},curve
+Binance Wrapped DOT (BDOT),{'exchange'},binance
+synthetix_SynthiLINK,{'defi'},synthetix
+curvefinance_bBTC-DepositBBTC,{'defi_dex'},curve
+bitfinex Polis hot wallet,{'exchange'},bitfinex
+MiddleEarthMarketplace,{'market'},middleearthmarketplace
+Luno.com,{'exchange'},luno
+synthetix_ProxyiBTC,{'defi'},synthetix
+badger_keeper,{'defi'},badger
+bitfinex OXY hot wallet,{'exchange'},bitfinex
+aave_variableDebtTokenAddress-aAmmUniUSDCWETH,{'defi_lending'},aave
+BKEX Token (BK),{'exchange'},bkex
+P2Pool.org,{'miner'},p2poolorg
+ShapeShift 2,{'exchange'},shapeshift
+uniswap_FeeTo,{'defi_dex'},uniswap
+curvefinance_Y-DepositY,{'defi_dex'},curve
+instadapp_B-MAKERDAO-A,{'defi_lending'},instadapp
+bitfinex AION hot wallet,{'exchange'},bitfinex
+badger_devProxyAdmin,{'defi'},badger
+GoCelery.com,{'service'},gocelery
+uniswap_v3_pool_DAI_AVINOC,{'defi_dex'},uniswap
+instadapp_connectors 1,{'defi_lending'},instadapp
+maker_MCD_CLIP_PAXUSD_A,{'defi_lending'},maker
+maker_ILK_REGISTRY,{'defi_lending'},maker
+Shawnp0wers,{'miner'},shawnp0wers
+aave_aBAT,{'defi_lending'},aave
+synthetix_TokenStateiCEX,{'defi'},synthetix
+aave_variableDebtTokenAddress-aAmmUSDT,{'defi_lending'},aave
+CoinGaming.io,{'gambling'},coingamingio
+BitAces.me,{'service'},bitacesme
+instadapp_mainnet-InstaRead,{'defi_lending'},instadapp
+FTX Exchange 2,{'exchange'},ftx
+CryptcoMiner.com,{'service'},cryptcominercom
+PinballCoin.com,{'service'},pinballcoincom
+BitZlato.com,{'exchange'},bitzlato
+Hydra Market,{'market'},hydramarket
+Banx.io,{'exchange'},banxio
+synthetix_ProxyiEOS,{'defi'},synthetix
+SatoshiMines.com,{'gambling'},satoshiminescom
+bitfinex WAVES (WAVES) hot wallet,{'exchange'},bitfinex
+convex_Pool Manager,{'defi'},convex
+maker_MCD_JOIN_UNIV2WBTCDAI_A,{'defi_lending'},maker
+Crypto-Trade.com,{'service'},crypto-tradecom
+instadapp_B-LIQUITY-A,{'defi_lending'},instadapp
+uniswap_FeeToSetterVester,{'defi_dex'},uniswap
+ArkPool,{'miner'},arkpool
+Eligius.st,{'miner'},eligiusst
+aave_variableDebtTokenAddress - aYFI,{'defi_lending'},aave
+synthetix_SynthsCHF,{'defi'},synthetix
+curvefinance_bBTC-CurveTokenV3,{'defi_dex'},curve
+Coinex 2,{'exchange'},coinex
+Binance 33,{'exchange'},binance
+ENS: Wallet 2,set(),ethereumfoundation
+instadapp_mainnet-v2-InstaImplementations,{'defi_lending'},instadapp
+OKKONG,{'miner'},okkong
+badger_StrategyHarvestMetaFarm,{'defi'},badger
+synthetix_SynthsXAU,{'defi'},synthetix
+bitFlyer,{'exchange'},bitflyer
+Bithumb 2,{'exchange'},bithumb
+dydx_LimitOrders42,{'defi'},dydx
+AAO Pool,{'miner'},aaopool
+sushiswap_SushiV2Factory,{'defi_dex'},sushiswap
+binance reserve wallets ETH,{'exchange'},binance
+harvestfinance_fWBTC,{'defi'},harvestfinance
+instadapp_WETH-A,{'defi_lending'},instadapp
+uniswap_v3_pool_WBTC_USDC,{'defi_dex'},uniswap
+aave_aAmmUniYFIWETH,{'defi_lending'},aave
+KanoPool,{'miner'},kanois
+"ETHorse, Gambling",{'gambling'},ethhorse
+Vaultoro.com,{'exchange'},vaultorocom
+dydx_PolynomialInterestSetter1,{'defi'},dydx
+0x_StaticCallProxy-v4,{'defi_dex'},0x
+instadapp_INSTAPOOL-A,{'defi_lending'},instadapp
+curvefinance_Link-StableSwapLINK,{'defi_dex'},curve
+curvefinance_Y-LiquidityGauge,{'defi_dex'},curve
+maker_MCD_JOIN_UNIV2AAVEETH_A,{'defi_lending'},maker
+bitfinex CLO Cold Wallet,{'exchange'},bitfinex
+MercadoBitcoin.com.br,{'exchange'},mercadobitcoin
+maker_PAXUSD,{'defi_lending'},maker
+Huobi 2,{'exchange'},huobi
+compound_Base0bps_Slope2000bps,{'defi_lending'},compound
+sushiswap_SushiBar,{'defi_dex'},sushiswap
+Matbea.com,{'exchange'},matbea
+aave_stableDebtTokenAddress - aGUSD,{'defi_lending'},aave
+fei_FeiRari DAI (fDAI-8),{'defi'},feiprotocol
+synthetix_SynthsETC,{'defi'},synthetix
+compound_Pair_COMP_ETH,{'defi_lending'},compound
+compound_Maximillion,{'defi_lending'},compound
+instadapp_polygon-v2-InstaImplementations,{'defi_lending'},instadapp
+synthetix_StakingRewardsiETH,{'defi'},synthetix
+harvestfinance_Uniswap FARM:WETH,{'defi'},harvestfinance
+instadapp_LIQUITY-A,{'defi_lending'},instadapp
+ChangeTip.com,{'service'},changetipcom
+badger_native.tbtcCrv-geyser,{'defi'},badger
+0x_ZrxVault-v3,{'defi_dex'},0x
+XT.com Hot Wallet,{'exchange'},xt
+fei_FeiRari FEI Interest Rate Model,{'defi'},feiprotocol
+Satoshi-Karoshi.com,{'gambling'},satoshi-karoshicom
+BetMoose.com,{'gambling'},betmoosecom
+maker_FLIP_FAB,{'defi_lending'},maker
+maker_MCD_CLIP_CALC_KNC_A,{'defi_lending'},maker
+dydx_CanonicalOrders42,{'defi'},dydx
+curvefinance_Address Provider,{'defi_dex'},curve
+Bibox,{'exchange'},bibox
+barnbridge_crUSDT Rewards Pool,{'defi'},barnbridge
+curvefinance_AAVE-StableSwapAave,{'defi_dex'},curve
+bitfinex Green Satoshi Token (GST) hot wallet,{'exchange'},bitfinex
+synthetix_TokenStateiUNI,{'defi'},synthetix
+instadapp_InstaAaveV2MigratorSenderImplementation1,{'defi_lending'},instadapp
+curvefinance_USDP-StableSwapUSDP,{'defi_dex'},curve
+OKEx 6,{'exchange'},okex
+Coingi.com,{'exchange'},coingi
+999Dice.com,{'gambling'},999dicecom
+Huobi 7,{'exchange'},huobi
+Huobi 11,{'exchange'},huobi
+Bitstamp 4,{'exchange'},bitstamp
+harvestfinance_Sushiswap-WBTC:TBTC Pool,{'defi'},harvestfinance
+synthetix_SynthsXTZ,{'defi'},synthetix
+curvefinance_LinkUSD-CurveTokenV2,{'defi_dex'},curve
+Gogreenlight,{'miner'},gogreenlight
+curvefinance_Parameter-VotingApp,{'defi_dex'},curve
+aave_amm_LendingPoolAddressesProvider,{'defi_lending'},aave
+synthetix_WrapperFactory,{'defi'},synthetix
+aave_variableDebtTokenAddress-aAmmUniWBTCUSDC,{'defi_lending'},aave
+compound_IRM_USDT_Updateable,{'defi_lending'},compound
+curvefinance_renBTC-StableSwapRen,{'defi_dex'},curve
+aave_stableDebtTokenAddress - aCRV,{'defi_lending'},aave
+maker_MCD_GOV_ACTIONS,{'defi_lending'},maker
+badger_native.uniDiggWbtc-strategy,{'defi'},badger
+curvefinance_sAAVE-LiquidityGaugeV2,{'defi_dex'},curve
+Vic-Socks.to,{'service'},vic-socksto
+fei_FEI-ETH ChainlinkOracleWrapper,{'defi'},feiprotocol
+dydx_Refunder42,{'defi'},dydx
+bitfinex Tezos (XTZ) hot wallet,{'exchange'},bitfinex
+BitMEX 2,{'exchange'},bitmex
+curvefinance_Yv2-StableSwapYv2,{'defi_dex'},curve
+bitfinex YOYOW (YYW) hot wallet,{'exchange'},bitfinex
+fei_ETH-USD ChainlinkOracleWrapper,{'defi'},feiprotocol
+maker_MCD_CLIP_CALC_PAXUSD_A,{'defi_lending'},maker
+Kncminer,{'miner'},kncminercom
+curvefinance_BUSD-DepositBUSD,{'defi_dex'},curve
+synthetix_SynthsKRW,{'defi'},synthetix
+renvm_Protocol,{'defi'},ren
+Huobi 34,{'exchange'},huobi
+Compound: COMP Token,set(),compound
+50BTC.com,{'service'},50btccom
+aave_LendingPoolAddressesProvider,{'defi_lending'},aave
+CoinURL.com,{'service'},coinurlcom
+badger_StrategyCurveGaugeSbtcCrv,{'defi'},badger
+uniswap_v3_pool_DAI_USDC_001,{'defi_dex'},uniswap
+0x_AssetProxyOwner-v4,{'defi_dex'},0x
+fei_FeiStakingRewards,{'defi'},feiprotocol
+uniswap_v3_pool_USDC_AVINOC,{'defi_dex'},uniswap
+Huobi 27,{'exchange'},huobi
+maker_PIP_RWA002,{'defi_lending'},maker
+bitfinex Tether USDt (Polygon) hot wallet,{'exchange'},bitfinex
+Bitfinex: Deployer 6,set(),bitfinex
+Zipmex Token (ZMT),{'exchange'},zipmex
+OKEx 5,{'exchange'},okex
+Cryptonit.net,{'exchange'},cryptonit
+Hotbit 2,{'exchange'},hotbit
+instadapp_AUTHORITY-A,{'defi_lending'},instadapp
+Poloniex: REP,{'exchange'},poloniex
+Coinbene: Cold Wallet,{'exchange'},coinbene
+uniswap_UNIMerkleDistributor,{'defi_dex'},uniswap
+synthetix_ProxyiDEFI,{'defi'},synthetix
+maker_RWA001_A_URN,{'defi_lending'},maker
+Brawker.com,{'service'},brawkercom
+compound_Pair_DAI_ETH,{'defi_lending'},compound
+fei_Fei DAO Timelock,{'defi'},feiprotocol
+harvestfinance_LINK:FARM,{'defi'},harvestfinance
+bitcoinbon.at,{'exchange'},bitcoinbon
+harvestfinance_fUSDT,{'defi'},harvestfinance
+curvefinance_USDN-DepositUSDN,{'defi_dex'},curve
+EMCDPool,{'miner'},emcdpool
+instadapp_polygon-v1-InstaConnectors,{'defi_lending'},instadapp
+synthetix_ProxyiOIL,{'defi'},synthetix
+maker_MCD_CLIP_CALC_BAL_A,{'defi_lending'},maker
+hegic_Hegic WBTC Options,{'defi'},hegic
+synthetix_SynthiETH,{'defi'},synthetix
+synthetix_SynthsUNI,{'defi'},synthetix
+vesper_VUSDC-pool,{'defi'},vesper
+synthetix_ReadProxyAddressResolver,{'defi'},synthetix
+CoinMotion.com,{'exchange'},coinmotion
+Bitfinex: LEO Token,set(),bitfinex
+compound_Base200bps_Slope1000bps,{'defi_lending'},compound
+BitcoinRussia,{'miner'},bitcoinrussia
+1inch_Deployer,{'defi_dex'},1inch
+OKEx 3,{'exchange'},okex
+BtcMarkets.net,{'exchange'},btcmarkets
+OrderBook.net,{'exchange'},orderbook
+synthetix_TokenStatesFB,{'defi'},synthetix
+Binance 6,{'exchange'},binance
+maker_MCD_CLIP_CALC_UNIV2WBTCDAI_A,{'defi_lending'},maker
+Bitstamp 1,{'exchange'},bitstamp
+maker_MCD_CLIP_ETH_A,{'defi_lending'},maker
+synthetix_SynthsDOT,{'defi'},synthetix
+uniswap_NonfungiblePositionManager,{'defi_dex'},uniswap
+Bitstamp 5,{'exchange'},bitstamp
+bitfinex Zilliqa cold wallet,{'exchange'},bitfinex
+synthetix_CollateralStateShort,{'defi'},synthetix
+maker_PIP_ZRX,{'defi_lending'},maker
+harvestfinance_USDT Vault,{'defi'},harvestfinance
+Kraken 3,{'exchange'},kraken
+compound_cSUSHI,{'defi_lending'},compound
+21 inc.,{'miner'},21inc
+bitfinex Callisto hot wallet,{'exchange'},bitfinex
+instadapp_InstapoolCompoundMapping,{'defi_lending'},instadapp
+Huobi 15,{'exchange'},huobi
+synthetix_ProxyiCOMP,{'defi'},synthetix
+aave_variableDebtTokenAddress-aAmmUniWBTCWETH,{'defi_lending'},aave
+maker_MCD_JOIN_ZRX_A,{'defi_lending'},maker
+Waterhole,{'miner'},waterhole
+Poloniex: FOAM,{'exchange'},poloniex
+Ethfinex: Nectar Token,set(),bitfinex
+curvefinance_tBTC-LiquidityGaugeReward,{'defi_dex'},curve
+curvefinance_GUSD-CurveTokenV2,{'defi_dex'},curve
+Bitmit.net,{'service'},bitmitnet
+maker_MCD_FLOP,{'defi_lending'},maker
+synthetix_ProxysGBP,{'defi'},synthetix
+Huobi 1,{'exchange'},huobi
+SuzukiDice.com,{'gambling'},suzukidicecom
+fei_FEI-3CRV Curve Pool,{'defi'},feiprotocol
+compound_Bulker,{'defi_lending'},compound
+Kraken,{'exchange'},kraken
+curvefinance_sUSD-StableSwapSUSD,{'defi_dex'},curve
+uniswap_v3_pool_SHIB_ETH,{'defi_dex'},uniswap
+maker_MCD_FLAP,{'defi_lending'},maker
+aave_stableDebtTokenAddress-aAmmUniSNXWETH,{'defi_lending'},aave
+Tokocrypto,{'exchange'},tokocrypto
+Upbit,{'exchange'},upbit
+harvestfinance_CRV-COMPOUND Pool,{'defi'},harvestfinance
+synthetix_SynthetixEscrow,{'defi'},synthetix
+MintPal.com,{'service'},mintpal
+badger_Controller,{'defi'},badger
+curvefinance_sETH-LiquidityGaugeV2,{'defi_dex'},curve
+synthetix_ProxysCHF,{'defi'},synthetix
+aave_stableDebtTokenAddress - aENJ,{'defi_lending'},aave
+synthetix_ProxysCRV,{'defi'},synthetix
+bitmex reserve wallet,{'exchange'},bitmex
+ShapeShift 1,{'exchange'},shapeshift
+harvestfinance_WETH Pool,{'defi'},harvestfinance
+bitfinex Zcash hot wallet,{'exchange'},bitfinex
+compound_IRM_UNI_Updateable,{'defi_lending'},compound
+curvefinance_stETH-LiquidityGaugeV2,{'defi_dex'},curve
+uniswap_UniswapV2ETHUSDCUNIPool,{'defi_dex'},uniswap
+Bitstamp.com,{'exchange'},bitstamp
+dydx_PayableProxyForSoloMargin1,{'defi'},dydx
+dydx_SoloMargin42,{'defi'},dydx
+Luno 1,{'exchange'},luno
+Huobi: Old Address 10,set(),huobi
+OKEx: OKB Token,{'exchange'},okex
+Bitcash.cz,{'service'},bitcash
+hegic_Hegic ETH Bidirectional Liquidity Pool,{'defi'},hegic
+compound_PriceFeed,{'defi_lending'},compound
+Cloudhashing,{'miner'},cloudhashingcom
+nexus_PooledStaking,{'defi'},nexus
+curvefinance_renBTC-LiquidityGauge,{'defi_dex'},curve
+synthetix_FeePool,{'defi'},synthetix
+LAToken 2,{'exchange'},latoken
+nexus_MemberRoles,{'defi'},nexus
+aave_rwa_RWAMarketOracle,{'defi_lending'},aave
+MeXBT.com,{'exchange'},mexbt
+synthetix_StakingRewardssFBBalancer,{'defi'},synthetix
+Binance 15,{'exchange'},binance
+0x_Exchange-v3,{'defi_dex'},0x
+synthetix_CollateralStateEth,{'defi'},synthetix
+synthetix_ProxyiBNB,{'defi'},synthetix
+Bithumb 9,{'exchange'},bithumb
+synthetix_TokenStatesLINK,{'defi'},synthetix
+sushiswap_SushiXSwap,{'defi_dex'},sushiswap
+uniswap_v3_pool_FRAX_USDT,{'defi_dex'},uniswap
+barnbridge_Keeper Subsidy Pool,{'defi'},barnbridge
+dydx_Expiry42,{'defi'},dydx
+convex_Treasury Vault,{'defi'},convex
+1inch_contractAddress,{'defi_dex'},1inch
+harvestfinance_Operational Treasury,{'defi'},harvestfinance
+harvestfinance_WETH-WBTC-LP Vault,{'defi'},harvestfinance
+Megabigpower,{'miner'},megabigpower
+Tangpool,{'miner'},tangpool
+maker_MCD_DOG,{'defi_lending'},maker
+uniswap_StakingRewardsFactory,{'defi_dex'},uniswap
+maker_MCD_CLIP_CALC_UNIV2ETHUSDT_A,{'defi_lending'},maker
+Coinomat.com,{'exchange'},coinomat
+maker_PIP_UNIV2USDCETH,{'defi_lending'},maker
+1inch_Offchain Oracle,{'defi_dex'},1inch
+1inch_Exchange Governance,{'defi_dex'},1inch
+synthetix_SynthiBNB,{'defi'},synthetix
+aave_aAmmUniDAIWETH,{'defi_lending'},aave
+bitfinex Tether USDt (Omni Protocol) hot wallet,{'exchange'},bitfinex
+curvefinance_Minter,{'defi_dex'},curve
+synthetix_ProxyiYFI,{'defi'},synthetix
+Yobit.net,{'exchange'},yobit
+aave_amm_WETHGateway,{'defi_lending'},aave
+GreenRoadMarket,{'market'},greenroadmarket
+curvefinance_3pool-LiquidityGauge.sol,{'defi_dex'},curve
+curvefinance_CBurner,{'defi_dex'},curve
+instadapp_InstaPoolV2,{'defi_lending'},instadapp
+badger_native.badger-vault,{'defi'},badger
+synthetix_TokenStatesBTC,{'defi'},synthetix
+synthetix_StakingRewardssAMZNBalancer,{'defi'},synthetix
+uniswap_UniswapProtocolTreasuryVester3,{'defi_dex'},uniswap
+vesper_VWBTC-poolRewards,{'defi'},vesper
+ShapeShift 3,{'exchange'},shapeshift
+777Coin.com,{'gambling'},777coincom
+Binance 10,{'exchange'},binance
+harvestfinance_fUNI-DAI:WETH,{'defi'},harvestfinance
+AnoniBet.com,{'gambling'},anonibetcom
+FixedFloat,{'exchange'},fixedfloat
+bitfinex ETH/ERC20 cold wallet,{'exchange'},bitfinex
+Bidesk 2,{'exchange'},bidesk
+maker_LERP_FAB,{'defi_lending'},maker
+synthetix_TokenStatesRUNE,{'defi'},synthetix
+curvefinance_sBTC-LiquidityGaugeReward,{'defi_dex'},curve
+Minerium,{'miner'},minerium
+compound_cTUSD,{'defi_lending'},compound
+aave_variableDebtTokenAddress-aAmmWBTC,{'defi_lending'},aave
+synthetix_StakingRewardssUSDCurve,{'defi'},synthetix
+synthetix_ProxysGOOG,{'defi'},synthetix
+maker_MCD_GOV,{'defi_lending'},maker
+synthetix_ProxyiETH,{'defi'},synthetix
+FairProof.com,{'gambling'},fairproofcom
+Huobi 3,{'exchange'},huobi
+Coinbase: Miscellaneous,{'exchange'},coinbase
+Trade.io: Old Token,set(),tradeio
+bitfinex RBTC and RSK tokens (RIF) hot wallet,{'exchange'},bitfinex
+synthetix_OneNetAggregatorsDEFI,{'defi'},synthetix
+SatoshiBet.com,{'gambling'},satoshibetcom
+maker_MANA,{'defi_lending'},maker
+bitfinex Ethereum Classic hot wallet,{'exchange'},bitfinex
+aave_variableDebtTokenAddress-aAmmUniYFIWETH,{'defi_lending'},aave
+curvefinance_UST-CurveTokenV3,{'defi_dex'},curve
+vesper_VETH-feeWhiteList,{'defi'},vesper
+Luxor,{'miner'},luxortech
+SlushPool,{'miner'},braiins
+dydx_AdminImpl1,{'defi'},dydx
+AntPool 2,{'miner'},antpoolcom
+Hoo.com 3,{'exchange'},hoo
+aave_stableDebtTokenAddress-aAmmDAI,{'defi_lending'},aave
+aave_stableDebtTokenAddress-aAmmUSDT,{'defi_lending'},aave
+Compound Ether,set(),compound
+KuCoin Contract,{'exchange'},kucoin
+aave_amm_LendingPoolConfigurator,{'defi_lending'},aave
+Huobi 33,{'exchange'},huobi
+maker_RWA001_A_OUTPUT_CONDUIT,{'defi_lending'},maker
+uniswap_v3_pool_ETH_USDT_03,{'defi_dex'},uniswap
+Tether USD,set(),tether
+convex_Reward Factory,{'defi'},convex
+synthetix_TradingRewards,{'defi'},synthetix
+DaDice.com,{'service'},dadicecom
+curvefinance_renBTC-CurveTokenV1,{'defi_dex'},curve
+bitfinex Aptos hot wallet,{'exchange'},bitfinex
+MyBitcoin.com,{'service'},mybitcoincom
+Crypto.com 2,{'exchange'},cryptocom
+instadapp_Polygon-v2-InstaAccountV2,{'defi_lending'},instadapp
+SilkRoad2Market,{'market'},silkroad2market
+0x_Coordinator-v3,{'defi_dex'},0x
+SpiderPool,{'miner'},spiderpool
+dydx_PayableProxyForSoloMargin42,{'defi'},dydx
+maker_PROXY_DEPLOYER,{'defi_lending'},maker
+QuadrigaCX.com,{'exchange'},quadrigacx
+Vircurex.com,{'exchange'},vircurex
+curvefinance_bBTC-LiquidityGaugeV2,{'defi_dex'},curve
+synthetix_ProxysAAVE,{'defi'},synthetix
+Batpool,{'miner'},batpool
+instadapp_Instapool1,{'defi_lending'},instadapp
+harvestfinance_Notify Helper,{'defi'},harvestfinance
+synthetix_TokenStateiBTC,{'defi'},synthetix
+compound_cCOMP,{'defi_lending'},compound
+Compound: Oracle 2,set(),compound
+bitfinex Bitcoin SV cold wallet,{'exchange'},bitfinex
+maker_UNIV2WBTCDAI,{'defi_lending'},maker
+BTCPop.co,{'service'},btcpop
+BitMart 2,{'exchange'},bitmart
+vesper_vBetaWBTC-strategy-aaveMaker,{'defi'},vesper
+synthetix_ProxyiLINK,{'defi'},synthetix
+Bilaxy Token (BIA),{'exchange'},bilaxy
+Bitfury.org,{'miner'},bitfuryorg
+Bitfinex 2,{'exchange'},bitfinex
+Luno 2,{'exchange'},luno
+maker_PIP_COMP,{'defi_lending'},maker
+fei_FeiRari FEI (fFEI-8),{'defi'},feiprotocol
+binance.com,{'exchange'},binance
+fei_FeiRari TRIBE Interest Rate Model,{'defi'},feiprotocol
+instadapp_Mainnet-InstaIndex,{'defi_lending'},instadapp
+Poloniex 2,{'exchange'},poloniex
+KuCoin 3,{'exchange'},kucoin
+maker_MIP21_LIQUIDATION_ORACLE,{'defi_lending'},maker
+badger_badgerTree,{'defi'},badger
+Binance Wrapped FIL (BFIL),{'exchange'},binance
+bitfinex GST hot wallet,{'exchange'},bitfinex
+maker_PIP_UNIV2DAIUSDC,{'defi_lending'},maker
+MEXC: Mexc.com 2,{'exchange'},mxc
+Bitexlive 2,{'exchange'},bitexlive
+dydx_DaiPriceOracle42,{'defi'},dydx
+badger_native.renCrv-geyser,{'defi'},badger
+Coinex,{'exchange'},coinex
+bitfinex LUNA cold Wallet,{'exchange'},bitfinex
+badger_agent,{'defi'},badger
+aave_aCRV,{'defi_lending'},aave
+synthetix_SystemStatus,{'defi'},synthetix
+synthetix_ProxysUSDUse ProxyERC20sUSD,{'defi'},synthetix
+instadapp_mainnet-v2-InstaDefaultImplementation,{'defi_lending'},instadapp
+maker_MCD_CLIP_CALC_GUSD_A,{'defi_lending'},maker
+curvefinance_rETH-StableSwapRETH,{'defi_dex'},curve
+ZB.com,{'exchange'},zbcom
+Bitfinex 9,{'exchange'},bitfinex
+synthetix_TokenStateiLINK,{'defi'},synthetix
+Paribu 2,{'exchange'},paribu
+Simplecoin,{'miner'},simplecoinus_mining
+compound_cAAVE,{'defi_lending'},compound
+aave_AAVE,{'defi_lending'},aave
+maker_MCD_CLIP_CALC_UNIV2DAIETH_A,{'defi_lending'},maker
+curvefinance_FRAX-Metaimplementation,{'defi_dex'},curve
+curvefinance_Migrator,{'defi_dex'},curve
+harvestfinance_WBTC Pool,{'defi'},harvestfinance
+VaultOfSatoshi.com,{'service'},vaultofsatoshi
+uniswap_v3_pool_ETH_sETH2,{'defi_dex'},uniswap
+sushiswap_TimeLock,{'defi_dex'},sushiswap
+Lubian.com,{'miner'},lubiancom
+Bittrex,{'exchange'},bittrex
+curvefinance_stETH-StableSwapSTETH,{'defi_dex'},curve
+curvefinance_MetaPool-Factory.vy,{'defi_dex'},curve
+Mexc.com 3,{'exchange'},mxc
+vesper_VWBTC-strategy-aaveMaker,{'defi'},vesper
+curvefinance_stETH-CurveTokenV3,{'defi_dex'},curve
+DiceNow.com,{'gambling'},dicenowcom
+TheRockTrading.com,{'exchange'},therocktrading
+synthetix_TokenStatesDASH,{'defi'},synthetix
+renvm_RenBCH-gateway,{'defi'},ren
+synthetix_OwnerRelayOnEthereum,{'defi'},synthetix
+maker_MCD_END,{'defi_lending'},maker
+balancer_BalancerSafeMath,{'defi_dex'},balancer
+Folgory Exchange,{'exchange'},folgory
+maker_MCD_JOIN_COMP_A,{'defi_lending'},maker
+harvestfinance_Uniswap FARM:USDC,{'defi'},harvestfinance
+Upbit 3,{'exchange'},upbit
+instadapp_INST-STAKING-A,{'defi_lending'},instadapp
+curvefinance_USDP-DepositUSDP,{'defi_dex'},curve
+maker_MCD_CLIP_CALC_LRC_A,{'defi_lending'},maker
+compound_Base500bps_Slope1500bps,{'defi_lending'},compound
+1THash&58COIN,{'miner'},1thash
+convex_Convex Deployer,{'defi'},convex
+BabylonMarket,{'market'},babylonmarket
+badger_badger-token,{'defi'},badger
+barnbridge_EPool WETH/WBTC,{'defi'},barnbridge
+HuobiToken (HT),{'exchange'},huobi
+BTCt.com,{'service'},btctcom
+1inch_MooniswapFactory,{'defi_dex'},1inch
+synthetix_TokenStatesCOIN,{'defi'},synthetix
+uniswap_UniswapV2UNIGovernorBravo,{'defi_dex'},uniswap
+synthetix_TokenStatesXAU,{'defi'},synthetix
+uniswap_UniswapV2ETHDAIUNIPool,{'defi_dex'},uniswap
+Binance Wrapped BCH (BBCH),{'exchange'},binance
+aave_aAmmUniAAVEWETH,{'defi_lending'},aave
+nexus_CommunityStakingIncentives,{'defi'},nexus
+CoinMetro Exchange,{'exchange'},coinmetro
+CoinRoyale.com,{'gambling'},coinroyalecom
+Cavirtex.com,{'exchange'},cavirtex
+Curve.fi yStable Token,set(),curve
+maker_UNIV2DAIUSDC,{'defi_lending'},maker
+Compound Basic Attention Token,set(),compound
+Huobi 32,{'exchange'},huobi
+synthetix_Liquidator,{'defi'},synthetix
+ArzPaya.com,{'exchange'},azpaya
+vesper_VVSP-pool,{'defi'},vesper
+curvefinance_Parameter-Agent,{'defi_dex'},curve
+barnbridge_bb_cUSDC (Compound),{'defi'},barnbridge
+synthetix_TokenStatesUSD,{'defi'},synthetix
+Rift (RIFT),{'exchange'},riftfinance
+Bgogo 2,{'exchange'},bgogo
+aave_variableDebtTokenAddress - aBAT,{'defi_lending'},aave
+renvm_DarknodeRegistryStore,{'defi'},ren
+barnbridge_crDAI Rewards Pool,{'defi'},barnbridge
+bitfinex Algorand hot wallet,{'exchange'},bitfinex
+bitfinex Cosmos hot wallet,{'exchange'},bitfinex
+badger_StrategyCurveGaugeTbtcCrv,{'defi'},badger
+SatoshiCircle.com,{'gambling'},satoshicirclecom
+Mtgox,{'exchange'},mtgox
+1inch_tokenAddress,{'defi_dex'},1inch
+BitClix.com,{'service'},bitclixcom
+fei_EthBondingCurve,{'defi'},feiprotocol
+maker_MCD_CLIP_LINK_A,{'defi_lending'},maker
+vesper_vBetaETH-strategy-cream,{'defi'},vesper
+curvefinance_USDK-LiquidityGauge,{'defi_dex'},curve
+compound_Pair_LINK_ETH,{'defi_lending'},compound
+harvestfinance_RENBTC Pool,{'defi'},harvestfinance
+Compound USD Coin,set(),compound
+aave_variableDebtTokenAddress - aMANA,{'defi_lending'},aave
+compound_cFEI,{'defi_lending'},compound
+Crypto-Games.net,{'gambling'},crypto-gamesnet
+aave_stableDebtTokenAddress - aWBTC,{'defi_lending'},aave
+aave_aLINK,{'defi_lending'},aave
+Huobi 23,{'exchange'},huobi
+0x_ExchangeProxyGovernor-v4,{'defi_dex'},0x
+convex_Booster,{'defi'},convex
+aave_stkAAVE,{'defi_lending'},aave
+maker_UNIV2ETHUSDT,{'defi_lending'},maker
+uniswap_UniswapV2Factory,{'defi_dex'},uniswap
+Huobi 10,{'exchange'},huobi
+harvestfinance_fUNI-DPI:WETH,{'defi'},harvestfinance
+Huobi 37,{'exchange'},huobi
+Hummerpool,{'miner'},hummerpool
+synthetix_ProxysOIL,{'defi'},synthetix
+bitfinex EOS/EOS Tokens hot wallet,{'exchange'},bitfinex
+Comkort.com,{'service'},comkort
+aave_variableDebtTokenAddress -aENJ,{'defi_lending'},aave
+aave_stableDebtTokenAddress - aBUSD,{'defi_lending'},aave
+FolgoryUSD (USDF),{'exchange'},folgory
+Poloniex: NXC,{'exchange'},poloniex
+maker_PIP_BAL,{'defi_lending'},maker
+vesper_VVSP-keeperList,{'defi'},vesper
+uniswap_UniswapProtocolTreasuryVester2,{'defi_dex'},uniswap
+aave_arc_LendingPoolCollateralManager,{'defi_lending'},aave
+BlackBankMarket,{'market'},blackbankmarket
+Compound: Deployer 2,set(),compound
+aave_aKNC,{'defi_lending'},aave
+fei_FeiRari TRIBE (fTRIBE-8),{'defi'},feiprotocol
+vesper_vBetaETH-feeWhiteList,{'defi'},vesper
+instadapp_Polygon-InstaIndex,{'defi_lending'},instadapp
+Bitfinex 10,{'exchange'},bitfinex
+bitfinex Digibyte hot Wallet,{'exchange'},bitfinex
+huobi reserve wallets XRP,{'exchange'},huobi
+sushiswap_FuroStream,{'defi_dex'},sushiswap
+aave_aZRX,{'defi_lending'},aave
+compound_Compoundv3Rewards,{'defi_lending'},compound
+maker_MULTICALL,{'defi_lending'},maker
+uniswap_v3_pool_ETH_LOOKS,{'defi_dex'},uniswap
+maker_MCD_JOIN_UNIV2UNIETH_A,{'defi_lending'},maker
+badger_native.uniBadgerWbtc-reward,{'defi'},badger
+vesper_VWBTC-strategy-compound,{'defi'},vesper
+compound_Pair_REP_ETH,{'defi_lending'},compound
+synthetix_SynthUtil,{'defi'},synthetix
+synthetix_ProxyiAAVE,{'defi'},synthetix
+Paxful.com,{'exchange'},paxful
+synthetix_TokenStateiXRP,{'defi'},synthetix
+curvefinance_oBTC-LiquidityGaugeV2,{'defi_dex'},curve
+compound_Reservoir,{'defi_lending'},compound
+Bithumb 4,{'exchange'},bithumb
+barnbridge_bb_crDAI (Cream),{'defi'},barnbridge
+Polmine,{'miner'},polminepl
+dydx_StopLimitOrders42,{'defi'},dydx
+barnbridge_bb_cDAI (Compound),{'defi'},barnbridge
+curvefinance_sUSDv2-LiquidityGaugeReward,{'defi_dex'},curve
+synthetix_ProxyFeePool,{'defi'},synthetix
+Bitstamp.net,{'exchange'},bitstamp
+Trade Token X (TIOx),{'exchange'},tradeio
+instadapp_ConnectAave,{'defi_lending'},instadapp
+bitfinex BTC hot wallet,{'exchange'},bitfinex
+uniswap_v3_pool_DAI_HOPR,{'defi_dex'},uniswap
+Bitfinex 5,{'exchange'},bitfinex
+synthetix_SynthsETH,{'defi'},synthetix
+harvestfinance_LINK Pool,{'defi'},harvestfinance
+KuCoin 2,{'exchange'},kucoin
+0x_EtherToken-v4,{'defi_dex'},0x
+synthetix_ProxysEUR,{'defi'},synthetix
+PocketDice.io,{'gambling'},pocketdiceio
+ASICMiner,{'service'},asicminer
+maker_PIP_UNIV2AAVEETH,{'defi_lending'},maker
+sideshift.ai,{'mixing_service'},sideshift
+BitZillions.com,{'gambling'},bitzillionscom
+AscendEX 1,{'exchange'},bitmax
+synthetix_Proxys1INCH,{'defi'},synthetix
+instadapp_polygon-v2-InstaImplementationM1,{'defi_lending'},instadapp
+huobi reserve wallets ETH,{'exchange'},huobi
+compound_cDAI,{'defi_lending'},compound
+badger_harvest.renCrv-vault,{'defi'},badger
+uniswap_v3_pool_HEX_USDC,{'defi_dex'},uniswap
+KuCoin,{'exchange'},kucoin
+bitfinex RADIX (XRD) hot wallet,{'exchange'},bitfinex
+Cryptonator.com,{'wallet_service'},cryptonatorcom
+synthetix_TokenStatesLTC,{'defi'},synthetix
+barnbridge_bb_crUSDT (Cream),{'defi'},barnbridge
+Compound Sai,set(),compound
+harvestfinance_WBTC Vault,{'defi'},harvestfinance
+synthetix_SynthsOIL,{'defi'},synthetix
+sushiswap_MasterChef,{'defi_dex'},sushiswap
+badger_harvest.renCrv-strategy,{'defi'},badger
+renvm_RenBTC-gateway,{'defi'},ren
+Kryptono 1,{'exchange'},kryptono
+MARA Pool,{'miner'},marapool
+harvestfinance_YFV:FARM,{'defi'},harvestfinance
+F2pool,{'miner'},f2pool
+curvefinance_YBurner,{'defi_dex'},curve
+badger_native.uniBadgerWbtc-vault,{'defi'},badger
+instadapp_B-COMPOUND-A,{'defi_lending'},instadapp
+curvefinance_ankrETH-StableSwapAETH,{'defi_dex'},curve
+maker_FAUCET,{'defi_lending'},maker
+maker_MCD_JOIN_TUSD_A,{'defi_lending'},maker
+renvm_BCHGateway,{'defi'},ren
+synthetix_EscrowChecker,{'defi'},synthetix
+synthetix_SynthsGOOG,{'defi'},synthetix
+vesper_VWBTC-pool,{'defi'},vesper
+Miningkings,{'miner'},miningkings
+harvestfinance_fUSDC Uniswap,{'defi'},harvestfinance
+badger_digg,{'defi'},badger
+renvm_GatewayRegistry,{'defi'},ren
+Connectbtc,{'miner'},connectbtc
+synthetix_TokenStatesCHF,{'defi'},synthetix
+Huobi 19,{'exchange'},huobi
+dydx_SignedOperationProxy42,{'defi'},dydx
+bitfinex Theta hot wallet,{'exchange'},bitfinex
+synthetix_ProxysNFLX,{'defi'},synthetix
+vesper_collateralManager,{'defi'},vesper
+huobi reserve wallets XCN,{'exchange'},huobi
+barnbridge_WToken WETH/WBTC 75/25,{'defi'},barnbridge
+Bithumb 11,{'exchange'},bithumb
+bitfinex Solana cold wallet,{'exchange'},bitfinex
+renvm_RenZEC-gateway,{'defi'},ren
+Lazarus group,{'user'},lazarusgroup
+harvestfinance_BASED + sUSD LP Pool,{'defi'},harvestfinance
+vesper_vBetaUSDC-pool,{'defi'},vesper
+dydx_WethPriceOracle1,{'defi'},dydx
+uniswap_v3_pool_USDD_USDC,{'defi_dex'},uniswap
+maker_MCD_CLIP_CALC_UNIV2DAIUSDT_A,{'defi_lending'},maker
+Bitfinex: Deployer 1,set(),bitfinex
+Huobi 38,{'exchange'},huobi
+sushiswap_SushiRoll,{'defi_dex'},sushiswap
+aave_Ecosystem Reserve,{'defi_lending'},aave
+instadapp_mainnet-v1-InstaEvent,{'defi_lending'},instadapp
+uniswap_v3_pool_agEUR_USDC,{'defi_dex'},uniswap
+nexus_NXMToken,{'defi'},nexus
+bitfinex Atlas hot wallet,{'exchange'},bitfinex
+instadapp_AAVE-V2-IMPORT-B,{'defi_lending'},instadapp
+synthetix_EtherCollateral,{'defi'},synthetix
+aave_aUNI,{'defi_lending'},aave
+balancer_Onchain Registry,{'defi_dex'},balancer
+fei_Fuse Pool 6 FEI PCV Deposit,{'defi'},feiprotocol
+aave_aAmmDAI,{'defi_lending'},aave
+Binance 24,{'exchange'},binance
+Huobi 22,{'exchange'},huobi
+KickEX,{'exchange'},kickex
+harvestfinance_Developer Fund,{'defi'},harvestfinance
+Bitfinex: Contract 1,set(),bitfinex
+bitfinex LTC Cold wallet 1DOT,{'exchange'},bitfinex
+MEXC: Mexc.com,{'exchange'},mxc
+uniswap_Quoter,{'defi_dex'},uniswap
+synthetix_ProxysTRX,{'defi'},synthetix
+Kraken 12,{'exchange'},kraken
+maker_MCD_CLIP_UNIV2USDCETH_A,{'defi_lending'},maker
+curvefinance_DUSD-LiquidityGaugeReward,{'defi_dex'},curve
+aave_GovV2Helper,{'defi_lending'},aave
+badger_RewardsEscrow,{'defi'},badger
+harvestfinance_OGN Pool,{'defi'},harvestfinance
+curvefinance_USDP-LiquidityGaugeV2,{'defi_dex'},curve
+Bitzlato,{'exchange'},bitzlato
+vesper_VUSDC-poolRewards,{'defi'},vesper
+synthetix_ProxysETC,{'defi'},synthetix
+Liquid 3,{'exchange'},liquid
+bitfinex Avalanche hot wallet,{'exchange'},bitfinex
+maker_MCD_CLIP_CALC_ETH_B,{'defi_lending'},maker
+synthetix_FuturesMarketManager,{'defi'},synthetix
+vesper_poolList,{'defi'},vesper
+compound_CompoundLens,{'defi_lending'},compound
+bitfinex SMR hot Wallet,{'exchange'},bitfinex
+Coinhako,{'exchange'},coinhako
+Bitcoin india,{'miner'},bitcoinindia
+aave_stableDebtTokenAddress - aXSUSHI,{'defi_lending'},aave
+fei_FeiRari ETH Interest Rate Model,{'defi'},feiprotocol
+synthetix_SynthsLINK,{'defi'},synthetix
+curvefinance_MUSD-CurveTokenV2,{'defi_dex'},curve
+Bidesk 3,{'exchange'},bidesk
+0x_ERC20Proxy-v4,{'defi_dex'},0x
+curvefinance_MUSD-DepositMUSD,{'defi_dex'},curve
+"instadapp_MAKERDAO-CLAIM-A""",{'defi_lending'},instadapp
+barnbridge_aUSDT Rewards Pool,{'defi'},barnbridge
+Poloniex: GNO,{'exchange'},poloniex
+aave_rwa_PermissionedLendingPool,{'defi_lending'},aave
+Hoo.com,{'exchange'},hoo
+synthetix_SynthsAAPL,{'defi'},synthetix
+bitfinex Luna hot wallet,{'exchange'},bitfinex
+bitfinex Tether USDt (Algorand) hot wallet,{'exchange'},bitfinex
+vesper_VETH-strategy-compound,{'defi'},vesper
+curvefinance_sETH-StableSwapSETH,{'defi_dex'},curve
+bitfinex Tether USDt (Polkadot),{'exchange'},bitfinex
+curvefinance_Factory Pool Owner,{'defi_dex'},curve
+synthetix_SynthsMSFT,{'defi'},synthetix
+synthetix_SynthsUSD,{'defi'},synthetix
+Kano,{'miner'},kanois
+Curve.fi: USDT USDC DAI,set(),curve
+convex_Claim Zap,{'defi'},convex
+synthetix_TokenStateiOIL,{'defi'},synthetix
+convex_Convex Multisig,{'defi'},convex
+LAtoken (LA),{'exchange'},latoken
+maker_PROXY_ACTIONS_END,{'defi_lending'},maker
+Changelly,{'exchange'},changelly
+barnbridge_EPool WETH/USDC,{'defi'},barnbridge
+compound_SAI,{'defi_lending'},compound
+compound_Base200bps_Slope2000bps_Jump8000bps_Kink90,{'defi_lending'},compound
+BITFRONT,{'exchange'},bitfront
+aave_Executor (short),{'defi_lending'},aave
+maker_MCD_JOIN_BAT_A,{'defi_lending'},maker
+fei_FEI-USD CompositeOracle,{'defi'},feiprotocol
+maker_MCD_JOIN_UNIV2DAIUSDC_A,{'defi_lending'},maker
+uniswap_v3_pool_BIT_ETH,{'defi_dex'},uniswap
+badger_native.badger-strategy,{'defi'},badger
+KuCoin 4,{'exchange'},kucoin
+aave_amm_LendingPool,{'defi_lending'},aave
+APROBIT,{'exchange'},aprobit
+BTCC.com,{'exchange'},btcc
+aave_aMKR,{'defi_lending'},aave
+synthetix_ProxyiDOT,{'defi'},synthetix
+Bitcoin-Roulette.com,{'service'},bitcoin-roulettecom
+Cryptorush.in,{'service'},cryptorushin
+BtcExchange.ro,{'service'},btcexchangero
+maker_GOV_GUARD,{'defi_lending'},maker
+aave_Emergency Admin,{'defi_lending'},aave
+Binance 18,{'exchange'},binance
+FaucetBOX.com,{'service'},faucetboxcom
+synthetix_StakingRewardssAAPLBalancer,{'defi'},synthetix
+uniswap_v3_pool_MATIC_ETH,{'defi_dex'},uniswap
+Bithumb 8,{'exchange'},bithumb
+harvestfinance_CRV-HBTC Pool,{'defi'},harvestfinance
+curvefinance_sAAVE-StableSwapSAAVE,{'defi_dex'},curve
+aave_arc_PermissionedLendingPool,{'defi_lending'},aave
+MineField.BitcoinLab.org,{'gambling'},minefieldbitcoinlaborg
+0x_ERC1155Proxy-v4,{'defi_dex'},0x
+badger_yearn.wBtc-vault,{'defi'},badger
+F2Pool,{'miner'},f2pool
+nexus_ClaimsReward,{'defi'},nexus
+dydx_OperationImpl42,{'defi'},dydx
+aave_UiPoolDataProvider,{'defi_lending'},aave
+Gemini 6,{'exchange'},gemini
+uniswap_v3_pool_TUSD_USDC,{'defi_dex'},uniswap
+Huobi 29,{'exchange'},huobi
+Bitcoin.com,{'miner'},bitcoincom
+curvefinance_Y-CurveTokenV1,{'defi_dex'},curve
+hegic_Hegic ETH Options,{'defi'},hegic
+maker_PIP_UNIV2WBTCDAI,{'defi_lending'},maker
+maker_MCD_JOIN_UNIV2DAIUSDT_A,{'defi_lending'},maker
+nexus_NXMaster,{'defi'},nexus
+convex_Stash Factory,{'defi'},convex
+uniswap_UniswapV2UNIGovernorAlphaV2,{'defi_dex'},uniswap
+DiceCoin.io,{'gambling'},dicecoinio
+harvestfinance_fWETH,{'defi'},harvestfinance
+KickToken (KICK),{'exchange'},kickex
+aave_stableDebtTokenAddress-aAmmUniCRVWETH,{'defi_lending'},aave
+curvefinance_MUSD-LiquidityGaugeReward,{'defi_dex'},curve
+curvefinance_LinkUSD-DepositLinkUSD,{'defi_dex'},curve
+maker_PIP_RWA001,{'defi_lending'},maker
+curvefinance_sAAVE-CurveTokenV3,{'defi_dex'},curve
+BTC.com,{'miner'},btccom
+curvefinance_sUSD-CurveTokenV1,{'defi_dex'},curve
+Binance 9,{'exchange'},binance
+0x_DutchAuction-v4,{'defi_dex'},0x
+KuCoin 6,{'exchange'},kucoin
+OKCoin.com,{'exchange'},okcoin
+CoinBox.me,{'service'},coinboxme
+TOKPIE (TKP),{'exchange'},tokpie
+Bithumb 1,{'exchange'},bithumb
+maker_UNIV2AAVEETH,{'defi_lending'},maker
+Hashnest.com,{'exchange'},hashnest
+Coinone,{'exchange'},coinone
+OkLink.com,{'service'},oklink
+maker_MCD_CLIP_CALC_COMP_A,{'defi_lending'},maker
+huobi reserve wallets SOL,{'exchange'},huobi
+Poloniex: CVC,{'exchange'},poloniex
+0x_ExchangeProxy-v4,{'defi_dex'},0x
+nexus_Pool,{'defi'},nexusprotocol
+badger_daoBadgerTimelock,{'defi'},badger
+aave_aAmmWBTC,{'defi_lending'},aave
+harvestfinance_Uniswap GRAIN:FARM,{'defi'},harvestfinance
+Eobot,{'miner'},eobot
+aave_aAAVE,{'defi_lending'},aave
+Hotbit,{'exchange'},hotbit
+aave_EmergencyAdmin,{'defi_lending'},aave
+harvestfinance_fSLP-WBTC:WETH,{'defi'},harvestfinance
+maker_MCD_SPOT,{'defi_lending'},maker
+Binance 34,{'exchange'},binance
+bitfinex Ripple XRP hot wallet,{'exchange'},bitfinex
+compound_StdComptrollerG5,{'defi_lending'},compound
+0x_Governor-v3,{'defi_dex'},0x
+dydx_CanonicalOrders1,{'defi'},dydx
+maker_MCD_JOIN_LINK_A,{'defi_lending'},maker
+aave_variableDebtTokenAddress - aGUSD,{'defi_lending'},aave
+synthetix_SynthsCEX,{'defi'},synthetix
+harvestfinance_FARM - USDC 20/80 Balancer,{'defi'},harvestfinance
+instadapp_1INCH-B,{'defi_lending'},instadapp
+aave_stableDebtTokenAddress-aAmmUniRENWETH,{'defi_lending'},aave
+Compound: Rate Model,set(),compound
+synthetix_ProxyiREN,{'defi'},synthetix
+curvefinance_3Pool-CurveTokenV2,{'defi_dex'},curve
+harvestfinance_CRV-USDN Pool,{'defi'},harvestfinance
+aave_Executor (long),{'defi_lending'},aave
+renvm_DarknodeSlasher,{'defi'},ren
+maker_MCD_CLIP_UNIV2WBTCETH_A,{'defi_lending'},maker
+maker_RWA002,{'defi_lending'},maker
+bitfinex WAX hot wallet,{'exchange'},bitfinex
+bitfinex XinFin (XDC) hot wallet,{'exchange'},bitfinex
+sushiswap_SushiToken,{'defi_dex'},sushiswap
+uniswap_v3_pool_GNO_ETH,{'defi_dex'},uniswap
+maker_MCD_JOIN_ETH_B,{'defi_lending'},maker
+barnbridge_Barn (Governance Staking),{'defi'},barnbridge
+synthetix_Synths1INCH,{'defi'},synthetix
+uniswap_v3_pool_USDT_AVINOC,{'defi_dex'},uniswap
+harvestfinance_CRVRENBTC Vault,{'defi'},harvestfinance
+maker_MCD_CLIP_BAT_A,{'defi_lending'},maker
+uniswap_v3_pool_BUSD_USDC,{'defi_dex'},uniswap
+uniswap_UniswapProtocolTreasuryVester1,{'defi_dex'},uniswap
+synthetix_ProxysCEX,{'defi'},synthetix
+curvefinance_sETH-CurveTokenV3,{'defi_dex'},curve
+synthetix_SynthiETC,{'defi'},synthetix
+Bitfinex.com,{'exchange'},bitfinex
+aave_rwa_AaveOracle,{'defi_lending'},aave
+synthetix_TokenStateiAAVE,{'defi'},synthetix
+compound_cCOMP+Uni_Delegate_MultiLabel,{'defi_lending'},compound
+synthetix_SynthsFB,{'defi'},synthetix
+vesper_vBetaETH-strategy-compound,{'defi'},vesper
+aave_stableDebtTokenAddress - aBAT,{'defi_lending'},aave
+aave_arc_PriceOracle,{'defi_lending'},aave
+Coinbase 3,{'exchange'},coinbase
+OKEx,{'exchange'},okex
+maker_MCD_JOIN_DAI,{'defi_lending'},maker
+maker_MCD_CLIP_UNIV2DAIUSDC_A,{'defi_lending'},maker
+curvefinance_Link-LiquidityGaugeV2,{'defi_dex'},curve
+PonziCoin.co,{'service'},ponzicoinco
+BitNZ.com,{'service'},bitnzcom
+vesper_vBetaWBTC-feeWhiteList,{'defi'},vesper
+synthetix_SynthsYFI,{'defi'},synthetix
+Huobi 24,{'exchange'},huobi
+Kuna.io,{'exchange'},kuna
+maker_MCD_CLIP_RENBTC_A,{'defi_lending'},maker
+Coinone 2,{'exchange'},coinone
+Binance 13,{'exchange'},binance
+Sigmapool.com,{'miner'},sigmapool
+Liquid 1,{'exchange'},liquid
+barnbridge_EToken WETH/USDC 75/25,{'defi'},barnbridge
+balancer_Core Pool Factory,{'defi_dex'},balancer
+fei_Fuse Pool 24 FEI PCV Deposit,{'defi'},feiprotocol
+Btcst.com-pirateat40,{'service'},btcstcom-pirateat40
+maker_MCD_POT,{'defi_lending'},maker
+synthetix_SynthiXMR,{'defi'},synthetix
+convex_cvxCRV/CRV SLP,{'defi'},convex
+nexus_DistributorFactory,{'defi'},nexus
+aave_rwa_PermissionedLendingPoolAddressesProvider,{'defi_lending'},aave
+dydx_Expiry1,{'defi'},dydx
+maker_MCD_JOIN_UNIV2DAIETH_A,{'defi_lending'},maker
+synthetix_ProxyiXMR,{'defi'},synthetix
+synthetix_TokenStatesFTSE,{'defi'},synthetix
+compound_cETH,{'defi_lending'},compound
+Huobi,{'miner'},huobi
+synthetix_TokenStatesGBP,{'defi'},synthetix
+uniswap_NFTDescriptor,{'defi_dex'},uniswap
+badger_native.tbtcCrv0vault,{'defi'},badger
+0x_Coordinator-v4,{'defi_dex'},0x
+convex_CVX,{'defi'},convex
+nexus_TokenController,{'defi'},nexus
+EmpoEX.com,{'exchange'},empoex
+BtcDice.com,{'service'},btcdicecom
+Bitstamp 3,{'exchange'},bitstamp
+Betcoin.ag,{'gambling'},betcoinag
+PocketRocketsCasino.eu,{'service'},pocketrocketscasinoeu
+harvestfinance_USDT Pool,{'defi'},harvestfinance
+Binance US,{'exchange'},binance
+synthetix_TokenStatesETH,{'defi'},synthetix
+dydx_Refunder1,{'defi'},dydx
+Cryptopia 1,{'exchange'},cryptopia
+compound_cREP,{'defi_lending'},compound
+maker_MCD_JOIN_UNIV2LINKETH_A,{'defi_lending'},maker
+Ccedk.com,{'exchange'},ccedk
+Internet Archive,{'organization'},internet_archive
+futureswap_Wallet,{'defi'},futureswap
+aave_LendingPool,{'defi_lending'},aave
+curvefinance_Compound-DepositCompound,{'defi_dex'},curve
+hegic_Hegic WBTC Bidirectional Liquidity Pool,{'defi'},hegic
+Haozhuzhu,{'miner'},haozhuzhu
+Mt red,{'miner'},mtred
+Kryptono 2,{'exchange'},kryptono
+synthetix_SynthsETHBTC,{'defi'},synthetix
+aave_aAmmUniSNXWETH,{'defi_lending'},aave
+uniswap_v3_pool_USDC_USDM,{'defi_dex'},uniswap
+instadapp_InstaAaveV2MigratorReceiver137,{'defi_lending'},instadapp
+nexus_TwapOracle,{'defi'},nexus
+synthetix_TokenStatesADA,{'defi'},synthetix
+Flybit,{'exchange'},flybit
+synthetix_SynthsEOS,{'defi'},synthetix
+convex_Arbitrator Vault,{'defi'},convex
+synthetix_TokenStatesETC,{'defi'},synthetix
+synthetix_RewardsDistribution,{'defi'},synthetix
+DeepBit.net,{'service'},deepbitnet
+bitfinex Vechain cold wallet,{'exchange'},bitfinex
+compound_cUNI,{'defi_lending'},compound
+compound_Base200bps_Slope3000bps,{'defi_lending'},compound
+aave_aTUSD,{'defi_lending'},aave
+NitrogenSports.eu,{'gambling'},nitrogensportseu
+Coinbase 2,{'exchange'},coinbase
+instadapp_InstaVestingResolver,{'defi_lending'},instadapp
+maker_MCD_CLIP_YFI_A,{'defi_lending'},maker
+synthetix_StakingRewardssXAUUniswapV2,{'defi'},synthetix
+convex_Convex MasterChef,{'defi'},convex
+aave_variableDebtTokenAddress - aMKR,{'defi_lending'},aave
+curvefinance_Curve Calculator,{'defi_dex'},curve
+Bitfinex: Contract 2,set(),bitfinex
+aave_aXSUSHI,{'defi_lending'},aave
+Compound: Deployer 4,set(),compound
+Compound: Rate Model 2,set(),compound
+huobi reserve wallets ADA,{'exchange'},huobi
+Hhtt,{'miner'},hhtt
+synthetix_StakingRewardsSNXBalancer,{'defi'},synthetix
+uniswap_v3_pool_WBTC_ETH_03,{'defi_dex'},uniswap
+XT Token (XT),{'exchange'},xt
+aave_variableDebtTokenAddress - aUSDC,{'defi_lending'},aave
+maker_MCD_JOIN_UNI_A,{'defi_lending'},maker
+compound_cLINK,{'defi_lending'},compound
+NucleusMarket,{'market'},nucleusmarket
+synthetix_ProxysAUD,{'defi'},synthetix
+curvefinance_HUSD-CurveTokenV2,{'defi_dex'},curve
+uniswap_v3_pool_LDO_ETH_03,{'defi_dex'},uniswap
+curvefinance_GUSD-StableSwapGUSD,{'defi_dex'},curve
+Binance 16,{'exchange'},binance
+DiceBitco.in,{'service'},dicebitcoin
+bitfinex L-BTC hot wallet,{'exchange'},bitfinex
+compound_IRM_COMP_Updateable,{'defi_lending'},compound
+synthetix_TokenStatesKRW,{'defi'},synthetix
+EclipseMC,{'miner'},eclipsemccom
+ZBX Token (ZBX),{'exchange'},zbx
+Binance 32,{'exchange'},binance
+badger_native.digg-vault,{'defi'},badger
+barnbridge_Pool 2 (Uniswap BOND/USDC LP),{'defi'},barnbridge
+vesper_VDAI-feeWhiteList,{'defi'},vesper
+nexus_SwapOperator,{'defi'},nexus
+BTCCToken (BTCC),{'exchange'},btcc
+aave_stableDebtTokenAddress-aAmmBptWBTCWETH,{'defi_lending'},aave
+1inch_SpotPriceAggregator,{'defi_dex'},1inch
+barnbridge_aDAI Rewards Pool,{'defi'},barnbridge
+Binance.com,{'exchange'},binance
+aave_aAmmUniRENWETH,{'defi_lending'},aave
+renvm_REN Token,{'defi'},ren
+maker_PROXY_PAUSE_ACTIONS,{'defi_lending'},maker
+Gemini 2,{'exchange'},gemini
+uniswap_SwapRouter,{'defi_dex'},uniswap
+Bitfloor,{'exchange'},bitfloor
+curvefinance_hBTC-LiquidityGauge,{'defi_dex'},curve
+synthetix_TokenStateiBNB,{'defi'},synthetix
+uniswap_v3_pool_ETH_ETHM,{'defi_dex'},uniswap
+synthetix_TokenStatesTSLA,{'defi'},synthetix
+badger_native.sushiWbtcEth-strategy,{'defi'},badger
+Bittrex 2,{'exchange'},bittrex
+Binance 25,{'exchange'},binance
+LocalBitcoins.com,{'exchange'},localbitcoins
+BtcEX Coin (BXC),{'exchange'},btcex
+Bitfinex 13,{'exchange'},bitfinex
+bitfinex EOS/EOS Tokens cold/wallet,{'exchange'},bitfinex
+synthetix_SynthsTSLA,{'defi'},synthetix
+dydx_WethPriceOracle42,{'defi'},dydx
+0x_ExchangeProxyFlashWallet-v4,{'defi_dex'},0x
+badger_deployer,{'defi'},badger
+balancer_MerkleRedeem,{'defi_dex'},balancer
+bitfinex Oxygen (OXY) hot wallet,{'exchange'},bitfinex
+synthetix_SynthiLTC,{'defi'},synthetix
+maker_MCD_CLIP_USDT_A,{'defi_lending'},maker
+instadapp_INST-A,{'defi_lending'},instadapp
+curvefinance_pBTC-LiquidityGaugeV2,{'defi_dex'},curve
+harvestfinance_fCRV-3POOL,{'defi'},harvestfinance
+compound_cWBTC2,{'defi_lending'},compound
+synthetix_DelegateApprovals,{'defi'},synthetix
+CREX24,{'exchange'},crex24
+aave_variableDebtTokenAddress-aAmmUniAAVEWETH,{'defi_lending'},aave
+huobi reserve wallets FIL,{'exchange'},huobi
+bitfinex Zilliqa hot wallet,{'exchange'},bitfinex
+huobi reserve wallets DOT,{'exchange'},huobi
+Liquid 4,{'exchange'},liquid
+Justcoin.com,{'service'},justcoin
+maker_BAL,{'defi_lending'},maker
+BITStorage,{'exchange'},bitstorage
+maker_MCD_CLIP_UNI_A,{'defi_lending'},maker
+curvefinance_pBTC-StableSwapPBTC,{'defi_dex'},curve
+maker_MCD_JOIN_USDC_A,{'defi_lending'},maker
+bitfinex Dfinity hot wallet,{'exchange'},bitfinex
+uniswap_v3_pool_cbETH_ETH,{'defi_dex'},uniswap
+instadapp_Mainnet-InstaList,{'defi_lending'},instadapp
+maker_MCD_CLIP_TUSD_A,{'defi_lending'},maker
+huobi reserve wallets BETH,{'exchange'},huobi
+maker_PIP_TUSD,{'defi_lending'},maker
+Coinsbit Token (CNB),{'exchange'},coinsbit
+aave_variableDebtTokenAddress - aXSUSHI,{'defi_lending'},aave
+ShapeShift 5,{'exchange'},shapeshift
+compound_cUSDP,{'defi_lending'},compound
+SatoshiDice.com,{'gambling'},satoshidicecom
+maker_MCD_CAT,{'defi_lending'},maker
+synthetix_TokenStatesMSFT,{'defi'},synthetix
+aave_aWETH,{'defi_lending'},aave
+Dgex.com,{'service'},dgex
+aave_aAmmBptBALWETH,{'defi_lending'},aave
+renvm_ZECGateway,{'defi'},ren
+MiningCity,{'miner'},miningcity
+Compound: Oracle,set(),compound
+uniswap_UniswapV2UNITimelock,{'defi_dex'},uniswap
+aave_aREN,{'defi_lending'},aave
+Bitfinex LEO Token (LEO),{'exchange'},bitfinex
+badger_Sett,{'defi'},badger
+CloudBet.com,{'gambling'},cloudbetcom
+aave_stableDebtTokenAddress-aAmmUniYFIWETH,{'defi_lending'},aave
+Ethfinex: Old Contract,set(),bitfinex
+bitfinex Planets hot wallet,{'exchange'},bitfinex
+binance reserve wallets BTC,{'exchange'},binance
+synthetix_TokenStatesXMR,{'defi'},synthetix
+curvefinance_DUSD-CurveTokenV2,{'defi_dex'},curve
+synthetix_IssuanceEternalStorage,{'defi'},synthetix
+Coinlab,{'miner'},coinlab
+compound_COMP,{'defi_lending'},compound
+sinbad.io,{'mixing_service'},sinbadio
+bitfinex Monero XMR hot wallet,{'exchange'},bitfinex
+synthetix_TokenStatesNIKKEI,{'defi'},synthetix
+curvefinance_IronBank-CurveTokenV3,{'defi_dex'},curve
+aave_amm_ProtocolDataProvider,{'defi_lending'},aave
+Coinbase: Coinbase Commerce,{'exchange'},coinbase
+Bitfinex: Old Address 1,set(),bitfinex
+harvestfinance_fCRV-RENWBTC,{'defi'},harvestfinance
+synthetix_TokenStateiETC,{'defi'},synthetix
+MasterXchange.com,{'service'},masterxchange
+harvestfinance_TUSD Pool,{'defi'},harvestfinance
+bitfinex LUNA2 cold wallet,{'exchange'},bitfinex
+synthetix_ProxyERC20sUSD,{'defi'},synthetix
+0x_CoordinatorRegistry-v4,{'defi_dex'},0x
+Betcoins.net,{'service'},betcoinsnet
+Bitcurex.com,{'exchange'},bitcurex
+LAToken 3,{'exchange'},latoken
+BitcoinPokerTables.com,{'gambling'},bitcoinpokertablescom
+Binance: Binance-Peg Tokens,{'exchange'},binance
+vesper_controller,{'defi'},vesper
+maker_RWA002_A_INPUT+OUTPUT_CONDUIT_MultiLabel,{'defi_lending'},maker
+Xapo.com,{'exchange'},xapo
+bitfinex Reef hot wallet,{'exchange'},bitfinex
+CoinVault,{'service'},coinvault
+Compound: Contract 1,set(),compound
+aave_stableDebtTokenAddress - aSNX,{'defi_lending'},aave
+badger_native.uniDiggWbtc-vault,{'defi'},badger
+synthetix_SynthetixBridgeToOptimism,{'defi'},synthetix
+maker_PIP_USDT,{'defi_lending'},maker
+SheepMarketplace,{'market'},sheepmarketplace
+synthetix_TokenStatesETHBTC,{'defi'},synthetix
+maker_MCD_CLIP_CALC_UNI_A,{'defi_lending'},maker
+Compound: Oracle v2,set(),compound
+Hoo.com 4,{'exchange'},hoo
+badger_native.renCrv-vault,{'defi'},badger
+CoinW 2,{'exchange'},coinw
+Huobi 31,{'exchange'},huobi
+synthetix_EtherCollateralsUSD,{'defi'},synthetix
+aave_variableDebtTokenAddress-aAmmBptBALWETH,{'defi_lending'},aave
+curvefinance_PAX-DepositPax,{'defi_dex'},curve
+CoinJar.com,{'service'},coinw
+Huobi: HBTC Token,set(),huobi
+1inch_Referral Fee Receiver,{'defi_dex'},1inch
+compound_Pair_ETH_ZRX,{'defi_lending'},compound
+YoBit.net,{'exchange'},yobit
+KuCoin 5,{'exchange'},kucoin
+synthetix_TokenStateiXMR,{'defi'},synthetix
+0x_Broker-v3,{'defi_dex'},0x
+instadapp_InstaCompoundMapping,{'defi_lending'},instadapp
+aave_variableDebtTokenAddress,{'defi_lending'},aave
+Poloniex: GNT,{'exchange'},poloniex
+synthetix_OneNetAggregatorDebtRatio,{'defi'},synthetix
+curvefinance_DUSD-StableSwapDUSD,{'defi_dex'},curve
+Picostocks,{'exchange'},picostocks
+curvefinance_EURS-CurveTokenV3,{'defi_dex'},curve
+bitfinex Serum hot wallet,{'exchange'},bitfinex
+BitKonan.com,{'exchange'},bitkonan
+Kraken 9,{'exchange'},kraken
+aave_GovernanceStrategy,{'defi_lending'},aave
+compound_PriceOracle,{'defi_lending'},compound
+curvefinance_sBTC-CurveTokenV1,{'defi_dex'},curve
+convex_Vested Escrow,{'defi'},convex
+Bitstamp,{'exchange'},bitstamp
+nexus_TokenData,{'defi'},nexus
+compound_cUsdtDelegate,{'defi_lending'},compound
+barnbridge_OwnershipFacet,{'defi'},barnbridge
+instadapp_mainnet-v2-InstaConnectorsV2Proxy,{'defi_lending'},instadapp
+dydx_ExpiryV242,{'defi'},dydx
+synthetix_ProxysETHBTC,{'defi'},synthetix
+SBI Crypto,{'miner'},sbicrypto
+aave_variableDebtTokenAddress - aLINK,{'defi_lending'},aave
+synthetix_ProxyiTRX,{'defi'},synthetix
+curvefinance_USDP-CurveTokenV3,{'defi_dex'},curve
+synthetix_TokenStatesCRV,{'defi'},synthetix
+CoinCafe.com,{'exchange'},coincafe
+balancer_RightsManager,{'defi_dex'},balancer
+Bixin,{'miner'},bixin
+synthetix_ProxysAAPL,{'defi'},synthetix
+badger_guardian,{'defi'},badger
+Binance 4,{'exchange'},binance
+synthetix_ProxysLTC,{'defi'},synthetix
+Bitci,{'exchange'},bitci
+maker_MCD_CLIP_CALC_USDC_B,{'defi_lending'},maker
+BtcTrade.com,{'exchange'},btctrade
+Gemini 7,{'exchange'},gemini
+nexus_Claims,{'defi'},nexus
+maker_MCD_VAT,{'defi_lending'},maker
+curvefinance_3pool-MetaImplementationUSD.vy,{'defi_dex'},curve
+ABCC,{'exchange'},abcc
+maker_MCD_JOIN_ETH_A,{'defi_lending'},maker
+Poolin 3,{'miner'},poolin
+sushiswap_Kashi SushiMaker,{'defi_dex'},sushiswap
+curvefinance_rETH-LiquidityGaugeV3,{'defi_dex'},curve
+curvefinance_UST-LiquidityGaugeV2,{'defi_dex'},curve
+synthetix_TokenStatesAUD,{'defi'},synthetix
+Ozcoin,{'miner'},ozcoin
+curvefinance_tBTC-DepositTBTC,{'defi_dex'},curve
+Bitfinex 4,{'exchange'},bitfinex
+curvefinance_Emergency-Agent,{'defi_dex'},curve
+vesper_vBetaWBTC-strategy-compound,{'defi'},vesper
+Trade.io,{'exchange'},tradeio
+Binance 23,{'exchange'},binance
+BX.in.th,{'exchange'},bx
+Binance 3,{'exchange'},binance
+synthetix_SynthsCRV,{'defi'},synthetix
+instadapp_REFLEXER-A,{'defi_lending'},instadapp
+Bitfinex: Old Contract 1,set(),bitfinex
+aave_stableDebtTokenAddress-aAmmUniLINKWETH,{'defi_lending'},aave
+uniswap_v3_pool_LINK_ETH,{'defi_dex'},uniswap
+FortuneJack.com,{'gambling'},fortunejackcom
+bitfinex VeChain hot wallet,{'exchange'},bitfinex
+OKMINER,{'miner'},okminer
+SafeDice.com,{'gambling'},safedicecom
+futureswap_Exchange - ETH/USDC,{'defi'},futureswap
+instadapp_mainnet-v2-InstaImplementationM1,{'defi_lending'},instadapp
+synthetix_TokenStateiDOT,{'defi'},synthetix
+instadapp_mainnet-v2-InstaChiefTimelockContract,{'defi_lending'},instadapp
+Cryptonex (CNX),"{'exchange', 'miner'}",cryptonex
+curvefinance_Yv2-LiquidityGaugeV2,{'defi_dex'},curve
+BitcoinVietnam.com.vn,{'exchange'},bitcoinvietnam
+synthetix_TokenStatesAAPL,{'defi'},synthetix
+bitfinex ETH/ERC20 (old) hot wallet,{'exchange'},bitfinex
+Genesis-Mining.com,{'service'},genesis-miningcom
+curvefinance_USDK-DepositUSDK,{'defi_dex'},curve
+aave_aRENFIL,{'defi_lending'},aave
+BitcoinWeBank.com,{'service'},bitcoinwebankcom
+synthetix_ProxysCOIN,{'defi'},synthetix
+Folgory Coin (FLG),{'exchange'},folgory
+compound_DSR_Updateable,{'defi_lending'},compound
+barnbridge_cUSDC Rewards Pool,{'defi'},barnbridge
+aave_Price Oracle,{'defi_lending'},aave
+nexus_MCR,{'defi'},nexus
+badger_native.tbtcCrv-strategy,{'defi'},badger
+convex_Voter Proxy,{'defi'},convex
+synthetix_SynthiYFI,{'defi'},synthetix
+badger_StrategyBadgerLpMetaFarm,{'defi'},badger
+bitfinex Avalanche (old) hot wallet,{'exchange'},bitfinex
+maker_RWA001,{'defi_lending'},maker
+0x_MultiAssetProxy-v4,{'defi_dex'},0x
+maker_PIP_UNIV2DAIUSDT,{'defi_lending'},maker
+synthetix_ProxysTSLA,{'defi'},synthetix
+bitfinex Solana hot wallet,{'exchange'},bitfinex
+balancer_Exchange Proxy,{'defi_dex'},balancer
+Telco214,{'miner'},telco214
+synthetix_TokenStateiEOS,{'defi'},synthetix
+badger_native.uniBadgerWbtc-geyser,{'defi'},badger
+DiceOnCrack.com,{'service'},diceoncrackcom
+synthetix_ProxyiUNI,{'defi'},synthetix
+Playt.in,{'service'},playtin
+Transactioncoinmining,{'miner'},transactioncoinmining
+compound_Pair_BAT_ETH,{'defi_lending'},compound
+aave_variableDebtTokenAddress - aUSDT,{'defi_lending'},aave
+dydx_DoubleExponentInterestSetter42,{'defi'},dydx
+maker_MCD_JOIN_GUSD_A,{'defi_lending'},maker
+curvefinance_USDK-StableSwapUSDK,{'defi_dex'},curve
+MPEx.co,{'service'},mpexco
+curvefinance_alUSD-Metaimplementation,{'defi_dex'},curve
+curvefinance_alUSD-LiquidityGaugeV3,{'defi_dex'},curve
+UniDex (UNIDX),{'exchange'},unidex
+harvestfinance_USDC Vault,{'defi'},harvestfinance
+bitfinex Stepn (GMT) hot wallet,{'exchange'},bitfinex
+curvefinance_BUSD-StableSwapBUSD,{'defi_dex'},curve
+vesper_vBetaWBTC-pool,{'defi'},vesper
+maker_MCD_CLIP_CALC_BAT_A,{'defi_lending'},maker
+curvefinance_Gauge Owner,{'defi_dex'},curve
+nexus_ClaimProofs,{'defi'},nexus
+harvestfinance_WETH-DAI-LP Vault,{'defi'},harvestfinance
+aave_stableDebtTokenAddress - aDAI,{'defi_lending'},aave
+uniswap_v3_pool_FRAX_USDC,{'defi_dex'},uniswap
+instadapp_mainnet-v2-InstaAccountV2,{'defi_lending'},instadapp
+harvestfinance_fSLP-USDC:WETH,{'defi'},harvestfinance
+ATAIX,{'exchange'},ataix
+Polkadex (PDEX),{'exchange'},polkaex
+Kuna.io 2,{'exchange'},kuna
+Coinbase.com,{'exchange'},coinbase
+aave_aAmmUniBATWETH,{'defi_lending'},aave
+renvm_DarknodePaymentStore,{'defi'},ren
+Huobi 21,{'exchange'},huobi
+aave_variableDebtTokenAddress - aSUSD,{'defi_lending'},aave
+Poolin 4,{'miner'},poolin
+curvefinance_oBTC-StableSwapOBTC,{'defi_dex'},curve
+bitfinex Fantom/Fantom tokens hot wallet,{'exchange'},bitfinex
+SimpleCoin.cz,{'exchange'},simplecoin
+uniswap_v3_pool_DAI_USDC_005,{'defi_dex'},uniswap
+BitBargain.co.uk,{'exchange'},bitbargain
+bitfinex Tether USDt (Near) hot wallet,{'exchange'},bitfinex
+curvefinance_Fee Distributor,{'defi_dex'},curve
+Bitfinex 12,{'exchange'},bitfinex
+synthetix_TokenStateiCOMP,{'defi'},synthetix
+harvestfinance_fTUSD,{'defi'},harvestfinance
+synthetix_TokenStatesREN,{'defi'},synthetix
+maker_MCD_JOIN_ETH_C,{'defi_lending'},maker
+instadapp_InstaReflexerGebMapping,{'defi_lending'},instadapp
+maker_MCD_JOIN_RENBTC_A,{'defi_lending'},maker
+dydx_SignedOperationProxy1,{'defi'},dydx
+SpectroCoin.com,{'exchange'},spectrocoin
+BitStarz.com,{'gambling'},bitstarzcom
+BTCGuild.com,{'service'},btcguildcom
+maker_DSR_MANAGER,{'defi_lending'},maker
+Exchange-Credit.ru,{'exchange'},exchangecredit
+synthetix_SafeDecimalMath,{'defi'},synthetix
+bitfinex Blockstream Mining Note (BMN) hot wallet,{'exchange'},bitfinex
+Curve.fi tStable Token,set(),curve
+synthetix_TokenStateiDEFI,{'defi'},synthetix
+Dagensia.eu,{'service'},dagensia
+uniswap_UniswapProtocolTreasuryVester4,{'defi_dex'},uniswap
+bitfinex Songbird hot wallet,{'exchange'},bitfinex
+synthetix_StakingRewardssGOOGBalancer,{'defi'},synthetix
+maker_PIP_YFI,{'defi_lending'},maker
+synthetix_TokenStatesXAG,{'defi'},synthetix
+Binance Charity,{'exchange'},binance
+aave_variableDebtTokenAddress-aAmmUniBATWETH,{'defi_lending'},aave
+aave_stableDebtTokenAddress - aUSDT,{'defi_lending'},aave
+FCoin,{'exchange'},fcoin
+instadapp_PARASWAP-A,{'defi_lending'},instadapp
+aave_LendingPoolConfigurator,{'defi_lending'},aave
+bitfinex Dogecoin hot wallet,{'exchange'},bitfinex
+instadapp_POLYGON-BRIDGE-A,{'defi_lending'},polygonbridgestaking
+uniswap_v3_pool_MKR_ETH,{'defi_dex'},uniswap
+compound_Pair_ETH_KNC,{'defi_lending'},compound
+EveryDice.com,{'gambling'},everydicecom
+synthetix_ProxysAMZN,{'defi'},synthetix
+Exmo 2,{'exchange'},exmo
+maker_RWA002_A_URN,{'defi_lending'},maker
+FoxBit.com.br,{'exchange'},foxbit
+balancer_BActions,{'defi_dex'},balancer
+aave_stableDebtTokenAddress - aYFI,{'defi_lending'},aave
+HitBtc.com,{'exchange'},hitbtc
+synthetix_SynthiXTZ,{'defi'},synthetix
+aave_aUSDT,{'defi_lending'},aave
+Kraken.com,{'exchange'},kraken
+synthetix_EtherWrapper,{'defi'},synthetix
+bitfinex IOTA cold Wallet,{'exchange'},bitfinex
+LuckyB.it,{'gambling'},luckybit
+aave_stableDebtTokenAddress - aMKR,{'defi_lending'},aave
+synthetix_RewardEscrowV2,{'defi'},synthetix
+synthetix_ProxysBNB,{'defi'},synthetix
+harvestfinance_YFV Pool,{'defi'},harvestfinance
+fei_EthUniswapPCVDeposit,{'defi'},feiprotocol
+CryptalDash (CRD),{'exchange'},cryptaldash
+dydx_LiquidatorProxyV1ForSoloMargin42,{'defi'},dydx
+uniswap_v3_pool_DAI_ETH_03,{'defi_dex'},uniswap
+instadapp_ConnectMaker,{'defi_lending'},instadapp
+compound_cTUSDDelegate,{'defi_lending'},compound
+vesper_VDAI-pool,{'defi'},vesper
+aave_variableDebtTokenAddress - aWETH,{'defi_lending'},aave
+nexus_ClaimsData,{'defi'},nexus
+curvefinance_GUSD-DepositGUSD,{'defi_dex'},curve
+uniswap_v3_pool_1INCH_ETH,{'defi_dex'},uniswap
+aave_variableDebtTokenAddress - aBUSD,{'defi_lending'},aave
+Coinroll.com,{'gambling'},coinrollcom
+bitfinex Ziliqa (ZIL) hot wallet,{'exchange'},bitfinex
+Remitano 1,{'exchange'},remitano
+aave_aBAL,{'defi_lending'},aave
+UpDown.BT,{'service'},updownbt
+Binance 22,{'exchange'},binance
+yearn_v2.registry.ychad.eth,{'defi'},yearnfinance
+okx ERC20 reserves,{'exchange'},okex
+Poloniex 4,{'exchange'},poloniex
+Bybit reserve wallets,{'exchange'},bybit
+maker_PIP_UNIV2UNIETH,{'defi_lending'},maker
+compound_GovernorBravo,{'defi_lending'},compound
+aave_aGUSD,{'defi_lending'},aave
+ShapeShift 7,{'exchange'},shapeshift
+aave_aYFI,{'defi_lending'},aave
+aave_arc_PermissionManager,{'defi_lending'},aave
+Azbit,{'exchange'},azbit
+Gemini 4,{'exchange'},gemini
+aave_rwa_LendingPoolConfigurator,{'defi_lending'},aave
+Huobi 13,{'exchange'},huobi
+Cryptopia 2,{'exchange'},cryptopia
+SatoshiRoulette.com,{'gambling'},satoshiroulettecom
+aave_aAmmUSDC,{'defi_lending'},aave
+nexus_Incidents,{'defi'},nexus
+Maxbtc,{'miner'},maxbtc
+instadapp_InstaAaveV2MigratorSender1,{'defi_lending'},instadapp
+barnbridge_EToken WETH/WBTC 50/50,{'defi'},barnbridge
+Beaxy,{'exchange'},beaxy
+fei_Fei,{'defi'},feiprotocol
+instadapp_ConnectAaveV2PolygonMigrator1,{'defi_lending'},instadapp
+bitfinex BCH cold wallet,{'exchange'},bitfinex
+CrimeNetwork.cc,{'service'},crimenetworkcc
+maker_MCD_VOW,{'defi_lending'},maker
+maker_MCD_JOIN_UNIV2WBTCETH_A,{'defi_lending'},maker
+instadapp_mainnet-v2-InstaConnectorsV2,{'defi_lending'},instadapp
+Peerbet.org,{'gambling'},peerbetorg
+Bilaxy 2,{'exchange'},bilaxy
+Bitfinex 11,{'exchange'},bitfinex
+synthetix_TokenStateiADA,{'defi'},synthetix
+uniswap_v3_pool_DAI_FRAX,{'defi_dex'},uniswap
+CoinWorker.com,{'service'},coinworkercom
+synthetix_ProxyiETC,{'defi'},synthetix
+Huobi 16,{'exchange'},huobi
+synthetix_CollateralManager,{'defi'},synthetix
+Bitfinex 6,{'exchange'},bitfinex
+maker_PIP_UNIV2DAIETH,{'defi_lending'},maker
+maker_MCD_ESM,{'defi_lending'},maker
+synthetix_TokenStatesAMZN,{'defi'},synthetix
+Bitcoinrussia,{'miner'},bitcoinrussia
+BitMinter.com,{'miner'},bitmintercom
+aave_variableDebtTokenAddress - aREN,{'defi_lending'},aave
+KuCoin Shares,set(),kucoin
+fei_EthReserveStabilizer,{'defi'},feiprotocol
+bitfinex Cardano ADA hot wallet,{'exchange'},bitfinex
+KuCoinPool,{'miner'},kucoin
+Huobi mining pool,{'miner'},huobi
+curvefinance_USDNBurner,{'defi_dex'},curve
+Poolin 2,{'miner'},poolin
+Poloniex 3,{'exchange'},poloniex
+synthetix_TokenStatesNFLX,{'defi'},synthetix
+KuCoin: Old KCS Token,{'exchange'},kucoin
+aave_arc_PermissionedLendingPoolAddressesProvider,{'defi_lending'},aave
+BetcoinDice.tm,{'service'},betcoindicetm
+synthetix_FlexibleStorage,{'defi'},synthetix
+bitfinex Decred hot wallet,{'exchange'},bitfinex
+Huobi 35,{'exchange'},huobi
+maker_MCD_JOIN_LRC_A,{'defi_lending'},maker
+instadapp_ConnectCompound,{'defi_lending'},instadapp
+ZB.com Token,set(),zbcom
+Kraken 7,{'exchange'},kraken
+badger_native.badger-geyser,{'defi'},badger
+instadapp_InstaMasterProxy1,{'defi_lending'},instadapp
+aave_aAmmUniUSDCWETH,{'defi_lending'},aave
+maker_MCD_JOIN_USDC_B,{'defi_lending'},maker
+Poloniex: OMG,{'exchange'},poloniex
+uniswap_UNI,{'defi_dex'},uniswap
+BitBlinx,{'exchange'},bitblinx
+badger_native.sushiBadgerWbtc-strategy,{'defi'},badger
+Btc nuggets,{'miner'},btcnuggets
+curvefinance_Pool Info,{'defi_dex'},curve
+Europex.eu,{'service'},europex
+SouthXchange,{'exchange'},southxchange
+curvefinance_Yv2-CurveTokenV3,{'defi_dex'},curve
+KuCoin 10,{'exchange'},kucoin
+Genesis Mining,{'miner'},genesis-miningcom
+maker_MCD_CLIP_ZRX_A,{'defi_lending'},maker
+BitoEX.com,{'service'},bitoexcom
+compound_REP,{'defi_lending'},compound
+Asicminer,{'miner'},asicminer
+TopBTC,{'exchange'},topbtc
+synthetix_BinaryOptionMarketData,{'defi'},synthetix
+bitfinex L-BTC cold wallet,{'exchange'},bitfinex
+curvefinance_ABurner,{'defi_dex'},curve
+Bitbond.com,{'service'},bitbondcom
+curvefinance_hBTC-StableSwapHBTC,{'defi_dex'},curve
+curvefinance_oBTC-DepositOBTC,{'defi_dex'},curve
+curvefinance_hBTC-CurveTokenV2,{'defi_dex'},curve
+Beaxy Token (BXY),{'exchange'},beaxy
+harvestfinance_fUNI-WETH:USDT,{'defi'},harvestfinance
+Gate.io,{'exchange'},gate
+maker_MCD_CLIP_USDC_B,{'defi_lending'},maker
+Rawpool.com,{'miner'},rawpoolcom
+aave_variableDebtTokenAddress-aAmmUniMKRWETH,{'defi_lending'},aave
+harvestfinance_fUSDT Uniswap,{'defi'},harvestfinance
+huobi reserve wallets EOS,{'exchange'},huobi
+aave_stableDebtTokenAddress-aAmmUniBATWETH,{'defi_lending'},aave
+uniswap_UniswapV3Factory,{'defi_dex'},uniswap
+aave_Collector contract,{'defi_lending'},aave
+harvestfinance_fSLP-WBTC:TBTC,{'defi'},harvestfinance
+dydx_AdminImpl42,{'defi'},dydx
+bitfinex Kusama cold Wallet,{'exchange'},bitfinex
+SmenarnaBitcoin.cz,{'service'},smenarnabitcoin
+dydx_TestPriceOracle42,{'defi'},dydx
+maker_MCD_DEPLOY,{'defi_lending'},maker
+HuobiPoolToken (HPT),{'miner'},huobi
+curvefinance_Factory,{'defi_dex'},curve
+CoinApult.com,{'service'},coinapultcom
+Bitclub network,{'miner'},bitclubnetwork
+Coin-Swap.net,{'service'},coin-swapnet
+Kano.is,{'miner'},kanois
+synthetix_TokenStatesGOOG,{'defi'},synthetix
+curvefinance_TriCrypto-CurveCryptoSwap,{'defi_dex'},curve
+crypto.com ERC20 reserves,{'exchange'},cryptocom
+Cryptsy.com,{'exchange'},cryptsy
+maker_CDP_MANAGER,{'defi_lending'},maker
+BitElfin.com,{'service'},bitelfincom
+0x_Forwarder-v3,{'defi_dex'},0x
+instadapp_AAVE-V2-A,{'defi_lending'},instadapp
+synthetix_ShortingRewardssBTC,{'defi'},synthetix
+badger_native.digg-strategy,{'defi'},badger
+Bw.com,"{'exchange', 'miner'}",bw
+instadapp_InstaMappingController,{'defi_lending'},instadapp
+SlushPool.com,{'miner'},slushpoolcom
+Bylls.com,{'service'},byllscom
+Coinbase 6,{'exchange'},coinbase
+maker_MCD_CLIP_CALC_TUSD_A,{'defi_lending'},maker
+uniswap_UniswapV2Router02,{'defi_dex'},uniswap
+Bitfinex: Deployer 3,set(),bitfinex
+synthetix_SynthsCOIN,{'defi'},synthetix
+Hoo.com 6,{'exchange'},hoo
+synthetix_SynthsAAVE,{'defi'},synthetix
+curvefinance_Gauge Controller,{'defi_dex'},curve
+Bitfinex: MultiSig 2,{'exchange'},bitfinex
+bitfinex Luna hot wallet 2,{'exchange'},bitfinex
+convex_cvxCRV Rewards,{'defi'},convex
+synthetix_SignedSafeDecimalMath,{'defi'},synthetix
+Poloniex: BAT,{'exchange'},poloniex
+harvestfinance_fUNI-USDC:WETH,{'defi'},harvestfinance
+aave_stableDebtTokenAddress-aAmmUniUNIWETH,{'defi_lending'},aave
+maker_PROXY_ACTIONS,{'defi_lending'},maker
+synthetix_SynthsXMR,{'defi'},synthetix
+aave_UiIncentiveDataProvider,{'defi_lending'},aave
+aave_variableDebtTokenAddress-aAmmUniUNIWETH,{'defi_lending'},aave
+huobi reserve wallets ETC,{'exchange'},huobi
+McxNOW.com,{'service'},mcxnow
+bitfinex Filecoin hot wallet,{'exchange'},bitfinex
+maker_MCD_CLIP_GUSD_A,{'defi_lending'},maker
+Binance 5,{'exchange'},binance
+aave_stableDebtTokenAddress-aAmmWETH,{'defi_lending'},aave
+maker_MCD_CLIP_KNC_A,{'defi_lending'},maker
+Bittrex 3,{'exchange'},bittrex
+uniswap_v3_pool_USDC_USDT_001,{'defi_dex'},uniswap
+synthetix_StakingRewardssCOINBalancer,{'defi'},synthetix
+instadapp_G-UNISWAP-A,{'defi_lending'},instadapp
+badger_native.sbtcCrv-geyser,{'defi'},badger
+maker_PIP_UNIV2WBTCETH,{'defi_lending'},maker
+maker_UNIV2DAIUSDT,{'defi_lending'},maker
+DIGIFINEXTOKEN (DFT),{'exchange'},digifinex
+hegic_Hegic ETH Staking Lots,{'defi'},hegic
+uniswap_UniswapV2Router01,{'defi_dex'},uniswap
+compound_StdComptrollerG3,{'defi_lending'},compound
+synthetix_SynthiUNI,{'defi'},synthetix
+Crypto.com,{'exchange'},cryptocom
+synthetix_TokenStatesAAVE,{'defi'},synthetix
+synthetix_OneNetAggregatorIssuedSynths,{'defi'},synthetix
+instadapp_InstaPoolV2Implementation,{'defi_lending'},instadapp
+Paribu 1,{'exchange'},paribu
+maker_MCD_FLASH,{'defi_lending'},maker
+Binance USD (BUSD),{'exchange'},binance
+instadapp_polygon-v2-InstaConnectorsV2Proxy,{'defi_lending'},instadapp
+bitfinex SMR cold Wallet,{'exchange'},bitfinex
+harvestfinance_WETH-USDT-LP Vault,{'defi'},harvestfinance
+instadapp_UNISWAP-V2-A,{'defi_lending'},instadapp
+BTSE Token (BTSE),{'exchange'},btse
+CryptoLocker,{'service'},cryptolocker
+huobi reserve wallets USDC,{'exchange'},huobi
+fei_Fei DAO,{'defi'},feiprotocol
+KuCoin 1,set(),kucoin
+BlueSkyMarketplace,{'market'},blueskymarketplace
+Kraken 8,{'exchange'},kraken
+vesper_VWBTC-feeWhiteList,{'defi'},vesper
+harvestfinance_CRV-RENWBTC Pool,{'defi'},harvestfinance
+aave_stableDebtTokenAddress-aAmmUniWBTCUSDC,{'defi_lending'},aave
+synthetix_SynthiCOMP,{'defi'},synthetix
+harvestfinance_fDAI Uniswap,{'defi'},harvestfinance
+curvefinance_EURS-StableSwapEURS,{'defi_dex'},curve
+compound_cDaiDelegate,{'defi_lending'},compound
+Trade.io: Token Sale,set(),tradeio
+bitfinex Concordium hot wallet,{'exchange'},bitfinex
+aave_aAmmBptWBTCWETH,{'defi_lending'},aave
+Bitmain.com,{'exchange'},bitmain
+synthetix_TokenStateiLTC,{'defi'},synthetix
+AbraxasMarket,{'market'},abraxasmarket
+BitMillions.com,{'service'},bitmillionscom
+bitfinex XEC hot wallet,{'exchange'},bitfinex
+Loanbase.com,{'service'},loanbasecom
+curvefinance_sBTC-StableSwapSBTC,{'defi_dex'},curve
+hegic_BTC/USD ChainLink price feed ,{'defi'},hegic
+huobi reserve wallets DOGE,{'exchange'},huobi
+bitfinex Mobilecoin hot wallet,{'exchange'},bitfinex
+synthetix_SynthiDASH,{'defi'},synthetix
+maker_MCD_CLIP_COMP_A,{'defi_lending'},maker
+synthetix_StakingRewardssETHUniswapV1,{'defi'},synthetix
+Bitfinex 7,{'exchange'},bitfinex
+synthetix_TokenStatesEUR,{'defi'},synthetix
+synthetix_ProxysYFI,{'defi'},synthetix
+synthetix_ProxysUNI,{'defi'},synthetix
+maker_MCD_PAUSE,{'defi_lending'},maker
+aave_variableDebtTokenAddress - aTUSD,{'defi_lending'},aave
+Curve.fi: TUSD USDT USDC DAI,set(),curve
+P2pool.org,{'miner'},p2poolorg
+Huobi: Old Address 11,set(),huobi
+0x_Exchange-v4,{'defi_dex'},0x
+Poloniex: SNT,{'exchange'},poloniex
+synthetix_ProxysADA,{'defi'},synthetix
+Binance Wrapped WRX (BWRX),{'exchange'},binance
+AscendEX 2,{'exchange'},bitmax
+LCX (LCX),{'exchange'},lcx
+maker_PROXY_ACTIONS_DSR,{'defi_lending'},maker
+curvefinance_BUSD-CurveTokenV1,{'defi_dex'},curve
+maker_MCD_CLIP_CALC_ZRX_A,{'defi_lending'},maker
+Curve.fi: USDC DAI,set(),curve
+Compound Wrapped BTC,set(),compound
+Indodax 2,{'exchange'},indodax
+barnbridge_Controller,{'defi'},barnbridge
+Bittrex.com,{'exchange'},bittrex
+Canoe,{'miner'},canoe
+Phash.io,{'miner'},phashio
+Crypto Lottery,{'gambling'},cryptolottery
+LiteBit.eu,{'exchange'},litebit
+Coinmate.io,{'exchange'},coinmate
+harvestfinance_fUNI-WBTC:WETH,{'defi'},harvestfinance
+bitfinex Oasis rose hot wallet,{'exchange'},bitfinex
+barnbridge_ChangeRewardsFacet,{'defi'},barnbridge
+aave_AaveGovernanceV2,{'defi_lending'},aave
+Paribu 3,{'exchange'},paribu
+instadapp_BASIC-A,{'defi_lending'},instadapp
+BitLaunder.com,{'mixing_service'},bitlaundercom
+Coinbase 4,{'exchange'},coinbase
+Kryptono 3,{'exchange'},kryptono
+aave_rwa_UiPoolDataProvider,{'defi_lending'},aave
+Binance Pool,"{'exchange', 'miner'}",binance
+futureswap_Incentives,{'defi'},futureswap
+fei_FeiRari FEI PCV Deposit,{'defi'},feiprotocol
+vesper_VLINK-feeWhiteList,{'defi'},vesper
+barnbridge_BOND Token,{'defi'},barnbridge
+Huobi 8,{'exchange'},huobi
+C-Cex.com,{'exchange'},ccex
+bitfinex ETP/MVS hot wallet,{'exchange'},bitfinex
+Rollin.io,{'gambling'},rollinio
+maker_MCD_JOIN_WBTC_A,{'defi_lending'},maker
+AllCrypt.com,{'service'},allcrypt
+Compound: Deployer 1,set(),compound
+curvefinance_USDK-CurveTokenV2,{'defi_dex'},curve
+synthetix_ProxysXAG,{'defi'},synthetix
+bitfinex Tether USDt (BCH-SLP) hot wallet,{'exchange'},bitfinex
+Dispenser.tf,{'service'},dispensertf
+aave_stableDebtTokenAddress - aSUSD,{'defi_lending'},aave
+maker_MCD_ADM,{'defi_lending'},maker
+instadapp_polygon-v1-InstaMemory,{'defi_lending'},instadapp
+Coins-e.com,{'exchange'},coinse
+curvefinance_Link-CurveTokenV3,{'defi_dex'},curve
+Gate.io 3,{'exchange'},gate
+synthetix_BinaryOptionMarketFactory,{'defi'},synthetix
+curvefinance_tBTC-StableSwapTBTC,{'defi_dex'},curve
+synthetix_TokenStateiTRX,{'defi'},synthetix
+yearn_WOOFY,{'defi'},yearnfinance
+compound_cAAVE+SUSHI+YFI+MKRDelegate_MuliLabel,{'defi_lending'},compound
+Binance: Eth2 Depositor,{'exchange'},binance
+maker_MCD_CLIP_CALC_USDC_A,{'defi_lending'},maker
+Poloniex: KNC,{'exchange'},poloniex
+synthetix_SynthsJPY,{'defi'},synthetix
+maker_PIP_USDC,{'defi_lending'},maker
+vesper_collateralManagerV2,{'defi'},vesper
+aave_arc_PermissionedWETHGateway,{'defi_lending'},aave
+aave_stableDebtTokenAddress-aAmmBptBALWETH,{'defi_lending'},aave
+Gbminers,{'miner'},gbminers
+synthetix_Issuer,{'defi'},synthetix
+curvefinance_CRV Token,{'defi_dex'},curve
+uniswap_v3_pool_WBTC_ETH_005,{'defi_dex'},uniswap
+harvestfinance_Balancer 5/95 pool,{'defi'},harvestfinance
+StrongCoin.com-fee,{'service'},strongcoincom-fee
+synthetix_SynthsRUNE,{'defi'},synthetix
+Huobi 6,{'exchange'},huobi
+futureswap_ReplayTracker,{'defi'},futureswap
+curvefinance_pBTC-CurveTokenV2,{'defi_dex'},curve
+YABTCL.com,{'gambling'},yabtclcom
+barnbridge_DiamondLoupeFacet,{'defi'},barnbridge
+synthetix_CollateralEth,{'defi'},synthetix
+Bit2C,{'exchange'},bit2c

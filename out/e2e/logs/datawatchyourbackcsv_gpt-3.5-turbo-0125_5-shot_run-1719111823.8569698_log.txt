@@ -1,0 +1,142 @@
+File: data/watchyourback.csv
+Shots: 5
+Time: 17.984649658203125 seconds
+Filter: None
+Blocker: bm25_3
+K: 5
+CG Recall: 0.8656716417910447
+Model: gpt-3.5-turbo-0125
+Input Token: 82489
+Output Token: 126
+Price: 0.041433500000000005 $
+Recall: 0.7635063559322034
+Precision: 0.7591572745901639
+F1: 0.7558407738095239
+Accuracy: 0.8253968253968254
+
+True;1xbit;[('Txbit', 'txbit'), ('Foxbit', 'foxbit'), ('10xBitco.in', '10xbitcoin'), ('BIT', 'bitcom'), ('Bitz', 'bitzcom')];-1;-1
+True;VirtualCurrencyExchange1;[('Currency', 'currency'), ('Virtuse Exchange', 'virtuseexchange'), ('DefiCurrent', 'deficurrent'), ('Vexchange', 'vexchange'), ('0.exchange', '0exchange')];-1;-1
+True;VirtualCurrencyExchange10;[('Currency', 'currency'), ('Virtuse Exchange', 'virtuseexchange'), ('DefiCurrent', 'deficurrent'), ('Vexchange', 'vexchange'), ('0.exchange', '0exchange')];-1;-1
+True;VirtualCurrencyExchange11;[('Currency', 'currency'), ('Virtuse Exchange', 'virtuseexchange'), ('DefiCurrent', 'deficurrent'), ('Vexchange', 'vexchange'), ('0.exchange', '0exchange')];-1;-1
+True;VirtualCurrencyExchange2;[('Currency', 'currency'), ('Virtuse Exchange', 'virtuseexchange'), ('DefiCurrent', 'deficurrent'), ('Vexchange', 'vexchange'), ('0.exchange', '0exchange')];-1;-1
+True;VirtualCurrencyExchange3;[('Currency', 'currency'), ('Virtuse Exchange', 'virtuseexchange'), ('DefiCurrent', 'deficurrent'), ('Vexchange', 'vexchange'), ('0.exchange', '0exchange')];-1;-1
+True;VirtualCurrencyExchange4;[('Currency', 'currency'), ('Virtuse Exchange', 'virtuseexchange'), ('DefiCurrent', 'deficurrent'), ('Vexchange', 'vexchange'), ('0.exchange', '0exchange')];-1;-1
+True;VirtualCurrencyExchange5;[('Currency', 'currency'), ('Virtuse Exchange', 'virtuseexchange'), ('DefiCurrent', 'deficurrent'), ('Vexchange', 'vexchange'), ('0.exchange', '0exchange')];-1;-1
+True;VirtualCurrencyExchange6;[('Currency', 'currency'), ('Virtuse Exchange', 'virtuseexchange'), ('DefiCurrent', 'deficurrent'), ('Vexchange', 'vexchange'), ('0.exchange', '0exchange')];-1;-1
+True;VirtualCurrencyExchange8;[('Currency', 'currency'), ('Virtuse Exchange', 'virtuseexchange'), ('DefiCurrent', 'deficurrent'), ('Vexchange', 'vexchange'), ('0.exchange', '0exchange')];-1;-1
+True;VirtualCurrencyExchange9;[('Currency', 'currency'), ('Virtuse Exchange', 'virtuseexchange'), ('DefiCurrent', 'deficurrent'), ('Vexchange', 'vexchange'), ('0.exchange', '0exchange')];-1;-1
+True;any-cash;[('PayCash', 'paycash'), ('Celerycash', 'celerycash'), ('Cashio', 'cashio'), ('Bitcash', 'bitcash'), ('One Cash', 'onecash')];-1;-1
+False;betcoin-dice;[('BetcoinDice.tm', 'betcoindicetm'), ('Betcoin.tm', 'betcointm'), ('Betcoin.ag', 'betcoinag'), ('Betcoins.net', 'betcoinsnet'), ('DiceBitco.in', 'dicebitcoin')];betcoinag;betcoindicetm
+True;binance;[('Binance (US, DEX)', 'binance'), ('Bingbon/BingX', 'bingbon'), ('MFinance', 'mfinance'), ('BT.Finance', 'btfinance'), ('S Finance', 'sfinance')];binance;binance
+True;bitbank;[('Bitbank', 'bitbank'), ('bitbay.pl', 'bitbaypl'), ('LBank', 'lbank'), ('bitbargain.co.uk', 'bitbargain'), ('Bankcex', 'bankcex')];bitbank;bitbank
+True;bitcointoyou;[('Bitcointoyou', 'bitcointoyou'), ('bitcoin.de', 'bitcoinde'), ('Bitcoin-24', 'bitcoin24'), ('bitcoin.co.id', 'bitcoincoid'), ('BitcoinFog', 'bitcoinfog')];bitcointoyou;bitcointoyou
+True;bitcointoyou.com;[('Bitcointoyou', 'bitcointoyou'), ('MyBitcoin.com', 'mybitcoincom'), ('Bitcoin-24', 'bitcoin24'), ('bitcoin.de', 'bitcoinde'), ('bitcoin.co.id', 'bitcoincoid')];bitcointoyou;bitcointoyou
+True;bitfinex;[('Bitfinex', 'bitfinex'), ('Resfinex', 'resfinex'), ('FinexBox', 'finexbox'), ('CoinEx', 'coinex'), ('DigiFinex', 'digifinex')];bitfinex;bitfinex
+True;bitflyer;[('Bitflyer', 'bitflyer'), ('Bitfloor', 'bitfloor'), ('Flybit', 'flybit'), ('Bitfex', 'bitfex'), ('Bitforex', 'bitforex')];bitflyer;bitflyer
+True;bitlaunder;[('BitLaunder.com', 'bitlaundercom'), ('KDLaunch', 'kdlaunch'), ('Avalaunch', 'avalaunch'), ('ThunderPOKT', 'thunderpokt'), ('Bitlo', 'bitlo')];bitlaundercom;bitlaundercom
+True;bitpanda;[('Bitpanda (fka coinimal)', 'bitpanda'), ('PandaLand', 'pandaland'), ('BitPay.com', 'bitpaycom'), ('Bitparking', 'bitparking'), ('Pandora', 'pandora')];bitpanda;bitpanda
+True;bittrex;[('Bittrex', 'bittrex'), ('BitTurk', 'bitturk'), ('Bitcurex', 'bitcurex'), ('Bitforex', 'bitforex'), ('Ditto', 'ditto')];bittrex;bittrex
+True;bitzlato;[('bitzlato', 'bitzlato'), ('Bitz', 'bitznetwork'), ('Bitz', 'bitzcom'), ('Latoken', 'latoken'), ('BitZino.com', 'bitzinocom')];bitzlato;bitzlato
+True;blender.io;[('blender.io', 'blenderio'), ('Tenderize (TenderSwap)', 'tenderswap'), ('Deribit', 'deribit'), ('Deridex', 'deridex'), ('KLend', 'klend')];blenderio;blenderio
+True;blockchain.info;[('Blockchain.com', 'blockchain'), ('BlockNG', 'blockng'), ('Novablock', 'novablock'), ('AlgoBlocks', 'algoblocks'), ('ChainEX', 'chainex')];blockchain;blockchain
+True;btcbank.com.ua;[('Bankcex', 'bankcex'), ('BitcoinWeBank.com', 'bitcoinwebankcom'), ('OTCBTC', 'otcbtc'), ('BTCBOX', 'btcbox'), ('LBank', 'lbank')];-1;-1
+True;changelly;[('Changelly', 'changelly'), ('Changex', 'changex'), ('Jelly', 'jelly'), ('Vexchange', 'vexchange'), ('Jexchange', 'jexchange')];changelly;changelly
+True;changenow;[('Changenow', 'changenow'), ('Changex', 'changex'), ('0.exchange', '0exchange'), ('Vexchange', 'vexchange'), ('Changelly', 'changelly')];changenow;changenow
+True;clipboardwallethijacker;[('MyEtherWallet', 'myetherwallet'), ('Wallex', 'wallex'), ('Dove Wallet', 'dovewallet'), ('Ambire Wallet', 'ambirewallet'), ('Instawallet.org', 'instawalletorg')];-1;-1
+True;coinbase;[('Coinbase', 'coinbase'), ('Loanbase.com', 'loanbasecom'), ('Koinbazar', 'koinbazar'), ('PinballCoin.com', 'pinballcoincom'), ('Basefex', 'basefex')];coinbase;coinbase
+True;coincloud;[('CloudBet.com', 'cloudbetcom'), ('CloudHashing.com', 'cloudhashingcom'), ('Coincafe', 'coincafe'), ('bitcoin.co.id', 'bitcoincoid'), ('Coinchimp', 'coinchimp')];-1;-1
+True;coincola;[('bitcoin.co.id', 'bitcoincoid'), ('AllCoin.com', 'allcoincom'), ('777Coin.com', '777coincom'), ('PonziCoin.co', 'ponzicoinco'), ('MyBitcoin.com', 'mybitcoincom')];-1;-1
+True;coinfloor.co.uk;[('CoinFLEX', 'coinflex'), ('Bitfloor', 'bitfloor'), ('Floor Dao', 'floordao'), ('Coin Floor / Coin Corner', 'coinfloor'), ('Coinfield', 'coinfield')];coinfloor;coinfloor
+False;coinimal.com;[('Minimax', 'minimax'), ('Bitpanda (fka coinimal)', 'bitpanda'), ('Koinim', 'koinim'), ('Coinfalcon', 'coinfalcon'), ('AdmiralCoin.com', 'admiralcoincom')];-1;bitpanda
+True;coinmate;[('Coinmate', 'coinmate'), ('Coinmama', 'coinmama'), ('CoinMargin', 'coinmargin'), ('Coinmkt', 'coinmkt'), ('Coinomat', 'coinomat')];coinmate;coinmate
+True;coinpayments;[('CoinPayments.net', 'coinpaymentsnet'), ('Cryptopay.me', 'cryptopayme'), ('Paymium', 'paymium'), ('Mento', 'mento'), ('Sentiment', 'sentiment')];coinpaymentsnet;coinpaymentsnet
+True;coins.co.th;[('coins.co.th', 'coinscoth'), ('Braiins.com', 'braiins'), ('Coins-E', 'coinse'), ('Coins.ph', 'coinspro'), ('Coin-Swap', 'coinswap')];coinscoth;coinscoth
+True;coinspot.com.au;[('Coinspot', 'coinspot'), ('Coins.ph', 'coinspro'), ('Betcoins.net', 'betcoinsnet'), ('Hotcoin Global', 'hotcoinglobal'), ('Coinomat', 'coinomat')];coinspot;coinspot
+True;costis;[('Picostocks', 'picostocks'), ('LowcostSwap', 'lowcostswap'), ('GoodGhosting', 'goodghosting'), ('YetiSwap', 'yetiswap'), ('Coslend', 'coslend')];-1;-1
+True;cryptocom;[('Crypto.com', 'cryptocom'), ('ActionCrypto.com', 'actioncryptocom'), ('Cryptox', 'cryptox'), ('ACryptoS', 'acryptos'), ('CryptoStocks.com', 'cryptostockscom')];cryptocom;cryptocom
+True;cryptolocker;[('CryptoLocker', 'cryptolocker'), ('Cryptology', 'cryptology'), ('CryptEx Locker', 'cryptexlocker'), ('Cryptox', 'cryptox'), ('ACryptoS', 'acryptos')];cryptolocker;cryptolocker
+False;cryptolocker-4.0;[('CryptoLocker', 'cryptolocker'), ('Cryptology', 'cryptology'), ('CryptEx Locker', 'cryptexlocker'), ('Cryptox', 'cryptox'), ('ACryptoS', 'acryptos')];cryptolocker;-1
+True;cryptonator;[('Cryptonator.com', 'cryptonatorcom'), ('Cryptonex', 'cryptonex'), ('Cryptonit', 'cryptonit'), ('Cryptorush', 'cryptorush'), ('Cryptox', 'cryptox')];cryptonatorcom;cryptonatorcom
+False;darklaunder;[('BitLaunder.com', 'bitlaundercom'), ('KDLaunch', 'kdlaunch'), ('Avalaunch', 'avalaunch'), ('ThunderPOKT', 'thunderpokt'), ('FunDex', 'fundex')];-1;bitlaundercom
+True;dsx-exchange;[('xExchange', 'xexchange'), ('0.exchange', '0exchange'), ('Vexchange', 'vexchange'), ('Jexchange', 'jexchange'), ('Btcexchange', 'btcexchange')];-1;-1
+True;duckdice.io;[('PocketDice.io', 'pocketdiceio'), ('DuckyDeFi', 'duckydefi'), ('Ice-Dice.com', 'ice-dicecom'), ('AlterDice', 'alterdice'), ('DaDice.com', 'dadicecom')];-1;-1
+True;easywallet;[('Wallex', 'wallex'), ('Dove Wallet', 'dovewallet'), ('MyEtherWallet', 'myetherwallet'), ('Ambire Wallet', 'ambirewallet'), ('Instawallet.org', 'instawalletorg')];-1;-1
+True;elon-musk;[('ElonSwap', 'elonswap'), ('DogeMuskSwap', 'dogemuskswap'), ('BabylonMarket', 'babylonmarket'), ('Dogs of Elon', 'dogsofelon'), ('stCELO', 'stcelo')];-1;-1
+True;exmo;[('EXMO', 'exmo'), ('BloXmove', 'bloxmove'), ('ExMarkets', 'exmarkets'), ('Waterfall Yield/WTF/JetMine DAO/Lavafall/GemMine/MyMine/DEX/Moneyrain Finance', 'waterfall'), ('Dragonfruit Protocol', 'dragonfruitprotocol')];exmo;exmo
+True;f2pool;[('F2pool.com', 'f2pool'), ('P2pool.org', 'p2poolorg'), ('dpool', 'dpool'), ('JPool', 'jpool'), ('batpool', 'batpool')];f2pool;f2pool
+True;faucethub;[('FaucetBOX.com', 'faucetboxcom'), ('SaucerSwap', 'saucerswapdex'), ('EthicHub', 'ethichub'), ('Cetus', 'cetus'), ('Auctus', 'auctus')];-1;-1
+True;fbi;[('BetsOfBitco.in', 'betsofbitcoin'), ('ZYXSwap', 'zyxswap'), ('Drift', 'drift'), ('DungeonSwap', 'dungeonswap'), ('DuneSwap', 'duneswap')];-1;-1
+True;foxbit;[('Foxbit', 'foxbit'), ('Txbit', 'txbit'), ('RFOX', 'rfox'), ('10xBitco.in', '10xbitcoin'), ('FoxSwap', 'foxswap')];foxbit;foxbit
+True;freewallet;[('Wallex', 'wallex'), ('Dove Wallet', 'dovewallet'), ('MyEtherWallet', 'myetherwallet'), ('Ambire Wallet', 'ambirewallet'), ('THORWallet DEX', 'thorwallet')];-1;-1
+True;ftx;[('Ftx', 'ftx'), ('NFTX', 'nftx'), ('ZYXSwap', 'zyxswap'), ('DungeonSwap', 'dungeonswap'), ('DuneSwap', 'duneswap')];ftx;ftx
+True;gamer;[('MIND Games', 'mindgames'), ('VersaGames', 'versagames'), ('Game Theory', 'gametheory'), ('Crypto-Games.net', 'crypto-gamesnet'), ('Croissant Games', 'croissantgames')];-1;-1
+True;gate.io;[('Gate', 'gate'), ('CoinGate', 'coingate'), ('Gatecoin', 'gatecoin'), ('bobagateway', 'bobagateway'), ('Stargate Finance', 'stargatefinance')];gate;gate
+True;gopax;[('GoPax', 'gopax'), ('ErgoPad', 'ergopad'), ('Paxful', 'paxful'), ('Cryptopay.me', 'cryptopayme'), ('Cleopatra DAO', 'cleopatradao')];gopax;gopax
+True;hamas;[('MaskEX', 'maskex'), ('Xmas Past', 'xmaspast'), ('Mama DAO', 'mamadao'), ('Coinmama', 'coinmama'), ('LlamaPay', 'llamapay')];-1;-1
+True;hamas-fto;[('MaskEX', 'maskex'), ('Xmas Past', 'xmaspast'), ('Mama DAO', 'mamadao'), ('Coinmama', 'coinmama'), ('LlamaPay', 'llamapay')];-1;-1
+False;helix-extensive-usage;[('HelixMixer', 'helixmixer'), ('Dagensia', 'dagensia'), ('Felixo', 'felixo'), ('Helix, Injective Bridge', 'helix'), ('HeliSwap', 'heliswap')];helix;helixmixer
+True;huobi;[('Huobi', 'huobi'), ('Huobi Korea', 'huobikorea'), ('Huobi Japan', 'huobijapan'), ('YoBit', 'yobit'), ('Lobis', 'lobis')];huobi;huobi
+True;huobi.com;[('Huobi', 'huobi'), ('Huobi Korea', 'huobikorea'), ('Huobi Japan', 'huobijapan'), ('Rubicon', 'rubicon'), ('Biconomy/Hyphen', 'biconomy')];huobi;huobi
+True;indodax;[('Indodax', 'indodax'), ('Vindax', 'vindax'), ('Indoex', 'indoex'), ('Quidax', 'quidax'), ('NovaDAX', 'novadax')];indodax;indodax
+True;intermediary-to-small-exchange-1;[('Vexchange', 'vexchange'), ('0.exchange', '0exchange'), ('xExchange', 'xexchange'), ('Jexchange', 'jexchange'), ('Exchange-Credit', 'exchangecredit')];-1;-1
+True;korbit.co.kr;[('Korbit', 'korbit'), ('Orbit', 'orbit'), ('OrbitalSwap', 'orbitalswap'), ('Hanbitco', 'hanbitco'), ('Bitcoin-24', 'bitcoin24')];korbit;korbit
+True;kraken;[('Kraken', 'kraken'), ('Birake', 'birake'), ('FRAKT', 'frakt'), ('xToken', 'xtoken'), ('Latoken', 'latoken')];kraken;kraken
+True;kucoin;[('KuCoin & KuCoin Futures', 'kucoin'), ('BuyUcoin', 'buyucoin'), ('Coin', 'coin'), ('1Coin', '1coin'), ('Fcoin', 'fcoin')];kucoin;kucoin
+True;litebit;[('Litebit', 'litebit'), ('WhiteBIT', 'whitebit'), ('Zebitex', 'zebitex'), ('Tidebit', 'tidebit'), ('BlueBit', 'bluebit')];litebit;litebit
+True;litebit.eu;[('Litebit', 'litebit'), ('WhiteBIT', 'whitebit'), ('Zebitex', 'zebitex'), ('Bitexen', 'bitexen'), ('Jibitex', 'jibitex')];litebit;litebit
+True;localbitcoins;[('LocalBitcoins', 'localbitcoins'), ('BuySellBitco.in', 'buysellbitcoin'), ('LocalTrade', 'localtrade'), ('bitcoin.de', 'bitcoinde'), ('Bitcoin-24', 'bitcoin24')];localbitcoins;localbitcoins
+True;luckybit;[('LuckyB.it', 'luckybit'), ('LuckyChip', 'luckychip'), ('CatsLuck', 'catsluck'), ('DuckyDeFi', 'duckydefi'), ('Bybit', 'bybit')];luckybit;luckybit
+True;maicoin;[('Max Maicoin', 'maicoin'), ('PonziCoin.co', 'ponzicoinco'), ('TaiChi', 'taichi'), ('Coin', 'coin'), ('Bitmain', 'bitmain')];maicoin;maicoin
+False;matic;[('SwapMatic', 'swapmatic'), ('Kromatika', 'kromatika'), ('Arctic', 'arctic'), ('Matbea', 'matbea'), ('Coinmate', 'coinmate')];polygonbridgestaking;-1
+True;mine.exchange;[('Vexchange', 'vexchange'), ('Jexchange', 'jexchange'), ('0.exchange', '0exchange'), ('xExchange', 'xexchange'), ('Btcexchange', 'btcexchange')];-1;-1
+True;mybitcoin.com;[('MyBitcoin.com', 'mybitcoincom'), ('bitcoin.co.id', 'bitcoincoid'), ('WatchMyBit.com', 'watchmybitcom'), ('Buybitcoin.ph', 'buybitcoinph'), ('777Coin.com', '777coincom')];mybitcoincom;mybitcoincom
+False;mycryptomixer;[('Cryptomine.io', 'cryptomineio'), ('HelixMixer', 'helixmixer'), ('Cryptox', 'cryptox'), ('Cryptomarket', 'cryptomarket'), ('ACryptoS', 'acryptos')];-1;helixmixer
+False;okex;[('BKEX', 'bkex'), ('MaskEX', 'maskex'), ('KickEX', 'kickex'), ('StrikeX', 'strikex'), ('xToken', 'xtoken')];okex;-1
+True;omegapro.world;[('megabigpower', 'megabigpower'), ('Aprobit', 'aprobit'), ('forlend', 'forlend'), ('Cega', 'cega'), ('Swapr', 'swapr')];-1;-1
+True;pandukelana2712;[('PandaLand', 'pandaland'), ('Yupana', 'yupana'), ('Solanax', 'solanax'), ('Pandora', 'pandora'), ('Newland', 'newland')];-1;-1
+True;paxful;[('Paxful', 'paxful'), ('GoPax', 'gopax'), ('ZYXSwap', 'zyxswap'), ('DungeonSwap', 'dungeonswap'), ('Duet Protocol', 'duetprotocol')];paxful;paxful
+False;payeer;[('DeerFi', 'deerfi'), ('ZebPay', 'zebpay'), ('FreeRiver', 'freeriver'), ('Paymium', 'paymium'), ('PayCash', 'paycash')];-1;paymium
+True;phorpiex;[('Euphoria', 'euphoria'), ('PieDAO', 'piedao'), ('Tokpie', 'tokpie'), ('Magpie', 'magpie'), ('Morpho Aave/Compound', 'morphoaave')];-1;-1
+True;poloniex;[('Poloniex', 'poloniex'), ('Colony', 'colony'), ('Ice Colony', 'icecolony'), ('OolongSwap', 'oolongswap'), ('Graviex', 'graviex')];poloniex;poloniex
+True;remitano;[('Remitano', 'remitano'), ('Premio', 'premio'), ('Premia', 'premia'), ('Titano (Swych)', 'swych'), ('BitANT', 'bitant')];remitano;remitano
+True;renbtc;[('UpDown.BT', 'updownbt'), ('Siren', 'siren'), ('Varen', 'varen'), ('RenVM', 'ren'), ('Buenbit', 'buenbit')];ren;ren
+True;renrenbit;[('Buenbit', 'buenbit'), ('Varen', 'varen'), ('RenVM', 'ren'), ('Siren', 'siren'), ('OpenBiSea', 'openbisea')];-1;-1
+False;satoshibones;[('SatoshiBet.com', 'satoshibetcom'), ('SatoshiMines.com', 'satoshiminescom'), ('Satoshi-Karoshi.com', 'satoshi-karoshicom'), ('Trade Satoshi', 'tradesatoshi'), ('SatoshiDice.com', 'satoshidicecom')];bitzillionscom;-1
+True;satoshidice;[('SatoshiDice.com', 'satoshidicecom'), ('Satoshi-Karoshi.com', 'satoshi-karoshicom'), ('SatoshiBet.com', 'satoshibetcom'), ('Trade Satoshi', 'tradesatoshi'), ('SatoshiMines.com', 'satoshiminescom')];satoshidicecom;satoshidicecom
+True;sextorsion;[('Fusion Dex', 'fusiondex'), ('xToken', 'xtoken'), ('Phission Finance', 'phissionfinance'), ('Connext', 'connext'), ('Diffusion Finance', 'diffusion')];-1;-1
+True;shapeshift;[('ShapeShift', 'shapeshift'), ('SideShift', 'sideshift'), ('Blueshift', 'blueshift'), ('ZeroShift', 'zeroshift'), ('ShiftDollar', 'shiftdollar')];shapeshift;shapeshift
+True;siaclassicteam;[('Terraswap (Classic)', 'terraswap'), ('Kyber, KyberSwap (Classic/Elastic)', 'kyber'), ('Bitcoin Russia', 'bitcoinrussia'), ('Team Finance', 'teamfinance'), ('Garantex Russia', 'garantex')];-1;-1
+False;silkroad;[('SilkRoad2Market', 'silkroad2market'), ('SilkRoadMarketplace', 'silkroadmarketplace'), ('GreenRoadMarket', 'greenroadmarket'), ('CannabisRoadMarket', 'cannabisroadmarket'), ('Kromatika', 'kromatika')];silkroadmarketplace;-1
+True;sinovatechain;[('NovaDAX', 'novadax'), ('ChainEX', 'chainex'), ('Sifchain', 'sifchain'), ('Chainxyz', 'chainxyz'), ('Novablock', 'novablock')];-1;-1
+True;small-exchange-1;[('0.exchange', '0exchange'), ('Jexchange', 'jexchange'), ('Vexchange', 'vexchange'), ('xExchange', 'xexchange'), ('Btcexchange', 'btcexchange')];-1;-1
+True;spectrocoin;[('Spectrocoin', 'spectrocoin'), ('SpectreFi', 'spectrefi'), ('Spectrumswap', 'spectrumswap'), ('Spectrum Protocol', 'spectrumprotocol'), ('Spectrum Finance', 'spectrumfinance')];spectrocoin;spectrocoin
+True;sygnia;[('Perennial', 'perennial'), ('Ignite Finance', 'ignitefinance'), ('Brainiac Finance', 'brainiacfinance'), ('UniWswap (UNIA Farms, AMM)', 'uniwswap'), ('Robinia Swap /  Wisteria Swap', 'robiniaswap')];-1;-1
+True;tether-scrambler-eth;[('Tether (USDT)', 'tether'), ('Gamblefi', 'gamblefi'), ('PoolTogether', 'pooltogether'), ('Arch Ethereum Web3', 'archethereumweb3'), ('DOOAR (BSC, Ethereum)', 'dooarbsc')];tether;tether
+True;totalcoin;[('Coinfalcon', 'coinfalcon'), ('AdmiralCoin.com', 'admiralcoincom'), ('Allcoin', 'allcoin'), ('Telcoin', 'telcoin'), ('AllCoin.com', 'allcoincom')];-1;-1
+True;tradeogre;[('TradeOgre', 'tradeogre'), ('Trade.io', 'tradeio'), ('MyTrade', 'mytrade'), ('UniTrade', 'unitrade'), ('Dex-Trade', 'dextrade')];tradeogre;tradeogre
+True;uniswap;[('Uniswap', 'uniswap'), ('MiniSwap', 'miniswap'), ('MooniSwap', 'mooniswap'), ('BiSwap', 'biswap'), ('EmiSwap', 'emiswap')];uniswap;uniswap
+False;uniswap/huobi;[('Huobi', 'huobi'), ('Uniswap', 'uniswap'), ('Huobi Japan', 'huobijapan'), ('Huobi Korea', 'huobikorea'), ('MiniSwap', 'miniswap')];uniswap;huobi
+False;unknown-owner-111;[('Unknown', 'unknown'), ('Know-To-Earn', 'knowtoearn'), ('xWeowns', 'xweowns'), ('UpDown.BT', 'updownbt'), ('Pop Town', 'poptown')];-1;unknown
+False;unknown-owner-24;[('Unknown', 'unknown'), ('Know-To-Earn', 'knowtoearn'), ('xWeowns', 'xweowns'), ('UpDown.BT', 'updownbt'), ('Pop Town', 'poptown')];-1;unknown
+False;unknown-owner-3;[('Unknown', 'unknown'), ('Know-To-Earn', 'knowtoearn'), ('xWeowns', 'xweowns'), ('UpDown.BT', 'updownbt'), ('Pop Town', 'poptown')];-1;unknown
+True;unocoin;[('Unocoin', 'unocoin'), ('ZooCoin', 'zoocoin'), ('GOGOcoin', 'gogocoin'), ('BitZino.com', 'bitzinocom'), ('BitcoinVideoCasino.com', 'bitcoinvideocasinocom')];unocoin;unocoin
+False;usdc;[('USD+', 'usd'), ('UnusDao', 'unusdao'), ('Sigmausd', 'sigmausd'), ('PlutusDAO', 'plutusdao'), ('XUSD Money', 'xusdmoney')];circle;-1
+False;usdc-burn-bot;[('Eobot', 'eobot'), ('USD+', 'usd'), ('LUSD ChickenBonds', 'lusdchickenbonds'), ('Burrow', 'burrow'), ('BarnBridge', 'barnbridge')];circle;-1
+True;vce2;[('ZYXSwap', 'zyxswap'), ('Dopple Finance', 'dopplefinance'), ('DxSale', 'dxsale'), ('DungeonSwap', 'dungeonswap'), ('DuneSwap', 'duneswap')];-1;-1
+True;vce4;[('ZYXSwap', 'zyxswap'), ('Dopple Finance', 'dopplefinance'), ('DxSale', 'dxsale'), ('DungeonSwap', 'dungeonswap'), ('DuneSwap', 'duneswap')];-1;-1
+True;wallet-11-(huobi-trader);[('Huobi', 'huobi'), ('UniTrade', 'unitrade'), ('Wallex', 'wallex'), ('Dove Wallet', 'dovewallet'), ('MyEtherWallet', 'myetherwallet')];huobi;huobi
+True;wallet-2-(ping-tx);[('Wallex', 'wallex'), ('Dove Wallet', 'dovewallet'), ('MyEtherWallet', 'myetherwallet'), ('Ambire Wallet', 'ambirewallet'), ('Instawallet.org', 'instawalletorg')];-1;-1
+True;wallet-3-(large-trader);[('Wallex', 'wallex'), ('Dove Wallet', 'dovewallet'), ('SafeTrade', 'safetrade'), ('MyEtherWallet', 'myetherwallet'), ('Ambire Wallet', 'ambirewallet')];-1;-1
+True;wallet-4-(large-trader);[('Wallex', 'wallex'), ('Dove Wallet', 'dovewallet'), ('SafeTrade', 'safetrade'), ('MyEtherWallet', 'myetherwallet'), ('Ambire Wallet', 'ambirewallet')];-1;-1
+False;wallet-6-(stablecoin-trader);[('AltcoinTrader', 'altcointrader'), ('Cointrader Net', 'cointrader'), ('Djed Stablecoin', 'djedstablecoin'), ('StableDoin', 'stabledoin'), ('Instawallet.org', 'instawalletorg')];nan;-1
+True;wallet-7-(stablecoin-trader);[('AltcoinTrader', 'altcointrader'), ('Cointrader Net', 'cointrader'), ('Djed Stablecoin', 'djedstablecoin'), ('StableDoin', 'stabledoin'), ('Instawallet.org', 'instawalletorg')];-1;-1
+True;wallet-8-(trader);[('Wallex', 'wallex'), ('Dove Wallet', 'dovewallet'), ('MyEtherWallet', 'myetherwallet'), ('Ambire Wallet', 'ambirewallet'), ('THORWallet DEX', 'thorwallet')];-1;-1
+True;wallet-9-(stablecoin-trader);[('AltcoinTrader', 'altcointrader'), ('Cointrader Net', 'cointrader'), ('Djed Stablecoin', 'djedstablecoin'), ('StableDoin', 'stabledoin'), ('Instawallet.org', 'instawalletorg')];-1;-1
+True;webmoney;[('DogMoney', 'dogmoney'), ('Emp Money', 'empmoney'), ('Moremoney', 'moremoney'), ('JustMoney', 'justmoney'), ('Bomb Money', 'bombmoney')];-1;-1
+True;whale;[('WhaleEx', 'whaleex'), ('Black Whale', 'blackwhale'), ('White Whale', 'whitewhale'), ('Thales', 'thales'), ('Whale Loans/Swap', 'whaleloans')];-1;-1
+False;whitebit;[('WhiteBIT', 'whitebit'), ('Litebit', 'litebit'), ('Whiteheart', 'whiteheart'), ('White Whale', 'whitewhale'), ('Zebitex', 'zebitex')];polygonbridgestaking;whitebit
+False;wintermute;[('Cointerra', 'cointerra'), ('BitMinter.com', 'bitmintercom'), ('Suterusu / Suter-shield', 'sutershield'), ('Internet Archive', 'internet_archive'), ('EnterDAO', 'enterdao')];whitebit;-1
+False;xapo;[('Xapo', 'xapo'), ('MAPO', 'mapo'), ('VaporFi', 'vaporfi'), ('ApolloX', 'apollox'), ('Metapoly', 'metapoly')];-1;xapo
+False;xzzx.biz;[('Txbit', 'txbit'), ('Foxbit', 'foxbit'), ('10xBitco.in', '10xbitcoin'), ('CrimeNet.biz', 'crimenetbiz'), ('CrimeNetwork.biz', 'crimenetworkbiz')];xapo;-1
+True;yolo-group;[('BtnGroup', 'btngroup'), ('Lazarus Group', 'lazarusgroup'), ('Cryptology', 'cryptology'), ('Logium', 'logium'), ('TradeOgre', 'tradeogre')];-1;-1
+True;z-exchange.ru;[('BtcExchange.ro', 'btcexchangero'), ('xExchange', 'xexchange'), ('0.exchange', '0exchange'), ('Vexchange', 'vexchange'), ('Jexchange', 'jexchange')];-1;-1

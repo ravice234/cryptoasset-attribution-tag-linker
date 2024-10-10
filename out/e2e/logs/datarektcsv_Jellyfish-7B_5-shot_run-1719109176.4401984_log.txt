@@ -1,0 +1,116 @@
+File: data/rekt.csv
+Shots: 5
+Time: 63.31614422798157 seconds
+Filter: None
+Blocker: bm25_3
+K: 5
+CG Recall: 0.90625
+Model: Jellyfish-7B
+Loading Time: 56.751672809999945
+Inference Time: 4.914417648000381
+20.348290919207656 Prompts/s
+Recall: 0.4303768382352941
+Precision: 0.43597560975609756
+F1: 0.4324827981651376
+Accuracy: 0.64
+
+False;TGBS Token FlashLoan;[('xToken', 'xtoken'), ('Latoken', 'latoken'), ('Tokenomy', 'tokenomy'), ('Tokencan', 'tokencan'), ('Tokenize', 'tokenize')];-1;xtoken
+False;Banana Swap;[('Banano', 'banano'), ('BananaFarm', 'bananafarm'), ('Solana Farm', 'solanafarm'), ('Yupana', 'yupana'), ('Canary', 'canary')];-1;banano
+True;Fake PAPA Token Rugpull;[('Papa DAO', 'papadao'), ('xToken', 'xtoken'), ('Latoken', 'latoken'), ('Tokencan', 'tokencan'), ('Tokenize', 'tokenize')];-1;-1
+True;Revest;[('Revest Finance', 'revestfinance'), ('Reverse', 'reverse'), ('Investin', 'investin'), ('EverestDAO', 'everestdao'), ('Vesta Finance', 'vestafinance')];revestfinance;revestfinance
+True;SHIA Rugpull;[('PULI', 'puli'), ('Bullish', 'bullishcom'), ('Opulous', 'opulous'), ('BullionFX', 'bullionfx'), ('Pulse DAO', 'pulsedao')];-1;-1
+True;Trade.io;[('Trade.io', 'tradeio'), ('MyTrade', 'mytrade'), ('UniTrade', 'unitrade'), ('Dex-Trade', 'dextrade'), ('Bleutrade', 'bleutrade')];tradeio;tradeio
+True;Team Finance;[('Team Finance', 'teamfinance'), ('IceCream Finance', 'icecreamfinance'), ('DAM Finance', 'damfinance'), ('CREAM Finance/Swap', 'creamfinance'), ('dAMM Finance', 'dammfinance')];teamfinance;teamfinance
+True;BONK Inu (Fake);[('Axl Inu', 'axlinu'), ('Sudo Inu', 'sudoinu'), ('21 Inc.', '21inc'), ('HonkSwap', 'honkswap'), ('Inuswap', 'inuswap')];-1;-1
+True;Empower AI Rug Pull;[('UniPower', 'unipower'), ('PowerSwap', 'powerswap'), ('Powertrade', 'powertrade'), ('Power Pool/Index', 'powerpoolfinance'), ('megabigpower', 'megabigpower')];-1;-1
+True;Tinyman;[('Tinyman', 'tinyman'), ('OptiNyan', 'optinyan'), ('BayMax', 'baymax'), ('ArbiNYAN', 'arbinyan'), ('Pinyottas', 'pinyottas')];tinyman;tinyman
+True;BearnDAO Exploit;[('Bearn', 'bearn'), ('Earnmos', 'earnmos'), ('Earnifty', 'earnifty'), ('MoonDao', 'moondao'), ('OpenDAO', 'opendao')];bearn;bearn
+True;Mirror Protocol;[('Mirror', 'mirror'), ('Harbor Protocol', 'harborprotocol'), ('Parrot Protocol', 'parrotprotocol'), ('Cover Protocol', 'coverprotocol'), ('LiNEAR Protocol', 'linearprotocol')];mirror;mirror
+True;Samudai Exploit;[('Oni Exchange', 'oniexchange'), ('Amun', 'amun'), ('xDAI (Stake Bridge)', 'xdai'), ('YFDAI', 'yfdai'), ('DexPad', 'dexpad')];-1;-1
+True;Inverse Finance (2);[('Inverse Finance Frontier', 'inversefinancefrontier'), ('Universe Finance', 'universefinance'), ('MiniVerse Finance', 'miniversefinance'), ('Verse', 'verse'), ('Universe XYZ', 'universe')];inversefinancefrontier;inversefinancefrontier
+False;SharkTron;[('SharkSwap', 'sharkswap'), ('BiShares', 'bishares'), ('Landshare', 'landshare'), ('AutoShark Finance', 'autosharkfinance'), ('SharedStake', 'sharedstake')];-1;sharkswap
+True;Hachiko Rugpull;[('Chikn Farm', 'chiknfarm'), ('PULI', 'puli'), ('Arkadiko', 'arkadiko'), ('Bullish', 'bullishcom'), ('Opulous', 'opulous')];-1;-1
+True;Fake Celestia Token Rugpull;[('xToken', 'xtoken'), ('Latoken', 'latoken'), ('Tokenomy', 'tokenomy'), ('Tokenize', 'tokenize'), ('Tokencan', 'tokencan')];-1;-1
+True;Neutrino USD (Neutrino Index Token);[('Neutrino', 'neutrino'), ('Neutra Finance', 'neutrafinance'), ('Bleutrade', 'bleutrade'), ('Fliperino', 'fliperino'), ('xToken', 'xtoken')];neutrino;neutrino
+True;Curve.Finance;[('Curve Finance', 'curve'), ('Securo Finance', 'securofinance'), ('Harvest Finance', 'harvestfinance'), ('Dapp Account DAO / eCurve', 'dappaccountdao'), ('MFinance', 'mfinance')];curve;curve
+False;FEGToken;[('xToken', 'xtoken'), ('Latoken', 'latoken'), ('Tokenomy', 'tokenomy'), ('Tokencan', 'tokencan'), ('Tokenize', 'tokenize')];fegex;-1
+False;PIPI Token Rugpull;[('xToken', 'xtoken'), ('Latoken', 'latoken'), ('Tokencan', 'tokencan'), ('Tokenize', 'tokenize'), ('Tokenomy', 'tokenomy')];pippi;-1
+True;PARALUNI;[('Paraluni Masterchef/Dex', 'paralunidex'), ('The Parallel', 'theparallel'), ('Parasset', 'parasset'), ('Paraswap', 'paraswap'), ('ParaSpace', 'paraspace')];paralunidex;paralunidex
+False;Yapizon;[('Horizon Protocol', 'horizonprotocol'), ('Pizza', 'pizza'), ('Zonic', 'zonic'), ('Yapeswap', 'yapeswap'), ('API3', 'api3')];-1;yapeswap
+True;Galaxy Fox Token Exploit;[('xToken', 'xtoken'), ('GalaxyGoogle DAO', 'galaxygoogledao'), ('Latoken', 'latoken'), ('Tokenomy', 'tokenomy'), ('Tokenize', 'tokenize')];-1;-1
+False;PolBase Cash;[('One Cash', 'onecash'), ('Olive Cash', 'olivecash'), ('Basis Cash', 'basiscash'), ('Poof Cash', 'poofcash'), ('Base Protocol', 'baseprotocol')];-1;basiscash
+False;MerchDAO;[('Mercatox', 'mercatox'), ('Coinmerce', 'coinmerce'), ('Mercurity', 'mercurity'), ('SwapperChan', 'swapperchan'), ('Mercado Bitcoin', 'mercadobitcoin')];-1;mercatox
+False;Treasure Swap;[('TreasureDAO', 'treasuredao'), ('COTI Treasury', 'cotitreasury'), ('Erasure', 'erasure'), ('Libre Swap', 'libreswap'), ('Nsure', 'nsure')];-1;treasuredao
+True;Bogged Finance;[('Bogged Finance', 'boggedfinance'), ('Hundred Finance', 'hundredfinance'), ('Indexed Finance', 'indexedfinance'), ('Augmented Finance', 'augmentedfinance'), ('N3RD Finance', 'n3rdfinance')];boggedfinance;boggedfinance
+False;Shadetech;[('ShadeCash', 'shadecash'), ('Luxor Tech', 'luxortech'), ('Alphadex', 'alphadex'), ('Hades Swap', 'hadesswap'), ('Hades Money', 'hadesmoney')];-1;shadecash
+False;mCoin;[('Coin', 'coin'), ('BTCJam.com', 'btcjamcom'), ('Fcoin', 'fcoin'), ('1Coin', '1coin'), ('Dcoin', 'dcoin')];-1;coin
+True;Fintoch;[('Minto', 'minto'), ('Bitcointoyou', 'bitcointoyou'), ('MochiFi', 'mochifi'), ('Kimochi', 'kimochi'), ('8baochi', '8baochi')];-1;-1
+True;Multichain;[('Multichain', 'multichain'), ('Multi-Chain Miner', 'multichainminer'), ('OraiChain', 'oraichain'), ('Binance Multi Chain Capital', 'binancemultichaincapital'), ('ChainEX', 'chainex')];multichain;multichain
+False;Custom Lending Pool Exploit;[('Lending Pond', 'lendingpond'), ('USDFI Lending', 'usdfilending'), ('Huckleberry (Lending, AMM)', 'huckleberry'), ('Canto Dex/Lending', 'cantodex'), ('Benqi Lending/Staked Avax', 'benqi')];-1;lendingpond
+True;Vanity address exploit;[('Vanilla', 'vanilla'), ('Infinity Pad', 'infinitypad'), ('Fortress Loans', 'fortressloans'), ('Cross Exchange', 'crossexchange'), ('Ethernity Chain', 'ethernity')];-1;-1
+False;Soft Yearn Finance;[('Yearn Finance', 'yearnfinance'), ('SleepEarn Finance', 'sleepearnfinance'), ('Capricorn Finance', 'capricorn'), ('Rift Finance', 'riftfinance'), ('AtmosSoft', 'atmossoft')];-1;yearnfinance
+True;Rodeo Finance Exploit;[('Crodex', 'crodex'), ('MMO Finance', 'mmofinance'), ('Meso Finance', 'mesofinance'), ('Vovo Finance', 'vovofinance'), ('KACO Finance', 'kacofinance')];-1;-1
+True;Crema Finance;[('Crema Finance', 'cremafinance'), ('Brahma Finance', 'brahmafi'), ('ORA Finance', 'orafinance'), ('Ara Finance', 'arafinance'), ('Beta Finance', 'betafinance')];cremafinance;cremafinance
+False;EarnHub;[('Coinhub', 'coinhub'), ('Bearn', 'bearn'), ('Earnmos', 'earnmos'), ('Earnifty', 'earnifty'), ('Know-To-Earn', 'knowtoearn')];-1;coinhub
+True;Poolz Finance;[('Fuzz Finance', 'fuzzfinance'), ('Blizz Finance', 'blizzfinance'), ('dpool', 'dpool'), ('JPool', 'jpool'), ('S Finance', 'sfinance')];-1;-1
+False;PolyButterfly;[('ButterSwap', 'butterswap'), ('Butter Network', 'butternetwork'), ('Flybit', 'flybit'), ('Superfluid', 'superfluid'), ('Polyx', 'polyx')];-1;butterswap
+True;Orbit Bridge Exploit;[('Orbit Bridge / KLAYstation', 'orbitbridge'), ('CENNZnet Bridge', 'cennznetbridge'), ('Wan Bridge', 'wanbridge'), ('Lago Bridge', 'lagobridge'), ('Celer Bridge', 'celerbridge')];orbitbridge;orbitbridge
+True;Umbrella Network (2);[('Umbrella Network', 'umbrella'), ('Umbria Network', 'umbria'), ('Sienna Network (Swap)', 'siennaswap'), ('2Pi Network', '2pinetwork'), ('pNetwork', 'pnetwork')];umbrella;umbrella
+False;MTDAO;[('BitDAO', 'bitdao'), ('8ightDAO', '8ightdao'), ('BasketDAO', 'basketdao'), ('SpiritDAO', 'spiritdao'), ('EverestDAO', 'everestdao')];-1;bitdao
+True;Nebula Revelation Exploit;[('Position Exchange', 'positionexchange'), ('BSCStation', 'bscstation'), ('Frog Nation Farm', 'frognationfarm'), ('VelasPad', 'velaspad'), ('Reverse', 'reverse')];-1;-1
+False;PREMINT | NFT;[('Premio', 'premio'), ('Premia', 'premia'), ('Mint Club', 'mintclub'), ('Remitano', 'remitano'), ('Minto', 'minto')];-1;mintclub
+False;Speadefi Exploit;[('PEAKDEFI', 'peakdefi'), ('SeaDex', 'seadex'), ('DeFi Franc', 'defifranc'), ('Defi Halal', 'defihalal'), ('XDeFi', 'xdefi')];-1;peakdefi
+True;SushiSwap (2);[('Sushiswap', 'sushiswap'), ('MochiSwap', 'mochiswap'), ('SashimiSwap', 'sashimiswap'), ('BiSwap', 'biswap'), ('Uniswap', 'uniswap')];sushiswap;sushiswap
+False;CIRCLE fake token rug pull;[('Merit Circle', 'meritcircle'), ('Centre (fka Circle)', 'circle'), ('xToken', 'xtoken'), ('Latoken', 'latoken'), ('Tokenlon (The Tokenized Bitcoin)', 'tokenlon')];circle;-1
+True;Carson Flash Loan Attack;[('Proton Loan', 'protonloan'), ('Flashstake', 'flashstake'), ('Manhattan', 'manhattan'), ('Atlantis Loans', 'atlantisloans'), ('Fortress Loans', 'fortressloans')];-1;-1
+True;Binance;[('Binance (US, DEX)', 'binance'), ('Bingbon/BingX', 'bingbon'), ('MFinance', 'mfinance'), ('BT.Finance', 'btfinance'), ('S Finance', 'sfinance')];binance;binance
+True;Massive Phishing Attack;[('Loopring (AMM)', 'loopring'), ('Phission Finance', 'phissionfinance'), ('Manhattan', 'manhattan'), ('Shinobi', 'shinobi'), ('Stacks Staking', 'stacksstaking')];-1;-1
+True;Value DeFi;[('Value Defi / Liquid / vSwap BSC', 'valueliquid'), ('Cake DeFi', 'cakedefi'), ('Flame DeFi', 'flamedefi'), ('Humble Defi', 'humbledefi'), ('Sapphire Defi', 'sapphiredefi')];valueliquid;valueliquid
+True;AI C-3PO Token Rug Pull;[('xToken', 'xtoken'), ('Latoken', 'latoken'), ('Tokenomy', 'tokenomy'), ('Tokenize', 'tokenize'), ('Tokencan', 'tokencan')];-1;-1
+True;Fake EigenLayer Token Rugpull;[('xToken', 'xtoken'), ('Latoken', 'latoken'), ('Tokenlon (The Tokenized Bitcoin)', 'tokenlon'), ('Tokencan', 'tokencan'), ('Tokenomy', 'tokenomy')];-1;-1
+True;Fake zkSync Rugpull;[('ZigZag (zkSync v1)', 'zigzag'), ('SYNC Network', 'syncnetwork'), ('Cake DeFi', 'cakedefi'), ('PULI', 'puli'), ('Cake Monster', 'cakemonster')];-1;-1
+True;IRA Financial;[('Delta Financial', 'deltafinancial'), ('Comb Financial', 'combfinancial'), ('Thor Financial', 'thorfinancial'), ('Astral Financial', 'astralfinancial'), ('Libero Financial', 'liberofinancial')];-1;-1
+True;BT.Finance;[('BT.Finance', 'btfinance'), ('MFinance', 'mfinance'), ('VyFinance', 'vyfinance'), ('S Finance', 'sfinance'), ('Bitfinex', 'bitfinex')];btfinance;btfinance
+True;UniBot Exploit;[('DexPad', 'dexpad'), ('Eobot', 'eobot'), ('Gamut Exchange', 'gamutexchange'), ('Bibox', 'bibox'), ('Wombat Exchange', 'wombat')];-1;-1
+True;Themis Protocol;[('Artemis Protocol', 'artemisprotocol'), ('Eris Protocol', 'erisprotocol'), ('Mars Protocol', 'marsprotocol'), ('Nexus Protocol', 'nexusprotocol'), ('Numbers Protocol', 'numbersprotocol')];-1;-1
+False;Fairmoon;[('FairFi', 'fairfi'), ('Fairdesk', 'fairdesk'), ('FairySwap', 'fairyswap'), ('Moonpot', 'moonpot'), ('MoonDao', 'moondao')];-1;moonpot
+True;URF Token Rug Pull;[('xToken', 'xtoken'), ('Latoken', 'latoken'), ('Tokenize', 'tokenize'), ('Tokencan', 'tokencan'), ('Tokenomy', 'tokenomy')];-1;-1
+True;Dragoma;[('Aragon', 'aragon'), ("The Dragon's Lair", 'thedragonslair'), ('Dragonfruit Protocol', 'dragonfruitprotocol'), ('Algomint', 'algomint'), ('Nomad', 'nomad')];-1;-1
+True;Condom token Rug Pull;[('xToken', 'xtoken'), ('Latoken', 'latoken'), ('Tokenize', 'tokenize'), ('Tokenomy', 'tokenomy'), ('Tokencan', 'tokencan')];-1;-1
+True;Biki;[('Biki', 'biki'), ('RubikFarm', 'rubikfarm'), ('AvaViking', 'avaviking'), ('Rubik Finance', 'rubikfinance'), ('VikingsFinance', 'vikingsfinance')];biki;biki
+True;Nft Trader Reentrancy Attack;[('Cointrader Net', 'cointrader'), ('BTC Trade', 'btctrade'), ('AltcoinTrader', 'altcointrader'), ('Rage Trade', 'ragetrade'), ('Spice Trade', 'spicetrade')];-1;-1
+False;Safe Moon;[('Safello', 'safello'), ('SafeOHM', 'safeohm'), ('MoonDao', 'moondao'), ('Moonpot', 'moonpot'), ('SafeTrade', 'safetrade')];-1;moondao
+False;Safuu Protocol;[('B.Protocol', 'bprotocol'), ('Set Protocol', 'setprotocol'), ('Fei Protocol', 'feiprotocol'), ('Ram Protocol', 'ramprotocol'), ('Dev Protocol', 'devprotocol')];-1;feiprotocol
+False;Layer2DAO;[('Layer2 Finance', 'l2finance'), ('Bitflyer', 'bitflyer'), ('Playt.in', 'playtin'), ('KlayBank', 'klaybank'), ('KLAYSwap', 'klayswap')];-1;l2finance
+False;AlphaPo;[('Alphadex', 'alphadex'), ('BTC-Alpha', 'btcalpha'), ('AlphaBayMarket', 'alphabaymarket'), ('Alpha Homora / Homora V2', 'alphahomora'), ('MAPO', 'mapo')];-1;alphahomora
+False;ZBExchange;[('Jexchange', 'jexchange'), ('0.exchange', '0exchange'), ('xExchange', 'xexchange'), ('Vexchange', 'vexchange'), ('Btcexchange', 'btcexchange')];zbcom;-1
+True;TopGoal;[('Goat Swap', 'goatswap'), ('Koala Defi', 'koaladefi'), ('BTC.top', 'btctop'), ('Topbtc', 'topbtc'), ('BitoPro', 'bitopro')];-1;-1
+True;PancakeSwap (2);[('PancakeSwap (AMM, v2, Stableswap) PancakeSwap StableSwap', 'pancakeswapnew'), ('SakeSwap', 'sakeswap'), ('CakeWSwap', 'cakewswap'), ('CakeDAO', 'cakedao'), ('CakeTomb', 'caketomb')];pancakeswapnew;pancakeswapnew
+True;Nikhil Gopalani Wallet;[('Dove Wallet', 'dovewallet'), ('Ambire Wallet', 'ambirewallet'), ('Wallex', 'wallex'), ('GoPax', 'gopax'), ('MyEtherWallet', 'myetherwallet')];-1;-1
+False;Bitcoin Norway;[('Bitcoin India', 'bitcoinindia'), ('bitcoin.de', 'bitcoinde'), ('Bitcoin-24', 'bitcoin24'), ('Bitcoin Russia', 'bitcoinrussia'), ('Bitcoin Bourse', 'bitcoin-bourse')];-1;bitcoinindia
+True;MonoX;[('MonoX', 'monox'), ('Monolith', 'monolith'), ('Aequinox', 'aequinox'), ('Kryptono', 'kryptono'), ('MetaCrono', 'metacrono')];monox;monox
+False;BitConnect;[('connectbtc', 'connectbtc'), ('Connext', 'connext'), ('Hanbitco', 'hanbitco'), ('Bitcoin-24', 'bitcoin24'), ('bitcoin.de', 'bitcoinde')];-1;connectbtc
+True;BadgerDAO;[('Badger DAO', 'badger'), ('EnterDAO', 'enterdao'), ('MakerDAO', 'maker'), ('PaperDAO', 'paperdao'), ('Ledger', 'ledger')];badger;badger
+True;Bloom exploit on Blast;[('Iron Bank', 'ironbank'), ('ElasticSwap', 'elasticswap'), ('DexPad', 'dexpad'), ('Cranium Exchange', 'craniumexchange'), ('DeepLock', 'deeplock')];-1;-1
+False;EraLend Exploit;[('MahaLend', 'mahalend'), ('LlamaLend', 'llamalend'), ('KLend', 'klend'), ('CroLend Finance', 'crolendfinance'), ('Solend', 'solend')];-1;mahalend
+False;TEDDY DOGE;[('Teddy Cash', 'teddycash'), ('DogeSwap', 'dogeswap'), ('Optidoge', 'optidoge'), ('DogeClaw', 'dogeclaw'), ('2Doge/FDoge Finance', '2dogefinance')];teddycash;dogeswap
+True;Grim Finance;[('Grim Finance', 'grimfinance'), ('Optim Finance', 'optimfinance'), ('DAM Finance', 'damfinance'), ('Team Finance', 'teamfinance'), ('dAMM Finance', 'dammfinance')];grimfinance;grimfinance
+True;Bitcoin Sheikh;[('Bitcoin India', 'bitcoinindia'), ('bitcoin.de', 'bitcoinde'), ('Bitcoin-24', 'bitcoin24'), ('Bitcoin Russia', 'bitcoinrussia'), ('Bitcoin Bourse', 'bitcoin-bourse')];-1;-1
+True;Moola Market;[('Moola Market', 'moolamarket'), ('Hydra Market', 'hydramarket'), ('Market', 'market'), ('Mango Markets', 'mangomarkets'), ('Swarm Markets', 'swarmmarkets')];moolamarket;moolamarket
+True;Blueberry's Protocol Exploit;[('Numbers Protocol', 'numbersprotocol'), ('Mars Protocol', 'marsprotocol'), ('Eris Protocol', 'erisprotocol'), ('Spool Protocol', 'spoolprotocol'), ('BlueBit', 'bluebit')];-1;-1
+False;YFFS Finance;[('S Finance', 'sfinance'), ('V3S Finance', 'v3sfinance'), ('AGS Finance', 'agsfinance'), ('VVS Finance', 'vvsfinance'), ('NAOS Finance', 'naosfinance')];-1;sfinance
+False;Horizon by Harmony;[('Horizon Protocol', 'horizonprotocol'), ('Orion Money', 'orionmoney'), ('Euphoria', 'euphoria'), ('Risk Harbor', 'riskharbor'), ('Iron Bank', 'ironbank')];-1;horizonprotocol
+True;Vires Finance;[('Vires Finance', 'viresfinance'), ('Hermes Finance', 'hermesfinance'), ('S Finance', 'sfinance'), ('VVS Finance', 'vvsfinance'), ('V3S Finance', 'v3sfinance')];viresfinance;viresfinance
+False;XYearn;[('Yearn Finance', 'yearnfinance'), ('Bearn', 'bearn'), ('Earnmos', 'earnmos'), ('Earnifty', 'earnifty'), ('Know-To-Earn', 'knowtoearn')];-1;yearnfinance
+True;Mother;[('Tether (USDT)', 'tether'), ('PantherSwap', 'pantherswap'), ('Smoothy', 'smoothy'), ('PoolTogether', 'pooltogether'), ('MyEtherWallet', 'myetherwallet')];-1;-1
+True;Helio Protocol Rugpull;[('Helio Protocol', 'helioprotocol'), ('Mimo Protocol', 'mimoprotocol'), ('Silo Protocol', 'siloprotocol'), ('Taiga/Tapio Protocol', 'taigaprotocol'), ('Spool Protocol', 'spoolprotocol')];helioprotocol;helioprotocol
+False;TECRA;[('Aztec', 'aztec'), ('Crabada', 'crabada'), ('Gatecoin', 'gatecoin'), ('Tectonic', 'tectonic'), ('StarCrazy', 'starcrazy')];-1;tectonic
+True;Fake Friend Tech Rugpull;[('Luxor Tech', 'luxortech'), ('Friends With Benefits', 'friendswithbenefits'), ('Hotfriescoin', 'hotfriescoin'), ('Cake DeFi', 'cakedefi'), ('PULI', 'puli')];-1;-1
+True;ELongD Token Rugpull;[('xToken', 'xtoken'), ('Latoken', 'latoken'), ('Longdrink', 'longdrink'), ('Tokenlon (The Tokenized Bitcoin)', 'tokenlon'), ('Tokenomy', 'tokenomy')];-1;-1
+False;Doglands;[('Doglands Swap', 'doglandsswap'), ('Landshare', 'landshare'), ('PandaLand', 'pandaland'), ('Newland', 'newland'), ('Stronghands', 'stronghands')];-1;doglandsswap
+True;Artificial intelligence robot;[('Eobot', 'eobot'), ('TiFi', 'tifi'), ('Axl Inu', 'axlinu'), ('Printer Financial', 'printerfinancial'), ('OptiFi', 'optifi')];-1;-1
+False;Monkey Kingdom;[('Crystalvale (Defi Kingdoms)', 'defikingdomscrystalvale'), ('Mesher / donkey', 'mesher'), ('KingDefi', 'kingdefi'), ('BoringDAO', 'boringdao'), ('miningkings', 'miningkings')];-1;defikingdomscrystalvale
+True;Utopia Exploit;[('Ottopia', 'ottopia'), ('Dystopia', 'dystopia'), ('Cryptopia', 'cryptopia'), ('Zootopia Finance', 'zootopiafinance'), ('DexPad', 'dexpad')];-1;-1
+True;XAI Token Rugpull;[('xToken', 'xtoken'), ('Latoken', 'latoken'), ('Tokenomy', 'tokenomy'), ('Tokenize', 'tokenize'), ('Tokencan', 'tokencan')];-1;-1
+True;MoltenSwap;[('BenSwap', 'benswap'), ('OpenSwap', 'openswap'), ('LumenSwap', 'lumenswap'), ('WardenSwap', 'wardenswap'), ('ChickenSwap', 'chickenswap')];-1;-1
+False;Freeway;[('bobagateway', 'bobagateway'), ('FreeRiver', 'freeriver'), ('FreeLiquid', 'freeliquid'), ('Wayi CN', 'wayicn'), ('Timewarp', 'timewarp')];-1;bobagateway

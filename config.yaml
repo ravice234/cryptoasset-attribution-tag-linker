@@ -1,0 +1,106 @@
+actor_db: "attribution_tag_linker/db/actor_instances.yaml"
+taxonomy_db: "attribution_tag_linker/db/actor_taxonomy.yaml"
+e2e_out_path: "out/e2e/"
+el_out_path: "out/el/"
+cg_out_path: "out/cg/"
+open_ai_models: ['gpt-3.5-turbo-0125', 'gpt-4o-2024-05-13']
+unicorn_models: ['UnicornPlus', 'UnicornPlusFT']
+unicorn_path: "/opt/dlami/nvme/Unicorn"
+#
+gpt-3.5-turbo-0125:
+  chat_template: True
+  temperature: 0
+  max_tokens: 1
+  prices: [0.0005,0.0015]
+  config:
+    max_concurrency: 5
+#
+gpt-4o-2024-05-13:
+  chat_template: True
+  temperature: 0
+  max_tokens: 1
+  prices: [0.005,0.015]
+  config:
+    max_concurrency: 5
+#
+Jellyfish-7B-awq:
+  path: "/opt/dlami/nvme/Jellyfish-7B-awq"
+  chat_template: False
+  start_instruction: ""
+  end_instruction: ""
+  temperature: 0
+  max_new_tokens: 5
+  vllm_kwargs: 
+    max_num_seqs: 256
+    quantization: 'awq'
+    max_model_len: 4096
+    enable_prefix_caching: True
+    disable_sliding_window: True
+#
+Jellyfish-7B:
+  path: "/opt/dlami/nvme/Jellyfish-7B"
+  chat_template: False
+  start_instruction: ""
+  end_instruction: ""
+  temperature: 0
+  max_new_tokens: 5
+  vllm_kwargs:
+    max_num_seqs: 128
+    max_model_len: 4096
+    enable_prefix_caching: True
+    disable_sliding_window: True
+#
+Jellyfish-13B-awq:
+  path: "/opt/dlami/nvme/Jellyfish-13B-awq"
+  chat_template: False
+  start_instruction: "### Instruction:\n\n"
+  end_instruction: "\n\n### Response:\n\n"   
+  temperature: 0
+  max_new_tokens: 5
+  vllm_kwargs:
+    quantization: 'awq'
+    max_num_seqs: 256
+    max_model_len: 4096
+    enable_prefix_caching: True
+#
+Mistral-7B-Instruct-v0.3:
+  path: "/opt/dlami/nvme/Mistral-7B-Instruct-v0.3"
+  chat_template: True
+  temperature: 0
+  max_new_tokens: 1
+  vllm_kwargs:
+    max_num_seqs: 128
+    max_model_len: 4096
+    enable_prefix_caching: True
+    disable_sliding_window: True
+#
+Mistral-7B-v0.3:
+  path: "/opt/dlami/nvme/Mistral-7B-v0.3"
+  chat_template: True
+  temperature: 0
+  max_new_tokens: 1
+  vllm_kwargs:
+    max_num_seqs: 128
+    max_model_len: 4096
+    enable_prefix_caching: True
+    disable_sliding_window: True
+#
+Meta-Llama-3-8B-Instruct:
+  path: "/opt/dlami/nvme/Meta-Llama-3-8B-Instruct"
+  chat_template: True
+  temperature: 0
+  max_new_tokens: 1
+  vllm_kwargs:
+    max_num_seqs: 128
+    max_model_len: 4096
+    enable_prefix_caching: True
+#
+Meta-Llama-3-8B:
+  path: "/opt/dlami/nvme/Meta-Llama-3-8B"
+  chat_template: True
+  temperature: 0
+  max_new_tokens: 1
+  vllm_kwargs:
+    max_num_seqs: 128
+    max_model_len: 4096
+    enable_prefix_caching: True

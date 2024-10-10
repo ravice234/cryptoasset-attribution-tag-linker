@@ -1,0 +1,26 @@
+label,category,actor
+Hoo.com 2,{'exchange'},hoo
+compound_Pair_ETH_USDC,{'defi_lending'},compound
+WatchMyBit.com,{'service'},watchmybitcom
+curvefinance_UST-StableSwapUST,{'defi_dex'},curve
+fei_Tribe,{'defi'},feiprotocol
+Bithumb: Contract 1,{'exchange'},bithumb
+maker_MCD_CLIP_CALC_WBTC_A,{'defi_lending'},maker
+synthetix_Synthetix,{'defi'},synthetix
+Trade.io Token,set(),tradeio
+compound_cUSDC,{'defi_lending'},compound
+Hotbit Token (HTB),{'exchange'},hotbit
+AgoraMarket,{'market'},agoramarket
+uniswap_v3_pool_UNI_ETH,{'defi_dex'},uniswap
+compound_PriceOracleProxy,{'defi_lending'},compound
+bitfinex Stellar (XLM) and VELO hot wallet,{'exchange'},bitfinex
+Bleutrade.com,{'exchange'},bleutrade
+dydx_LiquidatorProxyV1ForSoloMargin1,{'defi'},dydx
+curvefinance_HUSD-LiquidityGauge,{'defi_dex'},curve
+dydx_StopLimitOrders1,{'defi'},dydx
+Btc.top,{'miner'},btctop
+vesper_VETH-strategy-aaveMaker,{'defi'},vesper
+Bitrue,{'exchange'},bitrue
+synthetix_Math,{'defi'},synthetix
+Huobi 39,{'exchange'},huobi
+CannabisRoadMarket,{'market'},cannabisroadmarket

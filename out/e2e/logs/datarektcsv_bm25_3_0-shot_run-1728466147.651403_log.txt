@@ -1,0 +1,116 @@
+File: data/rekt.csv
+Shots: 0
+Time: 1.7072582244873047 seconds
+Filter: filter_None
+Blocker: blocker_bm25_3
+K: 5
+CG Recall 0.3907563025210084
+Model: bm25_3
+Loading Time: 0
+Inference Time: 0
+0 Prompts/s
+Recall: 0.3907563025210084
+Precision: 0.39942857142857147
+F1: 0.39308755760368663
+Accuracy: 0.51
+
+False;TGBS Token FlashLoan;xtoken;-1;xtoken
+False;Banana Swap;banano;-1;banano
+False;Fake PAPA Token Rugpull;papadao;-1;papadao
+True;Revest;revestfinance;revestfinance;revestfinance
+True;SHIA Rugpull;-1;-1;-1
+True;Trade.io;tradeio;tradeio;tradeio
+True;Team Finance;teamfinance;teamfinance;teamfinance
+True;BONK Inu (Fake);-1;-1;-1
+False;Empower AI Rug Pull;unipower;-1;unipower
+True;Tinyman;tinyman;tinyman;tinyman
+True;BearnDAO Exploit;bearn;bearn;bearn
+True;Mirror Protocol;mirror;mirror;mirror
+True;Samudai Exploit;-1;-1;-1
+True;Inverse Finance (2);inversefinancefrontier;inversefinancefrontier;inversefinancefrontier
+False;SharkTron;sharkswap;-1;sharkswap
+True;Hachiko Rugpull;-1;-1;-1
+False;Fake Celestia Token Rugpull;xtoken;-1;xtoken
+True;Neutrino USD (Neutrino Index Token);neutrino;neutrino;neutrino
+True;Curve.Finance;curve;curve;curve
+False;FEGToken;xtoken;fegex;xtoken
+False;PIPI Token Rugpull;xtoken;pippi;xtoken
+True;PARALUNI;paralunidex;paralunidex;paralunidex
+True;Yapizon;-1;-1;-1
+False;Galaxy Fox Token Exploit;xtoken;-1;xtoken
+False;PolBase Cash;onecash;-1;onecash
+True;MerchDAO;-1;-1;-1
+False;Treasure Swap;treasuredao;-1;treasuredao
+True;Bogged Finance;boggedfinance;boggedfinance;boggedfinance
+False;Shadetech;shadecash;-1;shadecash
+True;mCoin;-1;-1;-1
+True;Fintoch;-1;-1;-1
+True;Multichain;multichain;multichain;multichain
+False;Custom Lending Pool Exploit;lendingpond;-1;lendingpond
+True;Vanity address exploit;-1;-1;-1
+False;Soft Yearn Finance;yearnfinance;-1;yearnfinance
+True;Rodeo Finance Exploit;-1;-1;-1
+True;Crema Finance;cremafinance;cremafinance;cremafinance
+True;EarnHub;-1;-1;-1
+False;Poolz Finance;fuzzfinance;-1;fuzzfinance
+False;PolyButterfly;butterswap;-1;butterswap
+True;Orbit Bridge Exploit;orbitbridge;orbitbridge;orbitbridge
+True;Umbrella Network (2);umbrella;umbrella;umbrella
+True;MTDAO;-1;-1;-1
+False;Nebula Revelation Exploit;positionexchange;-1;positionexchange
+False;PREMINT | NFT;premio;-1;premio
+True;Speadefi Exploit;-1;-1;-1
+True;SushiSwap (2);sushiswap;sushiswap;sushiswap
+False;CIRCLE fake token rug pull;meritcircle;circle;meritcircle
+False;Carson Flash Loan Attack;protonloan;-1;protonloan
+False;Binance;-1;binance;-1
+True;Massive Phishing Attack;-1;-1;-1
+True;Value DeFi;valueliquid;valueliquid;valueliquid
+False;AI C-3PO Token Rug Pull;xtoken;-1;xtoken
+False;Fake EigenLayer Token Rugpull;xtoken;-1;xtoken
+False;Fake zkSync Rugpull;zigzag;-1;zigzag
+False;IRA Financial;deltafinancial;-1;deltafinancial
+True;BT.Finance;btfinance;btfinance;btfinance
+True;UniBot Exploit;-1;-1;-1
+False;Themis Protocol;artemisprotocol;-1;artemisprotocol
+False;Fairmoon;fairfi;-1;fairfi
+False;URF Token Rug Pull;xtoken;-1;xtoken
+True;Dragoma;-1;-1;-1
+False;Condom token Rug Pull;xtoken;-1;xtoken
+True;Biki;biki;biki;biki
+False;Nft Trader Reentrancy Attack;cointrader;-1;cointrader
+True;Safe Moon;-1;-1;-1
+False;Safuu Protocol;bprotocol;-1;bprotocol
+False;Layer2DAO;l2finance;-1;l2finance
+False;AlphaPo;alphadex;-1;alphadex
+False;ZBExchange;jexchange;zbcom;jexchange
+True;TopGoal;-1;-1;-1
+True;PancakeSwap (2);pancakeswapnew;pancakeswapnew;pancakeswapnew
+False;Nikhil Gopalani Wallet;dovewallet;-1;dovewallet
+False;Bitcoin Norway;bitcoinindia;-1;bitcoinindia
+True;MonoX;monox;monox;monox
+False;BitConnect;connectbtc;-1;connectbtc
+True;BadgerDAO;badger;badger;badger
+True;Bloom exploit on Blast;-1;-1;-1
+True;EraLend Exploit;-1;-1;-1
+True;TEDDY DOGE;teddycash;teddycash;teddycash
+True;Grim Finance;grimfinance;grimfinance;grimfinance
+False;Bitcoin Sheikh;bitcoinindia;-1;bitcoinindia
+True;Moola Market;moolamarket;moolamarket;moolamarket
+False;Blueberry's Protocol Exploit;numbersprotocol;-1;numbersprotocol
+False;YFFS Finance;sfinance;-1;sfinance
+False;Horizon by Harmony;horizonprotocol;-1;horizonprotocol
+True;Vires Finance;viresfinance;viresfinance;viresfinance
+True;XYearn;-1;-1;-1
+True;Mother;-1;-1;-1
+True;Helio Protocol Rugpull;helioprotocol;helioprotocol;helioprotocol
+True;TECRA;-1;-1;-1
+False;Fake Friend Tech Rugpull;luxortech;-1;luxortech
+False;ELongD Token Rugpull;xtoken;-1;xtoken
+False;Doglands;doglandsswap;-1;doglandsswap
+False;Artificial intelligence robot;eobot;-1;eobot
+False;Monkey Kingdom;defikingdomscrystalvale;-1;defikingdomscrystalvale
+False;Utopia Exploit;ottopia;-1;ottopia
+False;XAI Token Rugpull;xtoken;-1;xtoken
+False;MoltenSwap;benswap;-1;benswap
+True;Freeway;-1;-1;-1

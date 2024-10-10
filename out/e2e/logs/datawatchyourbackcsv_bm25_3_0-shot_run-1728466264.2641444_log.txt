@@ -1,0 +1,142 @@
+File: data/watchyourback.csv
+Shots: 0
+Time: 1.696650505065918 seconds
+Filter: filter_None
+Blocker: blocker_bm25_3
+K: 5
+CG Recall 0.4972693032015066
+Model: bm25_3
+Loading Time: 0
+Inference Time: 0
+0 Prompts/s
+Recall: 0.4972693032015066
+Precision: 0.4989130434782609
+F1: 0.4950703316556974
+Accuracy: 0.5158730158730159
+
+True;1xbit;-1;-1;-1
+False;VirtualCurrencyExchange1;currency;-1;currency
+False;VirtualCurrencyExchange10;currency;-1;currency
+False;VirtualCurrencyExchange11;currency;-1;currency
+False;VirtualCurrencyExchange2;currency;-1;currency
+False;VirtualCurrencyExchange3;currency;-1;currency
+False;VirtualCurrencyExchange4;currency;-1;currency
+False;VirtualCurrencyExchange5;currency;-1;currency
+False;VirtualCurrencyExchange6;currency;-1;currency
+False;VirtualCurrencyExchange8;currency;-1;currency
+False;VirtualCurrencyExchange9;currency;-1;currency
+False;any-cash;paycash;-1;paycash
+False;betcoin-dice;betcoindicetm;betcoinag;betcoindicetm
+False;binance;-1;binance;-1
+True;bitbank;bitbank;bitbank;bitbank
+True;bitcointoyou;bitcointoyou;bitcointoyou;bitcointoyou
+True;bitcointoyou.com;bitcointoyou;bitcointoyou;bitcointoyou
+True;bitfinex;bitfinex;bitfinex;bitfinex
+True;bitflyer;bitflyer;bitflyer;bitflyer
+True;bitlaunder;bitlaundercom;bitlaundercom;bitlaundercom
+True;bitpanda;bitpanda;bitpanda;bitpanda
+True;bittrex;bittrex;bittrex;bittrex
+True;bitzlato;bitzlato;bitzlato;bitzlato
+True;blender.io;blenderio;blenderio;blenderio
+True;blockchain.info;blockchain;blockchain;blockchain
+False;btcbank.com.ua;bankcex;-1;bankcex
+True;changelly;changelly;changelly;changelly
+True;changenow;changenow;changenow;changenow
+False;clipboardwallethijacker;myetherwallet;-1;myetherwallet
+True;coinbase;coinbase;coinbase;coinbase
+False;coincloud;cloudbetcom;-1;cloudbetcom
+False;coincola;bitcoincoid;-1;bitcoincoid
+False;coinfloor.co.uk;coinflex;coinfloor;coinflex
+False;coinimal.com;minimax;-1;minimax
+True;coinmate;coinmate;coinmate;coinmate
+True;coinpayments;coinpaymentsnet;coinpaymentsnet;coinpaymentsnet
+True;coins.co.th;coinscoth;coinscoth;coinscoth
+True;coinspot.com.au;coinspot;coinspot;coinspot
+True;costis;-1;-1;-1
+True;cryptocom;cryptocom;cryptocom;cryptocom
+True;cryptolocker;cryptolocker;cryptolocker;cryptolocker
+True;cryptolocker-4.0;cryptolocker;cryptolocker;cryptolocker
+True;cryptonator;cryptonatorcom;cryptonatorcom;cryptonatorcom
+False;darklaunder;bitlaundercom;-1;bitlaundercom
+False;dsx-exchange;xexchange;-1;xexchange
+False;duckdice.io;pocketdiceio;-1;pocketdiceio
+False;easywallet;wallex;-1;wallex
+True;elon-musk;-1;-1;-1
+True;exmo;exmo;exmo;exmo
+True;f2pool;f2pool;f2pool;f2pool
+False;faucethub;faucetboxcom;-1;faucetboxcom
+True;fbi;-1;-1;-1
+True;foxbit;foxbit;foxbit;foxbit
+False;freewallet;wallex;-1;wallex
+False;ftx;-1;ftx;-1
+True;gamer;-1;-1;-1
+True;gate.io;gate;gate;gate
+True;gopax;gopax;gopax;gopax
+True;hamas;-1;-1;-1
+True;hamas-fto;-1;-1;-1
+False;helix-extensive-usage;helixmixer;helix;helixmixer
+True;huobi;huobi;huobi;huobi
+True;huobi.com;huobi;huobi;huobi
+True;indodax;indodax;indodax;indodax
+False;intermediary-to-small-exchange-1;vexchange;-1;vexchange
+True;korbit.co.kr;korbit;korbit;korbit
+True;kraken;kraken;kraken;kraken
+True;kucoin;kucoin;kucoin;kucoin
+True;litebit;litebit;litebit;litebit
+True;litebit.eu;litebit;litebit;litebit
+True;localbitcoins;localbitcoins;localbitcoins;localbitcoins
+True;luckybit;luckybit;luckybit;luckybit
+True;maicoin;maicoin;maicoin;maicoin
+False;matic;swapmatic;polygonbridgestaking;swapmatic
+False;mine.exchange;vexchange;-1;vexchange
+True;mybitcoin.com;mybitcoincom;mybitcoincom;mybitcoincom
+False;mycryptomixer;cryptomineio;-1;cryptomineio
+False;okex;-1;okex;-1
+True;omegapro.world;-1;-1;-1
+False;pandukelana2712;pandaland;-1;pandaland
+True;paxful;paxful;paxful;paxful
+True;payeer;-1;-1;-1
+True;phorpiex;-1;-1;-1
+True;poloniex;poloniex;poloniex;poloniex
+True;remitano;remitano;remitano;remitano
+False;renbtc;-1;ren;-1
+False;renrenbit;buenbit;-1;buenbit
+False;satoshibones;satoshibetcom;bitzillionscom;satoshibetcom
+True;satoshidice;satoshidicecom;satoshidicecom;satoshidicecom
+True;sextorsion;-1;-1;-1
+True;shapeshift;shapeshift;shapeshift;shapeshift
+False;siaclassicteam;terraswap;-1;terraswap
+False;silkroad;silkroad2market;silkroadmarketplace;silkroad2market
+False;sinovatechain;novadax;-1;novadax
+False;small-exchange-1;0exchange;-1;0exchange
+True;spectrocoin;spectrocoin;spectrocoin;spectrocoin
+True;sygnia;-1;-1;-1
+True;tether-scrambler-eth;tether;tether;tether
+False;totalcoin;coinfalcon;-1;coinfalcon
+True;tradeogre;tradeogre;tradeogre;tradeogre
+True;uniswap;uniswap;uniswap;uniswap
+False;uniswap/huobi;huobi;uniswap;huobi
+False;unknown-owner-111;unknown;-1;unknown
+False;unknown-owner-24;unknown;-1;unknown
+False;unknown-owner-3;unknown;-1;unknown
+True;unocoin;unocoin;unocoin;unocoin
+False;usdc;-1;circle;-1
+False;usdc-burn-bot;-1;circle;-1
+True;vce2;-1;-1;-1
+True;vce4;-1;-1;-1
+True;wallet-11-(huobi-trader);huobi;huobi;huobi
+False;wallet-2-(ping-tx);wallex;-1;wallex
+False;wallet-3-(large-trader);wallex;-1;wallex
+False;wallet-4-(large-trader);wallex;-1;wallex
+False;wallet-6-(stablecoin-trader);altcointrader;nan;altcointrader
+False;wallet-7-(stablecoin-trader);altcointrader;-1;altcointrader
+False;wallet-8-(trader);wallex;-1;wallex
+False;wallet-9-(stablecoin-trader);altcointrader;-1;altcointrader
+True;webmoney;-1;-1;-1
+False;whale;whaleex;-1;whaleex
+False;whitebit;whitebit;polygonbridgestaking;whitebit
+False;wintermute;-1;whitebit;-1
+False;xapo;xapo;-1;xapo
+False;xzzx.biz;-1;xapo;-1
+False;yolo-group;btngroup;-1;btngroup
+False;z-exchange.ru;btcexchangero;-1;btcexchangero
