@@ -64,4 +64,14 @@ python3 e2e.py -f "data/gs_test.csv" -ft "related-concept" -b "bm25_3" -k 5 -m "
 
 Please consider citing our paper:
 
-TBD
+```
+@misc{avice2025linkingcryptoassetattributiontags,
+      title={Linking Cryptoasset Attribution Tags to Knowledge Graph Entities: An LLM-based Approach}, 
+      author={Régnier Avice and Bernhard Haslhofer and Zhidong Li and Jianlong Zhou},
+      year={2025},
+      eprint={2502.10453},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2502.10453}, 
+}
+```
