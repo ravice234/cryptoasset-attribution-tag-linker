@@ -4,6 +4,9 @@
 
 This repository contains the code for the paper: "Linking Cryptoasset Attribution Tags to Knowledge Graph Entities: An LLM-based Approach". [Paper Link](https://arxiv.org/abs/2502.10453)
 
+[kg.pdf](https://github.com/user-attachments/files/27421329/kg.pdf)
+
+
 ## Installation
 
 1. Install requirements:
